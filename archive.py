@@ -6,7 +6,6 @@ archive.py — IncandescenceReader 一体化存档工具
 合并了原本分散在 8 个脚本里的所有功能：
   fetch_json.py / 0037.py 的下载部分 → fetch-html
   fetch_media.py                    → fetch-media
-  0037.py 的清洗部分                → clean-html
   build_index.py                    → build-index
   fetch_avatars.py                  → fetch-avatars
   dedup_media.py                    → dedup
@@ -112,11 +111,6 @@ DONE_AVATAR          = os.path.join(LOG_DIR, "avatar_done.txt")
 FAILED_AVATAR        = os.path.join(LOG_DIR, "avatar_failed.txt")
 FAILED_AVATAR_ALL    = os.path.join(LOG_DIR, "avatar_failed_all.txt")
 
-# HTML 清洗级（HTML 文件名粒度）
-DONE_CLEAN           = os.path.join(LOG_DIR, "clean_done.txt")
-FAILED_CLEAN         = os.path.join(LOG_DIR, "clean_failed.txt")
-FAILED_CLEAN_ALL     = os.path.join(LOG_DIR, "clean_failed_all.txt")
-
 # 所有 .txt 文件的列表（用于初始化时统一确保存在）
 ALL_LOG_TXT_FILES = [
     DONE_HTML, FAILED_HTML, FAILED_HTML_ALL,
@@ -124,7 +118,6 @@ ALL_LOG_TXT_FILES = [
     DONE_IMAGE, FAILED_IMAGE, FAILED_IMAGE_ALL,
     DONE_VIDEO, FAILED_VIDEO, FAILED_VIDEO_ALL,
     DONE_AVATAR, FAILED_AVATAR, FAILED_AVATAR_ALL,
-    DONE_CLEAN, FAILED_CLEAN, FAILED_CLEAN_ALL,
 ]
 
 # 旧版兼容（仅用于迁移检测；新代码用上面的常量）
@@ -134,7 +127,6 @@ LEGACY_DONE_MEDIA          = os.path.join(OUTPUT_DIR, "_done_list_media.txt")
 LEGACY_FAILED_HTML         = os.path.join(OUTPUT_DIR, "_html_failed.txt")
 LEGACY_FAILED_MEDIA        = os.path.join(OUTPUT_DIR, "_media_failed.txt")
 LEGACY_FAILED_AVATARS      = os.path.join(OUTPUT_DIR, "_avatars_failed.txt")
-LEGACY_FAILED_CLEAN        = os.path.join(OUTPUT_DIR, "_clean_failed.txt")
 
 # 清单与备份
 URL_LIST_FILE   = os.path.join(OUTPUT_DIR, "_url_list.txt")
@@ -453,7 +445,6 @@ KIND_IMAGE  = "images"
 KIND_VIDEO  = "videos"
 KIND_AVATAR = "avatars"
 KIND_MEDIA  = "media"      # JSON 文件级
-KIND_CLEAN  = "clean"      # HTML 文件名级
 
 # kind → 三个 .txt 文件路径
 KIND_TO_TXT_FILES: dict[str, tuple[str, str, str]] = {
@@ -462,7 +453,6 @@ KIND_TO_TXT_FILES: dict[str, tuple[str, str, str]] = {
     KIND_VIDEO:  (DONE_VIDEO,  FAILED_VIDEO,  FAILED_VIDEO_ALL),
     KIND_AVATAR: (DONE_AVATAR, FAILED_AVATAR, FAILED_AVATAR_ALL),
     KIND_MEDIA:  (DONE_MEDIA,  FAILED_MEDIA,  FAILED_MEDIA_ALL),
-    KIND_CLEAN:  (DONE_CLEAN,  FAILED_CLEAN,  FAILED_CLEAN_ALL),
 }
 
 
@@ -476,7 +466,6 @@ def _make_empty_archive_index() -> dict:
         KIND_VIDEO:  {},
         KIND_AVATAR: {},
         KIND_MEDIA:  {},
-        KIND_CLEAN:  {},
     }
 
 
@@ -1472,22 +1461,6 @@ def dedupe_snapshots(snapshots: list[tuple[str, str]]) -> list[tuple[str, str]]:
     return out
 
 
-# ============================================================================
-# ── HTML：JSON 提取、清洗、Source 注释处理 ─────────────────────────────────
-# ============================================================================
-
-# 用于剥离 prettify 后 HTML 顶部所有 Source 注释行（含可能的空行）
-_SOURCE_COMMENT_RE = re.compile(
-    r"\A(?:\s*<!--\s*Source:[^>]*-->\s*\n?)+",
-    re.IGNORECASE,
-)
-
-
-def strip_existing_source_comments(html_text: str) -> str:
-    """剥掉 HTML 开头所有连续的 <!-- Source: ... --> 注释（防止重复累积）。"""
-    return _SOURCE_COMMENT_RE.sub("", html_text)
-
-
 def extract_json_from_page(html_text: str) -> dict | None:
     """从 wayback if_ 页面提取推文 JSON（来源：<div id='jsonview'><pre>）。"""
     soup = BeautifulSoup(html_text, "html.parser")
@@ -1514,151 +1487,6 @@ def _clean_script_content(src: str) -> str:
     return src
 
 
-def clean_html_text(html_text: str, source_url: str, media_index: MediaIndex) -> str:
-    """
-    清洗与改写 HTML：
-      1. 剥掉已有的 Source 注释（防止累积）
-      2. 清理 <script> 里的 jsonview 噪声
-      3. 改写头像 src → ../avatar/avatar_{pid}.{ext}（找不到本地则按 name 反射）
-      4. 改写推文图片 src → ../image/{filename}
-      5. BS4：删 notice / jsonview / 无效图视频，替换 video src
-      6. prettify + 去多余空行
-      7. 顶部恰好写入 1 行 <!-- Source: ... -->
-    """
-    # 1. 剥旧 Source
-    html_text = strip_existing_source_comments(html_text)
-
-    # 2. script 清理
-    html_text = re.sub(
-        r"(<script[^>]*>)(.*?)(</script>)",
-        lambda m: m.group(1) + _clean_script_content(m.group(2)) + m.group(3),
-        html_text,
-        flags=re.DOTALL,
-    )
-
-    # 3. 替换头像 src（用正则，比 BS4 更精确地处理嵌入推文里的多个头像）
-    def avatar_replacer(match: re.Match) -> str:
-        tag = match.group(0)
-        src_m = re.search(
-            r'src="(https://web\.archive\.org/web/\d+im_/https://[^"]*profile_images/[^"]+)"',
-            tag,
-        )
-        if not src_m:
-            return tag
-        src_url = src_m.group(1)
-        pid = extract_profile_image_id(src_url)
-        alt_m = re.search(r'alt="([^"]*)"', tag)
-        name = alt_m.group(1) if alt_m else ""
-
-        fn, _hit = media_index.find_avatar(pid=pid, name=name)
-        if fn:
-            return tag.replace(src_m.group(0), f'src="../avatar/{fn}"')
-        # 找不到，给个预期文件名，后面 BS4 会删除找不到对应文件的标签
-        if pid:
-            ext = ".png" if ".png" in src_url.lower() else (
-                  ".gif" if ".gif" in src_url.lower() else ".jpg")
-            return tag.replace(src_m.group(0), f'src="../avatar/avatar_{pid}{ext}"')
-        return tag
-
-    html_text = re.sub(
-        r'<img\s[^>]*src="https://web\.archive\.org/web/\d+im_/https://[^"]*profile_images/[^"]+"[^>]*/?>',
-        avatar_replacer,
-        html_text,
-    )
-
-    # 4. 替换推文图片 src
-    def image_replacer(match: re.Match) -> str:
-        prefix  = match.group(1)
-        src_url = match.group(2)
-        suffix  = match.group(3)
-        basename = extract_image_basename(src_url)
-        if basename:
-            fn = media_index.find_image(basename)
-            if fn:
-                return f'{prefix}../image/{fn}{suffix}'
-        return match.group(0)
-
-    html_text = re.sub(
-        r'(<img\s[^>]*class="tweet-image[^"]*"[^>]*src=")(https://web\.archive\.org/web/\d+im_/[^"]+)(")',
-        image_replacer,
-        html_text,
-    )
-    html_text = re.sub(
-        r'(<img\s[^>]*src=")(https://web\.archive\.org/web/\d+im_/[^"]+)("[^>]*class="tweet-image[^"]*")',
-        image_replacer,
-        html_text,
-    )
-
-    # 5. BS4：删 notice / jsonview / 无效媒体；替换 video
-    soup = BeautifulSoup(html_text, "html.parser")
-
-    for tag in soup.find_all("div", class_="notice"):
-        tag.decompose()
-    for tag in soup.find_all("div", id="jsonview"):
-        tag.decompose()
-
-    # 图片：fn=None 时替换失败（media_index 里没记录，本地文件名未知），
-    # src 仍为 wayback 远程地址 → 删掉，防止 Pages 上出现外链或破图
-    for tag in soup.find_all("img", class_="tweet-image"):
-        src = tag.get("src", "")
-        if "web.archive.org" in src or src.startswith("http"):
-            tag.decompose()
-
-    # 头像：已始终替换为预期本地路径 ../avatar/avatar_<pid>.jpg
-    # 文件不存在时由前端 onerror 处理（不显示破图），无需删除标签
-
-    # 处理每个 <video>
-    for video_tag in soup.find_all("video"):
-        # 删 m3u8 source
-        for src_tag in video_tag.find_all("source"):
-            if ".m3u8" in src_tag.get("src", "").lower():
-                src_tag.decompose()
-
-        mp4_sources = video_tag.find_all("source")
-        if not mp4_sources:
-            video_tag.decompose()
-            continue
-
-        first_src = mp4_sources[0].get("src", "")
-        media_key = extract_video_media_key(first_src)
-        local_vname = ""
-        if media_key:
-            local_vname = media_index.find_video(media_key)
-            if local_vname and not os.path.exists(os.path.join(VIDEO_DIR, local_vname)):
-                local_vname = ""
-
-        if local_vname:
-            for src_tag in mp4_sources:
-                src_tag.decompose()
-            new_source = soup.new_tag("source", src=f"../video/{local_vname}", type="video/mp4")
-            video_tag.append(new_source)
-        else:
-            video_tag.decompose()
-
-    # 6. prettify + 去多余空行
-    try:
-        formatted = soup.prettify(indent_chars="  ")  # bs4 >= 4.13
-    except TypeError:
-        raw = soup.prettify()
-        lines = []
-        for line in raw.splitlines():
-            stripped = line.lstrip(" ")
-            depth = (len(line) - len(stripped)) // 4
-            lines.append("  " * depth + stripped)
-        formatted = "\n".join(lines)
-
-    result_lines = []
-    prev_blank = False
-    for line in formatted.splitlines():
-        is_blank = not line.strip()
-        if is_blank and prev_blank:
-            continue
-        result_lines.append(line)
-        prev_blank = is_blank
-    cleaned = "\n".join(result_lines)
-
-    # 7. 顶部写入恰好 1 行 Source 注释
-    return f"<!-- Source: {source_url} -->\n" + cleaned
 # ============================================================================
 # ── 子命令: fetch-html ──────────────────────────────────────────────────────
 # ============================================================================
@@ -2407,159 +2235,6 @@ def cmd_fetch_avatars(args: argparse.Namespace) -> int:
 
 
 # ============================================================================
-# ── 子命令: clean-html ──────────────────────────────────────────────────────
-# ============================================================================
-#
-# 读 html/ 里的 raw HTML，重写媒体路径为本地引用，原地覆盖。
-# 通过判断顶部是否已有 <!-- Source: ... --> 注释来识别"已清洗"，
-# 默认跳过已清洗文件；--force 强制重清；--retry 从失败列表读。
-# ============================================================================
-
-def _is_html_cleaned(path: str) -> bool:
-    """读前 2KB 判断是否已清洗（有 Source 注释）。"""
-    try:
-        with open(path, encoding="utf-8") as f:
-            head = f.read(2048)
-        return bool(_SOURCE_COMMENT_RE.match(head))
-    except Exception:
-        return False
-
-
-def _extract_source_url_from_filename(fname: str) -> str:
-    """
-    从 html 文件名反推回 wayback 的 if_ URL，作为 Source 注释里的来源标记。
-    安全 fallback：如果反推不出来就用文件名本身。
-    """
-    # safe_filename 格式：{ts}_{clean}.html
-    base = fname[:-5] if fname.endswith(".html") else fname
-    ts = extract_timestamp_from_filename(base)
-    if not ts:
-        return f"local://{fname}"
-    rest = base[len(ts) + 1:]
-    # rest 是被 safe_filename 清洗过的 URL，不一定能完美还原
-    # 但保留 ts 和 cleaned-url 形式即可（足够追溯）
-    return f"https://web.archive.org/web/{ts}if_/{rest}"
-
-
-def cmd_clean_html(args: argparse.Namespace) -> int:
-    """子命令入口：清洗 html/ 里的 HTML。"""
-    ensure_output_dirs()
-    load_archive_index()
-    install_sigint_handler()
-    start_archive_index_flush_thread()
-
-    if not os.path.isdir(HTML_DIR):
-        safe_print(f"[clean-html] HTML 目录不存在：{HTML_DIR}")
-        stop_archive_index_flush_thread_and_save()
-        return 1
-
-    # 1. 候选文件
-    if args.retry:
-        retry_path = args.file or FAILED_CLEAN
-        if not os.path.exists(retry_path):
-            safe_print(f"[clean-html --retry] 失败列表不存在：{retry_path}")
-            stop_archive_index_flush_thread_and_save()
-            return 0
-        candidates = [ln for ln in load_failed_list(retry_path) if ln.endswith(".html")]
-        force = True
-    else:
-        candidates = sorted(f for f in os.listdir(HTML_DIR) if f.endswith(".html"))
-        force = bool(args.force)
-
-    if not candidates:
-        safe_print("[clean-html] 没有 HTML 文件")
-        stop_archive_index_flush_thread_and_save()
-        return 0
-
-    # 2. 跳过已清洗（非强制）
-    to_run: list[str] = []
-    skipped = 0
-    for fname in candidates:
-        path = os.path.join(HTML_DIR, fname)
-        # 优先看 archive_index 状态
-        if not force:
-            st = get_status(KIND_CLEAN, fname)
-            if st == STATUS_DONE:
-                skipped += 1
-                continue
-            if st == STATUS_FAILED_ALL:
-                skipped += 1
-                continue
-            # archive_index 没有该项 → 用旧的 Source 注释判断（兼容旧数据）
-            if st is None and _is_html_cleaned(path):
-                set_status(KIND_CLEAN, fname, STATUS_DONE)  # 补登记
-                skipped += 1
-                continue
-        to_run.append(fname)
-    if skipped:
-        safe_print(f"  跳过已清洗：{skipped} 个")
-    safe_print(f"[clean-html] 待清洗：{len(to_run)} 个")
-
-    if not to_run:
-        stop_archive_index_flush_thread_and_save()
-        return 0
-
-    # 3. 建索引（一次性，所有清洗共用）
-    media_index = build_media_index(scan_json=True)
-
-    # 4. 清洗（CPU bound，少量并发即可）
-    workers = max(1, int(args.workers))
-    failed: list[str] = []
-    success = 0
-    lock = threading.Lock()
-
-    def clean_one(fname: str, i: int) -> None:
-        nonlocal success
-        path = os.path.join(HTML_DIR, fname)
-        try:
-            with open(path, encoding="utf-8") as f:
-                content = f.read()
-        except Exception as e:
-            with lock:
-                failed.append(fname)
-                set_status(KIND_CLEAN, fname, STATUS_FAILED, reason=f"读失败：{e}"[:200])
-                safe_print(f"[{i}/{len(to_run)}] ✗ {fname}  读失败：{e}")
-            return
-
-        source_url = _extract_source_url_from_filename(fname)
-        try:
-            cleaned = clean_html_text(content, source_url, media_index)
-        except Exception as e:
-            with lock:
-                failed.append(fname)
-                set_status(KIND_CLEAN, fname, STATUS_FAILED,
-                           reason=f"清洗失败：{type(e).__name__}: {e}"[:200])
-                safe_print(f"[{i}/{len(to_run)}] ✗ {fname}  清洗失败：{type(e).__name__}: {e}")
-            return
-
-        try:
-            with open(path, "w", encoding="utf-8") as f:
-                f.write(cleaned)
-        except Exception as e:
-            with lock:
-                failed.append(fname)
-                set_status(KIND_CLEAN, fname, STATUS_FAILED, reason=f"写回失败：{e}"[:200])
-                safe_print(f"[{i}/{len(to_run)}] ✗ {fname}  写回失败：{e}")
-            return
-
-        with lock:
-            success += 1
-            set_status(KIND_CLEAN, fname, STATUS_DONE)
-            safe_print(f"[{i}/{len(to_run)}] ✓ {fname}")
-
-    with ThreadPoolExecutor(max_workers=workers) as executor:
-        futs = [executor.submit(clean_one, fn, i) for i, fn in enumerate(to_run, 1)]
-        for fut in as_completed(futs):
-            fut.result()
-
-    # 5. 状态已实时同步到 _log/clean_*.txt
-    if failed:
-        safe_print(f"[clean-html] 失败 {len(failed)} 条已实时写入 {FAILED_CLEAN}")
-
-    stop_archive_index_flush_thread_and_save()
-    safe_print(f"[clean-html] 完成：成功 {success} / 失败 {len(failed)}")
-    return 0 if not failed else 1
-# ============================================================================
 # ── 子命令: build-index（与 GitHub IncandescenceReader/build_index.py 一致）─
 # ============================================================================
 #
@@ -2631,7 +2306,7 @@ def _bi_resolve_avatar(src: str, avatar_index: dict) -> str:
     if not src:
         return src
     if src.startswith("../avatar/"):
-        return src  # 已经是本地路径（clean-html 跑过的场景，兼容）
+        return src  # 已经是本地路径
     pid = extract_profile_image_id(src)
     if pid and pid in avatar_index:
         return avatar_index[pid]
@@ -3143,10 +2818,7 @@ _RETRY_TARGETS: dict[str, tuple[bool, str, str]] = {
     "media_failed":      (False, KIND_MEDIA,  FAILED_MEDIA),
     "media_failed_all":  (True,  KIND_MEDIA,  FAILED_MEDIA_ALL),
     "html_failed":       (False, KIND_HTML,   FAILED_HTML),
-    "html_failed_all":   (True,  KIND_HTML,   FAILED_HTML_ALL),
-    "clean_failed":      (False, KIND_CLEAN,  FAILED_CLEAN),
-    "clean_failed_all":  (True,  KIND_CLEAN,  FAILED_CLEAN_ALL),
-}
+    "html_failed_all":   (True,  KIND_HTML,   FAILED_HTML_ALL),}
 
 
 def _retry_url_level_media(kind: str, urls: list[str]) -> int:
@@ -3312,28 +2984,6 @@ def _retry_html_urls(urls: list[str]) -> int:
     return rc
 
 
-def _retry_clean_files(filenames: list[str]) -> int:
-    """重试 HTML 文件清洗。"""
-    if not filenames:
-        safe_print("[retry] 没有待重试的 HTML 文件")
-        return 0
-    tmp_path = os.path.join(LOG_DIR, "_retry_tmp_clean.txt")
-    try:
-        with open(tmp_path, "w", encoding="utf-8") as f:
-            for fn in filenames:
-                f.write(fn + "\n")
-        fake_args = argparse.Namespace(
-            retry=True, force=True, file=tmp_path, workers=4,
-        )
-        rc = cmd_clean_html(fake_args)
-    finally:
-        try:
-            os.remove(tmp_path)
-        except OSError:
-            pass
-    return rc
-
-
 def cmd_retry(args: argparse.Namespace) -> int:
     """retry 子命令统一入口。"""
     ensure_output_dirs()
@@ -3381,9 +3031,6 @@ def cmd_retry(args: argparse.Namespace) -> int:
             rc = _retry_media_jsons(json_files, force=True)
         elif kind == KIND_HTML:
             rc = _retry_html_urls(items)
-        elif kind == KIND_CLEAN:
-            html_files = [x for x in items if x.endswith(".html")]
-            rc = _retry_clean_files(html_files)
         else:
             safe_print(f"[retry] 未知 kind：{kind}")
             rc = 1
@@ -3498,7 +3145,6 @@ def cmd_rebuild_index(args: argparse.Namespace) -> int:
         (DONE_IMAGE,  KIND_IMAGE), (FAILED_IMAGE_ALL,  KIND_IMAGE),  (FAILED_IMAGE,  KIND_IMAGE),
         (DONE_VIDEO,  KIND_VIDEO), (FAILED_VIDEO_ALL,  KIND_VIDEO),  (FAILED_VIDEO,  KIND_VIDEO),
         (DONE_AVATAR, KIND_AVATAR),(FAILED_AVATAR_ALL, KIND_AVATAR), (FAILED_AVATAR, KIND_AVATAR),
-        (DONE_CLEAN,  KIND_CLEAN), (FAILED_CLEAN_ALL,  KIND_CLEAN),  (FAILED_CLEAN,  KIND_CLEAN),
     ]:
         # 根据 path 的后缀决定 status
         if path.endswith("_done.txt"):
@@ -3532,7 +3178,7 @@ def cmd_rebuild_index(args: argparse.Namespace) -> int:
         _txt_sets.clear()
 
     # 对每个 (kind, key)，按当前 status 写入对应 .txt
-    for kind in [KIND_HTML, KIND_MEDIA, KIND_IMAGE, KIND_VIDEO, KIND_AVATAR, KIND_CLEAN]:
+    for kind in [KIND_HTML, KIND_MEDIA, KIND_IMAGE, KIND_VIDEO, KIND_AVATAR]:
         with _archive_index_lock:
             entries = list(idx[kind].items())
         for key, rec in entries:
@@ -3545,7 +3191,7 @@ def cmd_rebuild_index(args: argparse.Namespace) -> int:
 
     # 8. 统计
     safe_print("[rebuild-index] 完成。统计：")
-    for kind in [KIND_HTML, KIND_MEDIA, KIND_IMAGE, KIND_VIDEO, KIND_AVATAR, KIND_CLEAN]:
+    for kind in [KIND_HTML, KIND_MEDIA, KIND_IMAGE, KIND_VIDEO, KIND_AVATAR]:
         with _archive_index_lock:
             entries = idx[kind]
         if not entries:
@@ -4510,7 +4156,7 @@ def cmd_fetch_cdx(args: argparse.Namespace) -> int:
 # 把 json/ 渲染成 wayback 风格的 HTML，写入 html/。专用于私密账号场景
 # （没有真 wayback 快照，但通过 convert 拿到 dump JSON 后需要"伪造"HTML）。
 #
-# 关键：输出的 HTML 结构必须跟"真 wayback HTML + clean-html 清洗后"的产物
+# 关键：输出的 HTML 结构必须跟"真 wayback HTML"的产物
 # 严格一致，因为下游 build-index / Reader.html 用同一套 BeautifulSoup 选择器
 # 解析（#nonjsonview / .tweet-author / .tweet-content / .embedded-tweet-container
 # / .tweet-image / .tweet-video）。
@@ -5117,9 +4763,8 @@ def build_parser() -> argparse.ArgumentParser:
   fetch-html              下载 wayback HTML
   fetch-media             下载图片/视频/头像
   fetch-avatars           补缺头像
-  clean-html              清洗 HTML 重写媒体路径
   build-index             生成 Reader 用的 index.json
-  all                     fetch-html → fetch-media → clean-html → build-index
+  all                     fetch-html → fetch-media → build-index
 
 私密账号工作流（从外部 dump 转换）：
   convert <dump_dir>      把外部 dump 转成本项目格式（自动建立 archive_index）
@@ -5162,12 +4807,6 @@ def build_parser() -> argparse.ArgumentParser:
     _add_retry_args(p, FAILED_AVATAR)
     p.add_argument("--workers", type=int, default=DEFAULT_WORKERS_AVATAR)
     p.set_defaults(func=cmd_fetch_avatars)
-
-    # clean-html
-    p = sub.add_parser("clean-html", help="清洗 HTML，重写媒体路径为本地引用")
-    _add_retry_args(p, FAILED_CLEAN)
-    p.add_argument("--workers", type=int, default=4)
-    p.set_defaults(func=cmd_clean_html)
 
     # build-index
     p = sub.add_parser("build-index", help="生成 index.json（profile.json 由用户手动维护）")
@@ -5213,7 +4852,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.set_defaults(func=cmd_render_html)
 
     # all
-    p = sub.add_parser("all", help="一把梭：fetch-html → fetch-media → clean-html → build-index")
+    p = sub.add_parser("all", help="一把梭：fetch-html → fetch-media → build-index")
     p.set_defaults(func=cmd_all)
 
     # retry  ★ 新子命令：12 个子选项
