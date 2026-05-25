@@ -63,7 +63,10 @@ python ../../archive.py fetch-html
 # 第三步：下载图片、视频、头像
 python ../../archive.py fetch-media
 
-# 第四步：生成前端索引
+# 第四步：清洗 HTML 路径
+python ../../archive.py clean-html
+
+# 第五步：生成前端索引
 python ../../archive.py build-index
 ```
 
@@ -94,6 +97,7 @@ python ../../archive.py build-index
 python ../../archive.py fetch-cdx {USERNAME}
 python ../../archive.py fetch-html
 python ../../archive.py fetch-media
+python ../../archive.py clean-html
 python ../../archive.py build-index
 ```
 
@@ -150,6 +154,27 @@ python archive.py fetch-avatars [--workers N] [--force]
 ```
 
 单独补全头像下载。扫描所有推文 JSON，对本地缺失的头像重新下载。
+
+---
+
+### `clean-html`
+
+```bash
+python archive.py clean-html
+python archive.py clean-html --force
+```
+
+清洗 HTML，将媒体路径替换为本地路径：
+- **头像**：直接由 pid 构造 `../avatar/avatar_{pid}.{ext}`，唯一确定
+- **图片**：本地有则用真实文件名，没有则构造预期文件名（以后 retry 下到自动显示）
+- **视频**：本地有则替换，没有则删除 video 标签
+- **删除** Wayback Machine 工具栏和 JSON 展示元素
+
+已清洗的 HTML 自动跳过，增量跑只处理新增的。
+
+| 参数 | 说明 |
+|---|---|
+| `--force` | 强制重新清洗所有文件 |
 
 ---
 
@@ -261,14 +286,23 @@ python archive.py convert /path/to/twitter-export/
 
 手动触发（`workflow_dispatch`），分两阶段：
 1. **第一阶段**：`fetch-html` → `build-index` → 推送（纯文字版，快速上线 Pages）
-2. **第二阶段**：`fetch-media` → `build-index` → 推送（含媒体完整版）
+2. **第二阶段**：`fetch-media` → retry × 3 → `clean-html` → `build-index` → 推送
 
 ### `update.yml` — 每周增量
 
 每周日 UTC 02:00（北京时间周日 10:00）自动触发，也可手动触发：
 
 ```
-fetch-cdx → fetch-html → fetch-media → retry(failed) → build-index → push
+fetch-cdx → fetch-html → fetch-media → retry(failed) → clean-html → build-index → push
+```
+
+### `retry_all.yml` — 全量重试（手动触发）
+
+专门重试 `failed_all`（永久失败）的媒体文件，适用于 Wayback Machine 补存了之前未存档的内容：
+
+```
+retry --image-failed-all / --video-failed-all / --avatar-failed-all
+→ clean-html → build-index → push
 ```
 
 **仓库名即用户名**：workflow 自动从仓库名读取 Twitter/X 用户名，无需任何配置。
@@ -282,7 +316,7 @@ fetch-cdx → fetch-html → fetch-media → retry(failed) → build-index → p
 ```python
 # 本地使用（默认）
 REQUEST_ATTEMPTS   = 5      # 重试次数
-MAX_BACKOFF        = 120.0  # 最大退避等待秒数
+MAX_BACKOFF        = 60.0  # 最大退避等待秒数
 MEDIA_TIMEOUT_IMAGE  = (5, 40)   # (connect超时, read超时)
 WAYBACK_HTML_TIMEOUT = (5, 60)
 DEFAULT_WORKERS_HTML   = 7
