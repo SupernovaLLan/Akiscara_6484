@@ -132,21 +132,6 @@ jobs:
           cd accounts/${{ steps.info.outputs.username }}
           python3 /tmp/archive.py fetch-media || true
 
-      - name: retry --image-failed
-        run: |
-          cd accounts/${{ steps.info.outputs.username }}
-          python3 /tmp/archive.py retry --image-failed || true
-
-      - name: retry --video-failed
-        run: |
-          cd accounts/${{ steps.info.outputs.username }}
-          python3 /tmp/archive.py retry --video-failed || true
-
-      - name: retry --avatar-failed
-        run: |
-          cd accounts/${{ steps.info.outputs.username }}
-          python3 /tmp/archive.py retry --avatar-failed || true
-
       - name: clean-html
         run: |
           cd accounts/${{ steps.info.outputs.username }}
