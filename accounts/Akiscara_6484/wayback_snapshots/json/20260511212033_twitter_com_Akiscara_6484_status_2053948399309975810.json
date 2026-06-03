@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053837838366732380",
+    "created_at": "2026-05-11T21:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T22:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053948399309975810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621943298473758720",
+          "start": 0,
+          "username": "Akiscara_3405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053948399309975810",
+    "in_reply_to_user_id": "1621943298473758720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053837838366732380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_3405 我操了，我他妈服了，凭啥就我发不了，我靠，我想发我割你的手的视频。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59930,
+        "height": 1280,
+        "media_key": "7_2053836849609924609",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053836849609924609/pu/img/arRgnoCHgaZlUkfP.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053836849609924609/pu/vid/avc1/320x710/oI-JxTYfcAI8D5H9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053836849609924609/pu/vid/avc1/480x1066/qKfdKmfhHm-KgQEI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053836849609924609/pu/vid/avc1/576x1280/luy78OOZbRrmo9NM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053836849609924609/pu/pl/ERgPV-PoaeadZ2ai.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 60023,
+        "height": 576,
+        "media_key": "7_2053837061652901890",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053837061652901890/pu/img/eVBFn4c0-Vrgj-vn.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053837061652901890/pu/vid/avc1/600x270/yqTGxE9yqumlbkd4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053837061652901890/pu/vid/avc1/800x360/WmcbG8Purgbdplvo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053837061652901890/pu/vid/avc1/1280x576/lSK3WhA6tBQZ35i6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053837061652901890/pu/pl/Wcq3XTFykjYP4KGW.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 42097,
+        "height": 1280,
+        "media_key": "7_2053837513538830336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053837513538830336/pu/img/Ag1d7k903tpaRF_I.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053837513538830336/pu/vid/avc1/320x710/JQ1EHMv_9ZJMGk-s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053837513538830336/pu/vid/avc1/480x1066/XVXLJEP8_c5I2NOh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053837513538830336/pu/vid/avc1/576x1280/D9d2PHkTUPnflNrn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053837513538830336/pu/pl/XNUP9_H3is-gPSfu.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053837838366732380",
+        "created_at": "2026-05-11T21:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T22:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053948399309975810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621943298473758720",
+              "start": 0,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053948399309975810",
+        "in_reply_to_user_id": "1621943298473758720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053837838366732380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_3405 我操了，我他妈服了，凭啥就我发不了，我靠，我想发我割你的手的视频。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053836849609924609",
+            "7_2053837061652901890",
+            "7_2053837513538830336"
+          ]
+        },
+        "author_id": "1621943298473758720",
+        "conversation_id": "2053837838366732380",
+        "created_at": "2026-05-11T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053837838366732380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgYptO1EgL",
+              "end": 27,
+              "expanded_url": "https://x.com/Akiscara_3405/status/2053837838366732380/video/1",
+              "media_key": "7_2053836849609924609",
+              "start": 4,
+              "url": "https://t.co/UgYptO1EgL"
+            },
+            {
+              "display_url": "pic.x.com/UgYptO1EgL",
+              "end": 27,
+              "expanded_url": "https://x.com/Akiscara_3405/status/2053837838366732380/video/1",
+              "media_key": "7_2053837061652901890",
+              "start": 4,
+              "url": "https://t.co/UgYptO1EgL"
+            },
+            {
+              "display_url": "pic.x.com/UgYptO1EgL",
+              "end": 27,
+              "expanded_url": "https://x.com/Akiscara_3405/status/2053837838366732380/video/1",
+              "media_key": "7_2053837513538830336",
+              "start": 4,
+              "url": "https://t.co/UgYptO1EgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053837838366732380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实录。 https://t.co/UgYptO1EgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 137,
+          "like_count": 6913,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 2943
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T18:46:43.000Z",
+        "description": "=霜夜。  18↑ 非二元性别｜双相情感障碍+重度焦虑  药物治疗中｜阿咖酚散仙人desu  普瑞巴林重度依赖｜@cnmdsjdqs小玖非常萌w｜@STULRS永远的老哥｜@sev_cloud我的小宝｜@Akiscara_6484妹妹｜@Hosinokaede0717 亲爱的老鸨｜🚪88｜互关请私信查成分会回。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "cnmdsjdqs"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "STULRS"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "sev_cloud"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Akiscara_6484"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Hosinokaede0717"
+              }
+            ]
+          }
+        },
+        "id": "1621943298473758720",
+        "location": "无限城",
+        "name": "霜皇帝☁︎☾.‎˖٭",
+        "pinned_tweet_id": "2039992741220999534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018862283078905857/d3yzQtFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 974,
+          "like_count": 22425,
+          "listed_count": 4,
+          "media_count": 917,
+          "tweet_count": 10736
+        },
+        "username": "Akiscara_3405",
+        "verified": false
+      }
+    ]
+  }
+}

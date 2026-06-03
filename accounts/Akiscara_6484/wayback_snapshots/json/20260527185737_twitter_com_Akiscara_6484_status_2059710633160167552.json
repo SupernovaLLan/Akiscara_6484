@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059710610909323264",
+        "3_2059710624846970880",
+        "3_2059710615992864768"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059710633160167552",
+    "created_at": "2026-05-27T18:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059710633160167552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2cbtlr1xBE",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2059710633160167552/photo/1",
+          "media_key": "3_2059710610909323264",
+          "start": 0,
+          "url": "https://t.co/2cbtlr1xBE"
+        },
+        {
+          "display_url": "pic.x.com/2cbtlr1xBE",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2059710633160167552/photo/1",
+          "media_key": "3_2059710624846970880",
+          "start": 0,
+          "url": "https://t.co/2cbtlr1xBE"
+        },
+        {
+          "display_url": "pic.x.com/2cbtlr1xBE",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2059710633160167552/photo/1",
+          "media_key": "3_2059710615992864768",
+          "start": 0,
+          "url": "https://t.co/2cbtlr1xBE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059710633160167552",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2cbtlr1xBE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059710633160167552].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059710633160167552",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059710633160167552"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059710610909323264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWP40daYAA9Yl1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059710624846970880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWP5oYaAAAeiOi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059710615992864768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWP5HZbEAAdaib.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 164,
+          "like_count": 7012,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 3918
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2026868808036790367",
+    "created_at": "2026-03-05T15:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029583281084318012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1543072342447771650",
+          "start": 0,
+          "username": "qsmhls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029583281084318012",
+    "in_reply_to_user_id": "1543072342447771650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026868808036790367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsmhls 少自残"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2026868808036790367",
+        "created_at": "2026-03-05T15:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029583281084318012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1543072342447771650",
+              "start": 0,
+              "username": "qsmhls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029583281084318012",
+        "in_reply_to_user_id": "1543072342447771650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026868808036790367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsmhls 少自残"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543072342447771650",
+        "conversation_id": "2026868808036790367",
+        "created_at": "2026-02-26T03:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026868808036790367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026868808036790367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自残得了，自残得了，没刀啊，你妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 34,
+          "like_count": 3402,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 627
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T03:21:36.000Z",
+        "description": "皮下男 皮下男 皮下男\n双相（边缘型人格障碍？）/自伤/od/摄影\n推文里的女孩子是俺老婆（我的老婆包括但不限于和泉纱雾，谷风天音，五更琉璃，桐生瑞叶）",
+        "id": "1543072342447771650",
+        "name": "和泉紗霧の犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845852571371724800/4PsOdxAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 137,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1170
+        },
+        "username": "qsmhls",
+        "verified": false
+      }
+    ]
+  }
+}

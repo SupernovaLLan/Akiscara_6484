@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2060293980659839301",
+    "created_at": "2026-05-30T10:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060676535863202276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025558473082322944",
+          "start": 0,
+          "username": "godgunnnnn"
+        },
+        {
+          "end": 20,
+          "id": "1851781632044470272",
+          "start": 12,
+          "username": "yu_01_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060676535863202276",
+    "in_reply_to_user_id": "2025558473082322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060404209858806059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godgunnnnn @yu_01_3 我服了，我这边也买不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2060293980659839301",
+        "created_at": "2026-05-30T10:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060676535863202276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025558473082322944",
+              "start": 0,
+              "username": "godgunnnnn"
+            },
+            {
+              "end": 20,
+              "id": "1851781632044470272",
+              "start": 12,
+              "username": "yu_01_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060676535863202276",
+        "in_reply_to_user_id": "2025558473082322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060404209858806059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godgunnnnn @yu_01_3 我服了，我这边也买不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025558473082322944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2060293980659839301",
+        "created_at": "2026-05-29T16:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060404209858806059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851781632044470272",
+              "start": 0,
+              "username": "yu_01_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060404209858806059",
+        "in_reply_to_user_id": "1851781632044470272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060293980659839301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_01_3 我真的很想知道七星（seven stars）是什么味道，请务必告诉我\n看过很多日本的小说电影里面都有这款烟，但是现实生活中不好买到。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（ fifteen years old）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 166,
+          "like_count": 7083,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 4030
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T13:09:15.000Z",
+        "description": "07大学生  还在读读读读读  \n目标是做一个温柔的人（什）",
+        "id": "2025558473082322944",
+        "location": "中国西安",
+        "name": "王梓瑾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025558571937861633/IH4GpEEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "godgunnnnn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T00:22:14.000Z",
+        "description": "うらあかじょし/DMはフォロワーさんだけ/@qq09ll8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "qq09ll8"
+              }
+            ]
+          }
+        },
+        "id": "1851781632044470272",
+        "name": "ゆま",
+        "pinned_tweet_id": "1988626323527319665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900467452372492288/Il8Xd9cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6806,
+          "following_count": 18,
+          "like_count": 7103,
+          "listed_count": 5,
+          "media_count": 86,
+          "tweet_count": 186
+        },
+        "username": "yu_01_3",
+        "verified": false
+      }
+    ]
+  }
+}

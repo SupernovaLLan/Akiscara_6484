@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2028495810112209176",
+    "created_at": "2026-03-02T15:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028495810112209176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028495810112209176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想回到以前，回到被虐待的时候。无论是精神还是肉体都在被摧毁。这样什么都可以不用思考了，可以在自己熟悉的环境中受伤。比起健康的关系，我更喜欢受虐的关系，被控制的关系。无论是精神还是肉体，我都愿意奉上。我只想被项圈套在家里，然后嗑药自残。等哪天磕大了就在快乐中死去，这也很幸福了！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2028495810112209176",
+        "created_at": "2026-03-02T15:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028495810112209176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028495810112209176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想回到以前，回到被虐待的时候。无论是精神还是肉体都在被摧毁。这样什么都可以不用思考了，可以在自己熟悉的环境中受伤。比起健康的关系，我更喜欢受虐的关系，被控制的关系。无论是精神还是肉体，我都愿意奉上。我只想被项圈套在家里，然后嗑药自残。等哪天磕大了就在快乐中死去，这也很幸福了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 27,
+          "like_count": 3053,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 495
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

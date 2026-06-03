@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057267678855807016",
+    "created_at": "2026-05-21T12:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057442775667531787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967773181906763776",
+          "start": 0,
+          "username": "xinxianchenpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057442775667531787",
+    "in_reply_to_user_id": "1967773181906763776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057267678855807016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxianchenpi 看起来很疼的样子......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3520,
+        "media_key": "3_2057267672954318848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIziDHZWMAAJrrv.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057267678855807016",
+        "created_at": "2026-05-21T12:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057442775667531787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967773181906763776",
+              "start": 0,
+              "username": "xinxianchenpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057442775667531787",
+        "in_reply_to_user_id": "1967773181906763776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057267678855807016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxianchenpi 看起来很疼的样子......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057267672954318848"
+          ]
+        },
+        "author_id": "1967773181906763776",
+        "conversation_id": "2057267678855807016",
+        "created_at": "2026-05-21T01:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057267678855807016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fd20b7lEYc",
+              "end": 35,
+              "expanded_url": "https://x.com/xinxianchenpi/status/2057267678855807016/photo/1",
+              "media_key": "3_2057267672954318848",
+              "start": 12,
+              "url": "https://t.co/fd20b7lEYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057267678855807016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16109,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫我给自己扣出血了 https://t.co/fd20b7lEYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友，家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 153,
+          "like_count": 6900,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3386
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T02:11:17.000Z",
+        "description": "-叫我小竹就好-\nENFP/bisexual/在🇺🇸/绿🚪88/1爱/喜欢大胸肌/手控/声控/喜欢温柔的年上男妈妈/古风小女子/不混圈sub\n我哥：@DYNAASK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "DYNAASK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhusijuice",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhusijuice",
+                "start": 0,
+                "url": "https://t.co/ThUnd69nPY"
+              }
+            ]
+          }
+        },
+        "id": "1967773181906763776",
+        "location": "在你身边",
+        "name": "竹丝之费列罗੭ﾞ",
+        "pinned_tweet_id": "2055299422297186767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045969996120313856/M5zuPi7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 157,
+          "like_count": 5073,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/ThUnd69nPY",
+        "username": "xinxianchenpi",
+        "verified": false
+      }
+    ]
+  }
+}

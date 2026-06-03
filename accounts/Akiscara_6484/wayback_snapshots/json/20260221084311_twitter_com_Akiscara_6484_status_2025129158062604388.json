@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2025020396475723980",
+    "created_at": "2026-02-21T08:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025129158062604388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669250248265302020",
+          "start": 0,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025129158062604388",
+    "in_reply_to_user_id": "1669250248265302020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025020396475723980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu96175836 当当别人别人饥饿时，小声咀嚼也是一种尊重。说白了就没礼貌，狂晒自己猪蹄。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2012051275140251652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-w9-XSbQAQGL3x.jpg",
+        "width": 451
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012051275157012480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-w9-XWbAAARzQg.jpg",
+        "width": 485
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2025020396475723980",
+        "created_at": "2026-02-21T08:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025129158062604388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669250248265302020",
+              "start": 0,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025129158062604388",
+        "in_reply_to_user_id": "1669250248265302020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025020396475723980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu96175836 当当别人别人饥饿时，小声咀嚼也是一种尊重。说白了就没礼貌，狂晒自己猪蹄。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012051275140251652",
+            "3_2012051275157012480"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "2025020396475723980",
+        "created_at": "2026-02-21T01:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025020396475723980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdaqPf1Xwu",
+              "end": 94,
+              "expanded_url": "https://x.com/xu96175836/status/2025020396475723980/photo/1",
+              "media_key": "3_2012051275140251652",
+              "start": 71,
+              "url": "https://t.co/OdaqPf1Xwu"
+            },
+            {
+              "display_url": "pic.x.com/OdaqPf1Xwu",
+              "end": 94,
+              "expanded_url": "https://x.com/xu96175836/status/2025020396475723980/photo/1",
+              "media_key": "3_2012051275157012480",
+              "start": 71,
+              "url": "https://t.co/OdaqPf1Xwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025020396475723980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 40445,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "轉：抖音上一位宝妈发视频展示自己因为平时劳作和天气寒冷而粗糙变形的手，但媎妹们纷纷在评论区展示自己的白嫩的手和美甲，有的还让她猜自己多少岁。 https://t.co/OdaqPf1Xwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 25,
+          "like_count": 2705,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 367
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120799,
+          "following_count": 1503,
+          "like_count": 7665,
+          "listed_count": 360,
+          "media_count": 11384,
+          "tweet_count": 12644
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

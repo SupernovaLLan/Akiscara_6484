@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058342201445462246",
+    "created_at": "2026-05-24T05:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058417531766145314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682558288247021568",
+          "start": 0,
+          "username": "miumiu_14_dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058417531766145314",
+    "in_reply_to_user_id": "1682558288247021568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058342201445462246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumiu_14_dd 没有教程，我回消息的时候也很拖拉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2058342201445462246",
+        "created_at": "2026-05-24T05:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058417531766145314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682558288247021568",
+              "start": 0,
+              "username": "miumiu_14_dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058417531766145314",
+        "in_reply_to_user_id": "1682558288247021568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058342201445462246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumiu_14_dd 没有教程，我回消息的时候也很拖拉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682558288247021568",
+        "conversation_id": "2058342201445462246",
+        "created_at": "2026-05-24T00:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058342201445462246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058342201445462246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求回消息不拖延教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）注：不收门槛，不接线下。\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）勿骚扰（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。🉑推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 157,
+          "like_count": 6902,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 3575
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:09:28.000Z",
+        "description": "比较人机，习得感情中 ⟡ BPD／CPTSD／OSDD-1a ⟡ 友跨 ⟡ Feminist ⟡ Matriarchy ⟡ 有爱人 ⟡ 不登校 ⟡ 百合爱好者 ⟡ \n——⟡⋆˙欢迎互fo⟡⋆˙——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miumiu_14_dd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miumiu_14_dd",
+                "start": 0,
+                "url": "https://t.co/0roPVau7Sn"
+              }
+            ]
+          }
+        },
+        "id": "1682558288247021568",
+        "location": "因特奈特",
+        "name": "透明岚",
+        "pinned_tweet_id": "2042677538519158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056387867350638592/mNt9gvps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 530,
+          "like_count": 3887,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/0roPVau7Sn",
+        "username": "miumiu_14_dd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1968330806767829016",
+    "created_at": "2025-09-19T05:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T06:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968903984212561980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850190622784991232",
+          "start": 0,
+          "username": "KANGELP1LLED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968903984212561980",
+    "in_reply_to_user_id": "1850190622784991232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968330806767829016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KANGELP1LLED 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1968330802586095617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Dqb7CakAEzvXw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1968330806767829016",
+        "created_at": "2025-09-19T05:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T06:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968903984212561980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850190622784991232",
+              "start": 0,
+              "username": "KANGELP1LLED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968903984212561980",
+        "in_reply_to_user_id": "1850190622784991232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968330806767829016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KANGELP1LLED 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968330802586095617"
+          ]
+        },
+        "author_id": "1850190622784991232",
+        "conversation_id": "1968330806767829016",
+        "created_at": "2025-09-17T15:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T16:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968330806767829016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CuUQR3MuF",
+              "end": 39,
+              "expanded_url": "https://x.com/KANGELP1LLED/status/1968330806767829016/photo/1",
+              "media_key": "3_1968330802586095617",
+              "start": 16,
+              "url": "https://t.co/1CuUQR3MuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968330806767829016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 24837,
+          "like_count": 3593,
+          "quote_count": 4,
+          "reply_count": 30,
+          "retweet_count": 372
+        },
+        "reply_settings": "everyone",
+        "text": "Mini sesh today https://t.co/1CuUQR3MuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 12,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 136
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T15:00:02.000Z",
+        "description": "𓊆　  ໒꒱ . ۫ 　𝓽he i͟n͟t͟e͟r͟n͟e͟t͟ 𝓪ngel has https://t.co/BUGno2fafD \n𝓾ncensored 𝓬uts ☆ 　→ #shtwt #nsotwt ♪ 　𐦯 \n　　　　read 𝓮xtended bio!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 89,
+                "tag": "shtwt"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "nsotwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "descended.⠀",
+                "end": 66,
+                "expanded_url": "http://descended.xn--6ii",
+                "start": 43,
+                "url": "https://t.co/BUGno2fafD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kangelp1lled.straw.page",
+                "end": 23,
+                "expanded_url": "https://kangelp1lled.straw.page",
+                "start": 0,
+                "url": "https://t.co/OcduofN93Q"
+              }
+            ]
+          }
+        },
+        "id": "1850190622784991232",
+        "location": ".ᐟ ɞ　7teen　、、　he　angel",
+        "name": "𝜗𝜚 𝓲chigo ꒰𓏼´ `𓏼 ೀ 超天ちゃん of shtwt",
+        "pinned_tweet_id": "1962210251568263479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968875794207535104/90G8-cdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7683,
+          "following_count": 2123,
+          "like_count": 53930,
+          "listed_count": 55,
+          "media_count": 2267,
+          "tweet_count": 10623
+        },
+        "url": "https://t.co/OcduofN93Q",
+        "username": "KANGELP1LLED",
+        "verified": false
+      }
+    ]
+  }
+}

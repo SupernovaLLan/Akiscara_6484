@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2042350603884798270",
+    "created_at": "2026-04-09T21:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042355741248667706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1936371503739944960",
+          "start": 0,
+          "username": "Puppycarlgrimes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042355741248667706",
+    "in_reply_to_user_id": "1936371503739944960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042350603884798270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puppycarlgrimes 对呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "16_2042350595210952705",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFfjC6ZbQAEaJXp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFfjC6ZbQAEaJXp.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2042350603884798270",
+        "created_at": "2026-04-09T21:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042355741248667706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1936371503739944960",
+              "start": 0,
+              "username": "Puppycarlgrimes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042355741248667706",
+        "in_reply_to_user_id": "1936371503739944960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042350603884798270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppycarlgrimes 对呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2042350595210952705"
+          ]
+        },
+        "author_id": "1936371503739944960",
+        "conversation_id": "2042350603884798270",
+        "created_at": "2026-04-09T21:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042350603884798270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4LlbZhRFj",
+              "end": 57,
+              "expanded_url": "https://x.com/Puppycarlgrimes/status/2042350603884798270/photo/1",
+              "media_key": "16_2042350595210952705",
+              "start": 34,
+              "url": "https://t.co/k4LlbZhRFj"
+            },
+            {
+              "display_url": "x.com/Akiscara_6484/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Akiscara_6484/status/2042211912017121598",
+              "start": 58,
+              "url": "https://t.co/Xy0j49hUuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042350603884798270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042211912017121598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"you can use an ice cube instead\" https://t.co/k4LlbZhRFj https://t.co/Xy0j49hUuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 6311,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1572
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T10:32:05.000Z",
+        "description": "⤷ __ 𝑊𝑒 𝑚𝑢𝑠𝑡 𝑡𝑎𝑙𝑘 𝑖𝑛 𝑒𝑣𝑒𝑟𝑦 𝑡𝑒𝑙𝑒𝑝ℎ𝑜𝑛𝑒,\n 𝑔𝑒𝑡 𝑒𝑎𝑡𝑒𝑛 𝑜𝑓𝑓 𝑡ℎ𝑒 𝑤𝑒𝑏 __ ⤶ universe dni.",
+        "id": "1936371503739944960",
+        "location": "14 ★ pls groom",
+        "name": "ᯓ♡⋆🐾° 𝑮𝒓𝒊𝒎𝒆𝒔 ʚଓ",
+        "pinned_tweet_id": "2042110574021243341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039936250149580800/Xl8l-HR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 550,
+          "like_count": 16792,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 16126
+        },
+        "username": "Puppycarlgrimes",
+        "verified": false
+      }
+    ]
+  }
+}

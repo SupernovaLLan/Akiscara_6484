@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2047372032258740568",
+    "created_at": "2026-04-23T17:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047372032258740568"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047372032258740568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又失眠了。一直在胡思乱想。今天得知我弟弟离家出走了，我妈说是跟我学的，挺可笑的，什么样的家庭会养出两个孩子离家出走？两个孩子一个双向一个抑郁？从来不会反思自己。一直觉得含辛茹苦把我们养大现在这样好心酸。可从来都是回避我被父亲家暴，被哥哥猥亵，别人造谣我还骂我是j我难道就不心寒吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2047372032258740568",
+        "created_at": "2026-04-23T17:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047372032258740568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047372032258740568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又失眠了。一直在胡思乱想。今天得知我弟弟离家出走了，我妈说是跟我学的，挺可笑的，什么样的家庭会养出两个孩子离家出走？两个孩子一个双向一个抑郁？从来不会反思自己。一直觉得含辛茹苦把我们养大现在这样好心酸。可从来都是回避我被父亲家暴，被哥哥猥亵，别人造谣我还骂我是j我难道就不心寒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 106,
+          "like_count": 6728,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 2190
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

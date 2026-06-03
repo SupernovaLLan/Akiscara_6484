@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058598197074055554",
+    "created_at": "2026-05-24T17:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058605320805785827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639996371879985157",
+          "start": 0,
+          "username": "SupernovaLLan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058605320805785827",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058598197074055554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SupernovaLLan 好吃！😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058598189767561216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGcJYxbkAAH2VU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058598189692035072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGcJYfbIAAdtBb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2058598197074055554",
+        "created_at": "2026-05-24T17:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058605320805785827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058605320805785827",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058598197074055554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 好吃！😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058598189767561216",
+            "3_2058598189692035072"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058598197074055554",
+        "created_at": "2026-05-24T17:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058598197074055554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8j0LRiGXg",
+              "end": 96,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2058598197074055554/photo/1",
+              "media_key": "3_2058598189767561216",
+              "start": 73,
+              "url": "https://t.co/E8j0LRiGXg"
+            },
+            {
+              "display_url": "pic.x.com/E8j0LRiGXg",
+              "end": 96,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2058598197074055554/photo/1",
+              "media_key": "3_2058598189692035072",
+              "start": 73,
+              "url": "https://t.co/E8j0LRiGXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058598197074055554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hhhh炸物仙人来了，晚班就是有口福啊\n今天厨房给炸多了这么多，打烊了几个人分完之后剩下的全丢给我了……这都得塞进冰箱里面去不知道吃到猴年马月了 https://t.co/E8j0LRiGXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/m/受虐（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（分享日常生活，碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心看见会难过（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 158,
+          "like_count": 6934,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 3684
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 583,
+          "like_count": 25847,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 10787
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

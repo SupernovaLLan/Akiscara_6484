@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2039513104191770914",
+    "created_at": "2026-04-02T08:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039622463672455257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039622463672455257",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039513104191770914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 割得米米嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039513034566303744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3OTJQagAAsduK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2039513104191770914",
+        "created_at": "2026-04-02T08:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039622463672455257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039622463672455257",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039513104191770914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 割得米米嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039513034566303744"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039513104191770914",
+        "created_at": "2026-04-02T01:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039513104191770914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzbzGztO4A",
+              "end": 37,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2039513104191770914/photo/1",
+              "media_key": "3_2039513034566303744",
+              "start": 14,
+              "url": "https://t.co/DzbzGztO4A"
+            },
+            {
+              "display_url": "x.com/Krktmk_8964/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Krktmk_8964/status/2039450493744033873",
+              "start": 38,
+              "url": "https://t.co/ao4JCOrUZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039513104191770914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039450493744033873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坏菜了有点割大了穿衣服好痛 https://t.co/DzbzGztO4A https://t.co/ao4JCOrUZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（不收男m，不准叫妈妈）\n家有男友.\n性骚扰草你妈\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 82,
+          "like_count": 5270,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1249
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 2265,
+          "like_count": 36046,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 3668
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

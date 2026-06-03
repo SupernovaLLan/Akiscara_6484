@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058156405581119824",
+    "created_at": "2026-05-24T15:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058565915680374912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957450032384499712",
+          "start": 0,
+          "username": "redaiyu007"
+        },
+        {
+          "end": 20,
+          "id": "1889953380006764546",
+          "start": 12,
+          "username": "joyojn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058565915680374912",
+    "in_reply_to_user_id": "1957450032384499712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058156405581119824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redaiyu007 @joyojn_ oh天呐。那我推荐给我男朋友吧....."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 146728,
+        "height": 1280,
+        "media_key": "13_2058156172671430656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058156172671430656/img/yLELTfNoFEyug9S8.jpg",
+        "public_metrics": {
+          "view_count": 439220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058156172671430656/vid/avc1/320x568/g22RivQB6xNzRHzl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058156172671430656/vid/avc1/480x852/pbk9ZZZ8IWVNpqoY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058156172671430656/vid/avc1/720x1280/4Ec3VQwQephEGuqb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058156172671430656/pl/dlocthPPVE-VB2XH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2058156405581119824",
+        "created_at": "2026-05-24T15:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058565915680374912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957450032384499712",
+              "start": 0,
+              "username": "redaiyu007"
+            },
+            {
+              "end": 20,
+              "id": "1889953380006764546",
+              "start": 12,
+              "username": "joyojn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058565915680374912",
+        "in_reply_to_user_id": "1957450032384499712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058156405581119824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redaiyu007 @joyojn_ oh天呐。那我推荐给我男朋友吧....."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058156172671430656"
+          ]
+        },
+        "author_id": "1957450032384499712",
+        "conversation_id": "2058156405581119824",
+        "created_at": "2026-05-23T12:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058156405581119824"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "男大"
+            },
+            {
+              "end": 104,
+              "start": 98,
+              "tag": "飞机杯测评"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "1s"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1889953380006764546",
+              "start": 15,
+              "username": "joyojn_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOtAJqg9o6",
+              "end": 132,
+              "expanded_url": "https://x.com/redaiyu007/status/2058156405581119824/video/1",
+              "media_key": "13_2058156172671430656",
+              "start": 109,
+              "url": "https://t.co/QOtAJqg9o6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058156405581119824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8910,
+          "impression_count": 281207,
+          "like_count": 32448,
+          "quote_count": 4,
+          "reply_count": 211,
+          "retweet_count": 2643
+        },
+        "reply_settings": "everyone",
+        "text": "飞机杯测评#3\n—————\n\n@joyojn_家的高颜值便携飞机杯，收到半个月玩了三四次，每次都巨爽\n\n——————\n视频最后有抽奖\n试玩飞机杯视频在电报群更新，要进群的私聊主页电报链接\n#男大 #飞机杯测评 #1s https://t.co/QOtAJqg9o6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（分享日常生活，碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心看见会难过（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 158,
+          "like_count": 6930,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 3653
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T14:30:37.000Z",
+        "description": "18🚫看心情更 *有抖音有红书\nhttps://t.co/icTqj141Od",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Lwzy07",
+                "end": 39,
+                "expanded_url": "https://t.me/Lwzy07",
+                "start": 16,
+                "url": "https://t.co/icTqj141Od"
+              }
+            ]
+          }
+        },
+        "id": "1957450032384499712",
+        "location": "杭州",
+        "name": "热带鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014026527143235587/HGzvVRYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48979,
+          "following_count": 63,
+          "like_count": 18,
+          "listed_count": 159,
+          "media_count": 35,
+          "tweet_count": 46
+        },
+        "username": "redaiyu007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T08:23:23.000Z",
+        "description": "来橘右京JYOYOJN，你的情趣新选择\n🛜官网：https://t.co/uY6YL1wjR2\n📷招募万粉博主寄拍，可私信～\n推主私信可能因推特更新被隐藏，没回复请多敲两下",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "joyojn.com",
+                "end": 47,
+                "expanded_url": "https://joyojn.com/",
+                "start": 24,
+                "url": "https://t.co/uY6YL1wjR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mo.m.tmall.com/page/36046360?…",
+                "end": 23,
+                "expanded_url": "https://mo.m.tmall.com/page/36046360?shop_id=424142665",
+                "start": 0,
+                "url": "https://t.co/hYnWvSaCc1"
+              }
+            ]
+          }
+        },
+        "id": "1889953380006764546",
+        "location": "👇橘右京JOYOJN天猫旗舰店直达（点不开断vpn）",
+        "name": "橘右京JOYOJN",
+        "pinned_tweet_id": "2011376837520400877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889953586525904896/3XV4c8y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 33,
+          "like_count": 115,
+          "listed_count": 13,
+          "media_count": 44,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/hYnWvSaCc1",
+        "username": "joyojn_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059001644713758720"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059001652347273479",
+    "created_at": "2026-05-25T20:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T21:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059001652347273479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CDBOuoMRYd",
+          "end": 26,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2059001652347273479/photo/1",
+          "media_key": "3_2059001644713758720",
+          "start": 3,
+          "url": "https://t.co/CDBOuoMRYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059001652347273479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "心累 https://t.co/CDBOuoMRYd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059001652347273479].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059001652347273479",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059001652347273479"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2059001644713758720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMLFjkb0AA6mYd.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/m/受虐（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 158,
+          "like_count": 6939,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 3759
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

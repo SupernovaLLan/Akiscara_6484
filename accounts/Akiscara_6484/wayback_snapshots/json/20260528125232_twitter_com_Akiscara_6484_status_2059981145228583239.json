@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059699374859682074",
+    "created_at": "2026-05-28T12:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059981145228583239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047554299815985152",
+          "start": 0,
+          "username": "fhrtdj47222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059981145228583239",
+    "in_reply_to_user_id": "2047554299815985152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059923234704035933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fhrtdj47222 我认可了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059699374859682074",
+        "created_at": "2026-05-28T12:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059981145228583239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047554299815985152",
+              "start": 0,
+              "username": "fhrtdj47222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059981145228583239",
+        "in_reply_to_user_id": "2047554299815985152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059923234704035933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhrtdj47222 我认可了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047554299815985152",
+        "conversation_id": "2059699374859682074",
+        "created_at": "2026-05-28T09:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059923234704035933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059923234704035933",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059699374859682074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 紫色很有韵味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 165,
+          "like_count": 7040,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 3949
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T05:52:51.000Z",
+        "description": "开大车爱好者，妹车也没那个身高😢我好痛苦",
+        "id": "2047554299815985152",
+        "location": "Fujian Zhina",
+        "name": "仅我消逝的一面",
+        "pinned_tweet_id": "2059432954800296327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058089767259279360/ifUPu8vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 199,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 129
+        },
+        "username": "fhrtdj47222",
+        "verified": false
+      }
+    ]
+  }
+}

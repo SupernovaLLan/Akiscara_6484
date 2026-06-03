@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2051950132351172699",
+    "created_at": "2026-05-07T10:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052328581666312592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008561571635884035",
+          "start": 0,
+          "username": "Xyyyyyyyy07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052328581666312592",
+    "in_reply_to_user_id": "2008561571635884035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052275565600891222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xyyyyyyyy07 唉......嗯，是啊，过于肥胖的，真不是bbw。和大码美女不沾边的......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2051950132351172699",
+        "created_at": "2026-05-07T10:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052328581666312592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008561571635884035",
+              "start": 0,
+              "username": "Xyyyyyyyy07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052328581666312592",
+        "in_reply_to_user_id": "2008561571635884035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052275565600891222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xyyyyyyyy07 唉......嗯，是啊，过于肥胖的，真不是bbw。和大码美女不沾边的......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008561571635884035",
+        "conversation_id": "2051950132351172699",
+        "created_at": "2026-05-07T06:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052275565600891222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052275565600891222",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051950132351172699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 狠狠支持了 看见一群肥猪以为自己是bbw狠狠秀身材我快吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 125,
+          "like_count": 6795,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 2485
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T15:29:41.000Z",
+        "description": "已婚带娃",
+        "id": "2008561571635884035",
+        "location": "Hong Kong",
+        "name": "Snowo_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008562096192319497/bUlVHF-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 3,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "Xyyyyyyyy07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059306053393879445",
+    "created_at": "2026-05-27T17:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059685173265056228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004844517263114241",
+          "start": 0,
+          "username": "qwqcoii1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059685173265056228",
+    "in_reply_to_user_id": "2004844517263114241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059682244118335613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqcoii1214 哈哈哈哈哈哈哈哈，我服了。我之前就浴血奋战，后面就开始痛了我就老实了。后头我来大姨妈我对象就管着点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059306053393879445",
+        "created_at": "2026-05-27T17:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059685173265056228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004844517263114241",
+              "start": 0,
+              "username": "qwqcoii1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059685173265056228",
+        "in_reply_to_user_id": "2004844517263114241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059682244118335613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqcoii1214 哈哈哈哈哈哈哈哈，我服了。我之前就浴血奋战，后面就开始痛了我就老实了。后头我来大姨妈我对象就管着点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004844517263114241",
+        "conversation_id": "2059306053393879445",
+        "created_at": "2026-05-27T17:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059682244118335613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059682244118335613",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059545106701750713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 俺就口嗨一下👉👈老实等姨妈走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等内）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 161,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 3851
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T09:19:32.000Z",
+        "description": "淡淡的…就会顺顺的…",
+        "id": "2004844517263114241",
+        "name": "记忆结成冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007376051064950784/dPzpnXXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 103,
+          "like_count": 4575,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 758
+        },
+        "username": "qwqcoii1214",
+        "verified": false
+      }
+    ]
+  }
+}

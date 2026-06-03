@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053527752247255401",
+    "created_at": "2026-05-11T21:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T22:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053957335178244400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044047771896786944",
+          "start": 0,
+          "username": "jngyjngy114144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053957335178244400",
+    "in_reply_to_user_id": "2044047771896786944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053880858033983787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyjngy114144 喵。谢谢你呀宝宝天天开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-11T21:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T22:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053957335178244400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044047771896786944",
+              "start": 0,
+              "username": "jngyjngy114144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053957335178244400",
+        "in_reply_to_user_id": "2044047771896786944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053880858033983787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyjngy114144 喵。谢谢你呀宝宝天天开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044047771896786944",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-11T16:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053880858033983787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053880858033983787",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053527752247255401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 不要伤心喵，天天开心喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 141,
+          "like_count": 6913,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2967
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T13:40:11.000Z",
+        "description": "鲸鱼好可爱好可爱好可爱好可爱好可爱好可爱",
+        "id": "2044047771896786944",
+        "name": "鲸鱼鲸鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044059174829731840/Zk26uXb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 399
+        },
+        "username": "jngyjngy114144",
+        "verified": false
+      }
+    ]
+  }
+}

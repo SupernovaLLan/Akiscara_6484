@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2014017666189815871",
+    "created_at": "2026-05-11T22:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053967658555675125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235870523265073153",
+          "start": 0,
+          "username": "ye06782480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053967658555675125",
+    "in_reply_to_user_id": "1235870523265073153",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014017666189815871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye06782480 👂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2014017666189815871",
+        "created_at": "2026-05-11T22:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053967658555675125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235870523265073153",
+              "start": 0,
+              "username": "ye06782480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053967658555675125",
+        "in_reply_to_user_id": "1235870523265073153",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014017666189815871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye06782480 👂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235870523265073153",
+        "conversation_id": "2014017666189815871",
+        "created_at": "2026-01-21T16:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014017666189815871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014017666189815871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4625,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得中推圈有一个人特别诡异。特别莫名其妙……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 141,
+          "like_count": 6915,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2997
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T10:11:20.000Z",
+        "description": "这里是四百亿（百百）/水瓶💦/172cm/04年/美院在读🦪/情绪不定的furry/超级探店侠/榴莲究极梦男🥵🥵\n目前武汉读书，几乎没有什么雷点，欢迎找我玩噢🤪🤪",
+        "id": "1235870523265073153",
+        "name": "四百亿OvO",
+        "pinned_tweet_id": "1936638615347778003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912573762345836544/4jylRKcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5543,
+          "following_count": 792,
+          "like_count": 4966,
+          "listed_count": 8,
+          "media_count": 269,
+          "tweet_count": 4587
+        },
+        "username": "ye06782480",
+        "verified": false
+      }
+    ]
+  }
+}

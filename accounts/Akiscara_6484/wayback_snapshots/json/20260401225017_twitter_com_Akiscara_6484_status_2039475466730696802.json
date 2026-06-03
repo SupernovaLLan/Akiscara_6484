@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039475454902702080"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2039475466730696802",
+    "created_at": "2026-04-01T22:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T23:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039475466730696802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3qjTIZkMux",
+          "end": 164,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2039475466730696802/photo/1",
+          "media_key": "3_2039475454902702080",
+          "start": 141,
+          "url": "https://t.co/3qjTIZkMux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039475466730696802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候逛街，我看见同龄人有爸爸妈妈陪着就好羡慕，鼻子总是酸酸的。因为爸爸好像不爱我，或者是畸形扭曲的爱，而妈妈以前不在身边（留守）在身边的这一两年得了癌症晚期，我难道要同时失去父爱与母爱吗？好像妈妈以前没有陪过我，就像现在一样。以后也会吗？以后也是吗？我不想长大了，不想要明天了。 https://t.co/3qjTIZkMux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039475454902702080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2sHuGakAA6JMO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039475454902702080"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2039475466730696802",
+        "created_at": "2026-04-01T22:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039475466730696802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qjTIZkMux",
+              "end": 164,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2039475466730696802/photo/1",
+              "media_key": "3_2039475454902702080",
+              "start": 141,
+              "url": "https://t.co/3qjTIZkMux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039475466730696802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候逛街，我看见同龄人有爸爸妈妈陪着就好羡慕，鼻子总是酸酸的。因为爸爸好像不爱我，或者是畸形扭曲的爱，而妈妈以前不在身边（留守）在身边的这一两年得了癌症晚期，我难道要同时失去父爱与母爱吗？好像妈妈以前没有陪过我，就像现在一样。以后也会吗？以后也是吗？我不想长大了，不想要明天了。 https://t.co/3qjTIZkMux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（不收男m，不准叫妈妈）\n家有男友.\n性骚扰草你妈\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 80,
+          "like_count": 5187,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1229
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

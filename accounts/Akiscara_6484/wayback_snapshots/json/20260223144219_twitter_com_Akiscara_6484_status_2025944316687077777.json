@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2025919976847392852",
+    "created_at": "2026-02-23T14:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025944316687077777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025944316687077777",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025929133981852048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 没事的没事的没事的😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025929133981852048].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025929133981852048",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025929133981852048"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2025919976847392852",
+        "created_at": "2026-02-23T14:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025944316687077777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025944316687077777",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025929133981852048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 没事的没事的没事的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 26,
+          "like_count": 2859,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 393
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "@Akiscara_3405 永远幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "_(:з」∠)_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004289020424343552/bJn4W1KA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 489,
+          "like_count": 39329,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 11536
+        },
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

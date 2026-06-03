@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2061140790353776889",
+    "created_at": "2026-05-31T20:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T21:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061177723335434701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921288791190618112",
+          "start": 0,
+          "username": "kooejk001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061177723335434701",
+    "in_reply_to_user_id": "1921288791190618112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061155961969291374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kooejk001 脑袋卡床头了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2061140790353776889",
+        "created_at": "2026-05-31T20:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061177723335434701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921288791190618112",
+              "start": 0,
+              "username": "kooejk001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061177723335434701",
+        "in_reply_to_user_id": "1921288791190618112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061155961969291374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kooejk001 脑袋卡床头了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921288791190618112",
+        "conversation_id": "2061140790353776889",
+        "created_at": "2026-05-31T18:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061155961969291374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061155961969291374",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061140790353776889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 做爱还能脑袋晕？晕做爱？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（ fifteen years old）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪66好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 167,
+          "like_count": 7108,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 4103
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T19:38:53.000Z",
+        "description": "",
+        "id": "1921288791190618112",
+        "name": "ko o e jk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288856638480384/D5-xw5Pi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 86,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "kooejk001",
+        "verified": false
+      }
+    ]
+  }
+}

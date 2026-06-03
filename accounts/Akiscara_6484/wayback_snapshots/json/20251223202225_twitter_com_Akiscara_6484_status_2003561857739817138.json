@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2003561857739817138",
+    "created_at": "2025-12-23T20:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T21:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003561857739817138"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003561857739817138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大抵是病了。扭曲的恋爱关系使我感到安全与被爱，即使那不是爱，而得到健康恋爱关系的那一刻我却觉得多么的陌生，使我仓狂而逃，甚至是想被蹂躏被践踏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2003561857739817138",
+        "created_at": "2025-12-23T20:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T21:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003561857739817138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003561857739817138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大抵是病了。扭曲的恋爱关系使我感到安全与被爱，即使那不是爱，而得到健康恋爱关系的那一刻我却觉得多么的陌生，使我仓狂而逃，甚至是想被蹂躏被践踏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 24,
+          "like_count": 1959,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 174
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

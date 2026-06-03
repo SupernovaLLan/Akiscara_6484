@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1967597477407989945",
+    "created_at": "2025-09-15T14:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T15:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967597477407989945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966923289626112000",
+          "start": 3,
+          "username": "lululove0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967597477407989945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967372130733134110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lululove0v0: 被红绳勒陷入到肉里面了，血管也暴起说不出话来，力度真实不做作，欢迎大家前来定制视频，新粉活动最后几天优惠（我这里谢谢定制视频的小哥哥们的支持与定制，给大家放几十秒的新粉福利，希望宝宝们可以多多分享和点赞，后续我们将会更有动力创造更好的作品） h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967597477407989945].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967597477407989945",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967597477407989945"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27466,
+        "height": 1280,
+        "media_key": "13_1967372045236523008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967372045236523008/img/JCm177ohPcQ2eb7g.jpg",
+        "public_metrics": {
+          "view_count": 64851
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967372045236523008/vid/avc1/320x568/fdjRgBPsetJlX4HW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967372045236523008/vid/avc1/480x852/IX8QdSSIgiGmXrgp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967372045236523008/vid/avc1/720x1280/-ths5de1cI-lj_uB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967372045236523008/pl/TXEsQtRnw94U9XsY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967372045236523008"
+          ]
+        },
+        "author_id": "1966923289626112000",
+        "conversation_id": "1967372130733134110",
+        "created_at": "2025-09-14T23:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T00:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967372130733134110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3yx2G3Y22",
+              "end": 144,
+              "expanded_url": "https://x.com/lululove0v0/status/1967372130733134110/video/1",
+              "media_key": "13_1967372045236523008",
+              "start": 121,
+              "url": "https://t.co/V3yx2G3Y22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967372130733134110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 16489,
+          "like_count": 453,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "被红绳勒陷入到肉里面了，血管也暴起说不出话来，力度真实不做作，欢迎大家前来定制视频，新粉活动最后几天优惠（我这里谢谢定制视频的小哥哥们的支持与定制，给大家放几十秒的新粉福利，希望宝宝们可以多多分享和点赞，后续我们将会更有动力创造更好的作品） https://t.co/V3yx2G3Y22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 12,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 94
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T17:53:57.000Z",
+        "description": "两位00后小姐姐，原创定制🐧 347853985 目前可接女女 男女，接受度广.也可以联系我的电报账号https://t.co/1eVLQ3sdwI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weiweilulu0v0",
+                "end": 74,
+                "expanded_url": "http://t.me/weiweilulu0v0",
+                "start": 51,
+                "url": "https://t.co/1eVLQ3sdwI"
+              }
+            ]
+          }
+        },
+        "id": "1966923289626112000",
+        "name": "露露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966923589934084098/3G0dwteC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "lululove0v0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2025919357285777839",
+    "created_at": "2026-02-23T13:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025919357285777839"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025919357285777839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我焦虑得要死，一直惊恐发作。我上个学期快期末一直没去学校上学。明天开学，听说下册的书已经上完一半了，但是我没有上到那么多。我焦虑得要死。四月份就要复习了，现在二月份，我两个月的时间怎么赶得走课。我要和高中无缘了吗？我还有机会吗？我完蛋了，我这辈子就这样毁了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2025919357285777839",
+        "created_at": "2026-02-23T13:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025919357285777839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025919357285777839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我焦虑得要死，一直惊恐发作。我上个学期快期末一直没去学校上学。明天开学，听说下册的书已经上完一半了，但是我没有上到那么多。我焦虑得要死。四月份就要复习了，现在二月份，我两个月的时间怎么赶得走课。我要和高中无缘了吗？我还有机会吗？我完蛋了，我这辈子就这样毁了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 26,
+          "like_count": 2860,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 388
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

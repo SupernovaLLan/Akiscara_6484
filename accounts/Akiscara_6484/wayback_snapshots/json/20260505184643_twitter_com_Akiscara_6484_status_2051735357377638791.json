@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2051648456603939180",
+    "created_at": "2026-05-05T18:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051735357377638791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873616047913512960",
+          "start": 0,
+          "username": "michell24030273"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051735357377638791",
+    "in_reply_to_user_id": "1873616047913512960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051648456603939180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@michell24030273 按照鸡的价格来算的话，会比没有出的鸡要贵1k左右，但是得看你们那边普遍是多少。我们这边处女和一般的鸡都一样价格，很少有贵的，你得去找那种有这种喜好的人谈。主要是看你怎么想，如果是和喜欢的人做的话，那就是无价之宝，但如果是这样的话，那就比较廉价了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2051648456603939180",
+        "created_at": "2026-05-05T18:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051735357377638791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873616047913512960",
+              "start": 0,
+              "username": "michell24030273"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051735357377638791",
+        "in_reply_to_user_id": "1873616047913512960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051648456603939180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michell24030273 按照鸡的价格来算的话，会比没有出的鸡要贵1k左右，但是得看你们那边普遍是多少。我们这边处女和一般的鸡都一样价格，很少有贵的，你得去找那种有这种喜好的人谈。主要是看你怎么想，如果是和喜欢的人做的话，那就是无价之宝，但如果是这样的话，那就比较廉价了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873616047913512960",
+        "conversation_id": "2051648456603939180",
+        "created_at": "2026-05-05T13:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051648456603939180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051648456603939180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28480,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 118,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18岁处女第一次到底值多少啊…………\n我想知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 123,
+          "like_count": 6782,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 2397
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T06:24:33.000Z",
+        "description": "",
+        "id": "1873616047913512960",
+        "name": "悠悠要变美",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046802029377724416/4S3A_qIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 5,
+          "like_count": 1469,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 26
+        },
+        "username": "michell24030273",
+        "verified": false
+      }
+    ]
+  }
+}

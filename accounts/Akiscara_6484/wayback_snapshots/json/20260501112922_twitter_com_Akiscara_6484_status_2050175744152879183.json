@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2049466698944872527",
+    "created_at": "2026-05-01T11:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050175744152879183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1571083414358609922",
+          "start": 0,
+          "username": "pb_rdd"
+        },
+        {
+          "end": 17,
+          "id": "1842504398850928640",
+          "start": 8,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050175744152879183",
+    "in_reply_to_user_id": "1571083414358609922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049726208204763239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pb_rdd @hsn8086k 啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2049466698944872527",
+        "created_at": "2026-05-01T11:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050175744152879183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1571083414358609922",
+              "start": 0,
+              "username": "pb_rdd"
+            },
+            {
+              "end": 17,
+              "id": "1842504398850928640",
+              "start": 8,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050175744152879183",
+        "in_reply_to_user_id": "1571083414358609922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049726208204763239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pb_rdd @hsn8086k 啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571083414358609922",
+        "conversation_id": "2049466698944872527",
+        "created_at": "2026-04-30T05:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049726208204763239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 24,
+              "id": "1842504398850928640",
+              "start": 15,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049726208204763239",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049648787489259771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 @hsn8086k 皮包，不是包皮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 112,
+          "like_count": 6735,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2312
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:27:41.000Z",
+        "description": "阿巴阿巴阿巴阿巴",
+        "id": "1571083414358609922",
+        "name": "鲨臂",
+        "pinned_tweet_id": "1599639393983115266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580436056486203392/7ELnkkVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 140
+        },
+        "username": "pb_rdd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 221,
+          "like_count": 7834,
+          "listed_count": 7,
+          "media_count": 185,
+          "tweet_count": 1977
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

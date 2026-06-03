@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2012218870354903304",
+    "created_at": "2026-01-16T17:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T18:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012219236425367721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012219236425367721",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012218870354903304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃完药还是不开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2012218870354903304",
+        "created_at": "2026-01-16T17:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012219236425367721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012219236425367721",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012218870354903304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃完药还是不开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2012218870354903304",
+        "created_at": "2026-01-16T17:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012218870354903304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012218870354903304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完抗郁药，好累，还是抬不起手，没力气。好累好困。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 23,
+          "like_count": 2281,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 228
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

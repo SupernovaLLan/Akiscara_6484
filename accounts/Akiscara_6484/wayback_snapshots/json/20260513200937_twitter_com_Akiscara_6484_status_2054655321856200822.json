@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2054561682660409388",
+    "created_at": "2026-05-13T20:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T21:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054655321856200822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510622678108975105",
+          "start": 0,
+          "username": "AlbertMullera"
+        },
+        {
+          "end": 22,
+          "id": "1910749531161190400",
+          "start": 15,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054655321856200822",
+    "in_reply_to_user_id": "1510622678108975105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054594446440980558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlbertMullera @r0x_ht 会不会是因为抗打啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2054561682660409388",
+        "created_at": "2026-05-13T20:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T21:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054655321856200822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510622678108975105",
+              "start": 0,
+              "username": "AlbertMullera"
+            },
+            {
+              "end": 22,
+              "id": "1910749531161190400",
+              "start": 15,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054655321856200822",
+        "in_reply_to_user_id": "1510622678108975105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054594446440980558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlbertMullera @r0x_ht 会不会是因为抗打啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510622678108975105",
+        "conversation_id": "2054561682660409388",
+        "created_at": "2026-05-13T16:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054594446440980558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1910749531161190400",
+              "start": 0,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054594446440980558",
+        "in_reply_to_user_id": "1910749531161190400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3178,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054561682660409388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r0x_ht 也有吧，女s片里很多都是揍胖哥们的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 151,
+          "like_count": 6905,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3259
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T14:18:16.000Z",
+        "description": "English🇬🇧 中文🇨🇳 Español 🇪🇸可憎 可憎的生命 但我离不开 仍深爱着每一份可爱的东西",
+        "id": "1510622678108975105",
+        "location": "神秘的包菜卷核心",
+        "name": "震坎небо",
+        "pinned_tweet_id": "1919454478127747317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919448659311370240/MWl-Pwz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 228,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 276
+        },
+        "username": "AlbertMullera",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46481,
+          "following_count": 9,
+          "like_count": 608,
+          "listed_count": 72,
+          "media_count": 171,
+          "tweet_count": 654
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

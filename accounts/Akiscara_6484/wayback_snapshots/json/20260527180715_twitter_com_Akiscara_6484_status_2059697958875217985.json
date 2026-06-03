@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059697958875217985",
+    "created_at": "2026-05-27T18:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059697958875217985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akiscara_6484/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Akiscara_6484/status/2052908300568789108",
+          "start": 22,
+          "url": "https://t.co/OctDUG7DN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059697958875217985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052908300568789108",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这个流量这么好。莫名其妙的。谁过我🚪 https://t.co/OctDUG7DN4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052908261293322240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1lL9bacAAw8pX.jpg",
+        "width": 1426
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052908261289132032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1lL9aagAA-nC5.jpg",
+        "width": 931
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2052908283938390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1lNRyawAAnUep.jpg",
+        "width": 1409
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052908283938439168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1lNRybgAAvEo8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059697958875217985",
+        "created_at": "2026-05-27T18:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059697958875217985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akiscara_6484/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Akiscara_6484/status/2052908300568789108",
+              "start": 22,
+              "url": "https://t.co/OctDUG7DN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059697958875217985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052908300568789108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这个流量这么好。莫名其妙的。谁过我🚪 https://t.co/OctDUG7DN4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052908261293322240",
+            "3_2052908261289132032",
+            "3_2052908283938390016",
+            "3_2052908283938439168"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052908300568789108",
+        "created_at": "2026-05-09T00:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052908300568789108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYiReyH7DB",
+              "end": 55,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052908300568789108/photo/1",
+              "media_key": "3_2052908261293322240",
+              "start": 32,
+              "url": "https://t.co/gYiReyH7DB"
+            },
+            {
+              "display_url": "pic.x.com/gYiReyH7DB",
+              "end": 55,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052908300568789108/photo/1",
+              "media_key": "3_2052908261289132032",
+              "start": 32,
+              "url": "https://t.co/gYiReyH7DB"
+            },
+            {
+              "display_url": "pic.x.com/gYiReyH7DB",
+              "end": 55,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052908300568789108/photo/1",
+              "media_key": "3_2052908283938390016",
+              "start": 32,
+              "url": "https://t.co/gYiReyH7DB"
+            },
+            {
+              "display_url": "pic.x.com/gYiReyH7DB",
+              "end": 55,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052908300568789108/photo/1",
+              "media_key": "3_2052908283938439168",
+              "start": 32,
+              "url": "https://t.co/gYiReyH7DB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052908300568789108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 143688,
+          "like_count": 1334,
+          "quote_count": 6,
+          "reply_count": 126,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "好想回到14岁，停留在那个时候，一直循环。每天无节制的嗑药自残 https://t.co/gYiReyH7DB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 164,
+          "like_count": 7002,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 3890
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961450909206286339"
+      ],
+      "media_source_tweet_id": [
+        "1961450986997711054"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "1961695651621999032",
+    "created_at": "2025-08-30T07:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T08:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961695651621999032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "999517151202631680",
+          "start": 3,
+          "username": "zhaixiaomiv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fpmLfYXedL",
+          "end": 46,
+          "expanded_url": "https://x.com/zhaixiaomiv/status/1961450986997711054/video/1",
+          "media_key": "13_1961450909206286339",
+          "start": 23,
+          "url": "https://t.co/fpmLfYXedL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961695651621999032",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961450986997711054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @zhaixiaomiv: wataa https://t.co/fpmLfYXedL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961695651621999032].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961695651621999032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961695651621999032"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18412,
+        "height": 720,
+        "media_key": "13_1961450909206286339",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961450909206286339/img/qBfalv9yAat1N3lC.jpg",
+        "public_metrics": {
+          "view_count": 23191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961450909206286339/vid/avc1/480x270/-DtaeAXSc10LTzAN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961450909206286339/vid/avc1/640x360/E4dZeE9iGt7iB5Wx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961450909206286339/vid/avc1/1280x720/129485Lhb8UxejxB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961450909206286339/pl/QMcdvWJtfprqVzXK.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961450909206286339"
+          ]
+        },
+        "author_id": "999517151202631680",
+        "conversation_id": "1961450986997711054",
+        "created_at": "2025-08-29T15:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T16:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961450986997711054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpmLfYXedL",
+              "end": 29,
+              "expanded_url": "https://x.com/zhaixiaomiv/status/1961450986997711054/video/1",
+              "media_key": "13_1961450909206286339",
+              "start": 6,
+              "url": "https://t.co/fpmLfYXedL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961450986997711054",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 464,
+          "impression_count": 56064,
+          "like_count": 1639,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "wataa https://t.co/fpmLfYXedL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-24T05:07:13.000Z",
+        "description": "私信咨询📩｜接线下｜约啪｜定制｜原味 ｜支持验证 ｜主打真诚女友陪伴感｜私信⬆️加V 太远的话约不了哦💕",
+        "id": "999517151202631680",
+        "location": "距离你7.9km",
+        "name": "宅小咪(线下可约)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955650324984946688/ReNIkBeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10654,
+          "following_count": 72,
+          "like_count": 575,
+          "listed_count": 15,
+          "media_count": 8,
+          "tweet_count": 8
+        },
+        "username": "zhaixiaomiv",
+        "verified": false
+      }
+    ]
+  }
+}

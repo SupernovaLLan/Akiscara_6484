@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1966215244776354162",
+    "created_at": "2025-09-11T19:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T20:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966215250589696454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966215250589696454",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966215246965780753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么医生治不好我，因为我隐瞒了事实，所以她不清楚我的痛苦源泉是什么。而是药物一遍遍的来控制我大脑神经，就像嗑药了一般。每次我都会极力压抑克制自己，我是不是看起来好单纯啊，是也不是，她的矛盾是我做出来的，看着别人互相猜忌好搞笑啊。我好想杀人啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1966215244776354162",
+        "created_at": "2025-09-11T19:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966215250589696454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966215250589696454",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966215246965780753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么医生治不好我，因为我隐瞒了事实，所以她不清楚我的痛苦源泉是什么。而是药物一遍遍的来控制我大脑神经，就像嗑药了一般。每次我都会极力压抑克制自己，我是不是看起来好单纯啊，是也不是，她的矛盾是我做出来的，看着别人互相猜忌好搞笑啊。我好想杀人啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1966215244776354162",
+        "created_at": "2025-09-11T19:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966215246965780753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966215246965780753",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966215244776354162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着自己痛苦我好爽，看着自己好爽我很痛苦。仿佛到了第三人的视角，只是一个有共情能力的旁观者，内心更希望“她”再痛苦一点。我好兴奋，我好想杀人，我好想分尸，我好激动啊。如果看着别人痛苦挣扎那岂不是更好了，我岂不是不用再那么痛苦了。我骗了人，我骗了所有人，我不是人。我没骗人，我骗了自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 9,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1958619733080908114",
+    "created_at": "2026-05-11T22:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053965863657836603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666676434725912577",
+          "start": 0,
+          "username": "ywm183286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053965863657836603",
+    "in_reply_to_user_id": "1666676434725912577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958619733080908114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywm183286 emmm....我想问一下，老是这样子嘞听说会变笨，是真的吗？还容易死，要是轻点或者刚昏过去就松手也容易死吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958619725925425156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy5qQ3XboAQfHET.jpg",
+        "width": 919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958619729951956994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy5qRGXboAIYhQO.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1958619733080908114",
+        "created_at": "2026-05-11T22:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053965863657836603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666676434725912577",
+              "start": 0,
+              "username": "ywm183286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053965863657836603",
+        "in_reply_to_user_id": "1666676434725912577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958619733080908114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywm183286 emmm....我想问一下，老是这样子嘞听说会变笨，是真的吗？还容易死，要是轻点或者刚昏过去就松手也容易死吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958619725925425156",
+            "3_1958619729951956994"
+          ]
+        },
+        "author_id": "1666676434725912577",
+        "conversation_id": "1958619733080908114",
+        "created_at": "2025-08-21T19:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T20:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958619733080908114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "上吊"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "吊死"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "白绫"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "首吊"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "失禁"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "自缢"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "坐吊"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "裸绞"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "掐举"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "提起"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "绞刑"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "窒息"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "窒息"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "昏厥"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "呼吸控制"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "冰恋"
+            },
+            {
+              "end": 115,
+              "start": 107,
+              "tag": "hanging"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "首吊"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "neck"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "悬空"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "性窒息"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "首絞"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "掐脖子"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "勒脖子"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "闷晕"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "捂晕"
+            },
+            {
+              "end": 168,
+              "start": 157,
+              "tag": "breathplay"
+            },
+            {
+              "end": 172,
+              "start": 169,
+              "tag": "束缚"
+            },
+            {
+              "end": 183,
+              "start": 174,
+              "tag": "strangle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEutuMAwv5",
+              "end": 207,
+              "expanded_url": "https://x.com/ywm183286/status/1958619733080908114/photo/1",
+              "media_key": "3_1958619725925425156",
+              "start": 184,
+              "url": "https://t.co/gEutuMAwv5"
+            },
+            {
+              "display_url": "pic.x.com/gEutuMAwv5",
+              "end": 207,
+              "expanded_url": "https://x.com/ywm183286/status/1958619733080908114/photo/1",
+              "media_key": "3_1958619729951956994",
+              "start": 184,
+              "url": "https://t.co/gEutuMAwv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958619733080908114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1613,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人就是喜欢勒脖的大脑🧠充血快感，就是过程疯狂挣扎，令人不悦，勒到不会动为止吧！#上吊 #吊死 #白绫 #首吊 #失禁 #自缢 #坐吊 #裸绞 #掐举 #提起 #绞刑 #窒息 #窒息 #昏厥 #呼吸控制 #冰恋 #hanging #首吊 #neck #悬空 #性窒息 #首絞 #掐脖子 #勒脖子 #闷晕 #捂晕 #breathplay #束缚 \n#strangle https://t.co/gEutuMAwv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 141,
+          "like_count": 6915,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2995
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T05:20:14.000Z",
+        "description": "已有奴",
+        "id": "1666676434725912577",
+        "location": "Sichuan",
+        "name": "折磨使者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880727593613500416/vo0nAkjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 97,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 135
+        },
+        "username": "ywm183286",
+        "verified": false
+      }
+    ]
+  }
+}

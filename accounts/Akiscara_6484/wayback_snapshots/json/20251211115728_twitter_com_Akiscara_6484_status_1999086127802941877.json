@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999086116004356097",
+        "3_1999086116490891264",
+        "3_1999086116776157184"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "1999086127802941877",
+    "created_at": "2025-12-11T11:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999086127802941877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFQzgVVUzk",
+          "end": 105,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1999086127802941877/photo/1",
+          "media_key": "3_1999086116004356097",
+          "start": 82,
+          "url": "https://t.co/sFQzgVVUzk"
+        },
+        {
+          "display_url": "pic.x.com/sFQzgVVUzk",
+          "end": 105,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1999086127802941877/photo/1",
+          "media_key": "3_1999086116490891264",
+          "start": 82,
+          "url": "https://t.co/sFQzgVVUzk"
+        },
+        {
+          "display_url": "pic.x.com/sFQzgVVUzk",
+          "end": 105,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1999086127802941877/photo/1",
+          "media_key": "3_1999086116776157184",
+          "start": 82,
+          "url": "https://t.co/sFQzgVVUzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999086127802941877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来牵红线啦～（女同）\n这个小姐姐今年15岁，想谈一个女朋友，想找一个看鬼灭之刃的，想找一个t。微卡颜值。这个小姐姐是p。有意者私信我，我发联系方式，不要门槛哦～ https://t.co/sFQzgVVUzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_1999086116004356097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74uOxva4AE95Zd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1880,
+        "media_key": "3_1999086116490891264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74uOzja0AAfyif.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1999086116776157184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74uO0nboAA5m5x.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999086116004356097",
+            "3_1999086116490891264",
+            "3_1999086116776157184"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "1999086127802941877",
+        "created_at": "2025-12-11T11:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999086127802941877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFQzgVVUzk",
+              "end": 105,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1999086127802941877/photo/1",
+              "media_key": "3_1999086116004356097",
+              "start": 82,
+              "url": "https://t.co/sFQzgVVUzk"
+            },
+            {
+              "display_url": "pic.x.com/sFQzgVVUzk",
+              "end": 105,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1999086127802941877/photo/1",
+              "media_key": "3_1999086116490891264",
+              "start": 82,
+              "url": "https://t.co/sFQzgVVUzk"
+            },
+            {
+              "display_url": "pic.x.com/sFQzgVVUzk",
+              "end": 105,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1999086127802941877/photo/1",
+              "media_key": "3_1999086116776157184",
+              "start": 82,
+              "url": "https://t.co/sFQzgVVUzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999086127802941877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来牵红线啦～（女同）\n这个小姐姐今年15岁，想谈一个女朋友，想找一个看鬼灭之刃的，想找一个t。微卡颜值。这个小姐姐是p。有意者私信我，我发联系方式，不要门槛哦～ https://t.co/sFQzgVVUzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥错把陈醋当成墨，半身苦涩半身酸∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w加q。\n🉑聊天，喜欢萌妹子，友好🤝交流。偶尔出COS❤️\n11年，喜欢潜水看别人发推。属性较为猎奇😅话包子，夜猫子，只回复友好私信。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 23,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 148
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

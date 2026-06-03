@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005238359971745792",
+        "3_2005238360135344128"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005238367852925207",
+    "created_at": "2025-12-28T11:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005238367852925207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLzt7yGJcC",
+          "end": 40,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2005238367852925207/photo/1",
+          "media_key": "3_2005238359971745792",
+          "start": 17,
+          "url": "https://t.co/pLzt7yGJcC"
+        },
+        {
+          "display_url": "pic.x.com/pLzt7yGJcC",
+          "end": 40,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2005238367852925207/photo/1",
+          "media_key": "3_2005238360135344128",
+          "start": 17,
+          "url": "https://t.co/pLzt7yGJcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005238367852925207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有在自伤后才会关心我..... https://t.co/pLzt7yGJcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005238359971745792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QJqggaUAAXPV7.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005238360135344128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QJqhHaoAA7aPo.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005238359971745792",
+            "3_2005238360135344128"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005238367852925207",
+        "created_at": "2025-12-28T11:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005238367852925207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLzt7yGJcC",
+              "end": 40,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2005238367852925207/photo/1",
+              "media_key": "3_2005238359971745792",
+              "start": 17,
+              "url": "https://t.co/pLzt7yGJcC"
+            },
+            {
+              "display_url": "pic.x.com/pLzt7yGJcC",
+              "end": 40,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2005238367852925207/photo/1",
+              "media_key": "3_2005238360135344128",
+              "start": 17,
+              "url": "https://t.co/pLzt7yGJcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005238367852925207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有在自伤后才会关心我..... https://t.co/pLzt7yGJcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。发情男死妈，发情男死妈，发情男死妈。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 25,
+          "like_count": 2052,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 161
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

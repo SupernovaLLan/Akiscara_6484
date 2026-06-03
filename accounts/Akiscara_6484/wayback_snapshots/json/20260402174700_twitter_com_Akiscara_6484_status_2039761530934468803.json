@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2039740247618269193",
+    "created_at": "2026-04-02T17:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039761530934468803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939254584750522369",
+          "start": 0,
+          "username": "wrac_333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039761530934468803",
+    "in_reply_to_user_id": "1939254584750522369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039760830317863200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wrac_333 那就寻找一个替代品？或者寻找生命的意义？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2039740247618269193",
+        "created_at": "2026-04-02T17:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039761530934468803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939254584750522369",
+              "start": 0,
+              "username": "wrac_333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039761530934468803",
+        "in_reply_to_user_id": "1939254584750522369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039760830317863200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrac_333 那就寻找一个替代品？或者寻找生命的意义？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939254584750522369",
+        "conversation_id": "2039740247618269193",
+        "created_at": "2026-04-02T17:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039760830317863200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039760830317863200",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039760004199452951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 或许可以选择一种其他的临界处理方式。用以替代一些，很多时候你的情绪必须释放出来的，若一直压抑着你的心会很受伤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（不收男m，不准叫妈妈）\n家有男友.\n性骚扰草你妈\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 85,
+          "like_count": 5391,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1286
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T09:28:40.000Z",
+        "description": "互联网乐子人|高强度冲浪|INFP|看客|\n互联网老物——新于旧的界限分割·\n不键政不od不zc\n因之而生，不轻一缕。\n此生憨乐也",
+        "id": "1939254584750522369",
+        "name": "悬影流曦",
+        "pinned_tweet_id": "2025127239256527220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939254760860684288/TW3Q4NDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 249,
+          "like_count": 2801,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1352
+        },
+        "username": "wrac_333",
+        "verified": false
+      }
+    ]
+  }
+}

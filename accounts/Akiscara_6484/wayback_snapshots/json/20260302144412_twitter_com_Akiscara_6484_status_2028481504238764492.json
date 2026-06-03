@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028481501080457216",
+        "3_2028481497855094784"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2028481504238764492",
+    "created_at": "2026-03-02T14:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028481504238764492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H2h4Xpysij",
+          "end": 49,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028481504238764492/photo/1",
+          "media_key": "3_2028481501080457216",
+          "start": 26,
+          "url": "https://t.co/H2h4Xpysij"
+        },
+        {
+          "display_url": "pic.x.com/H2h4Xpysij",
+          "end": 49,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028481504238764492/photo/1",
+          "media_key": "3_2028481497855094784",
+          "start": 26,
+          "url": "https://t.co/H2h4Xpysij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028481504238764492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不嗑药不割手。我把嗜好都戒了就只能一直看着你了。 https://t.co/H2h4Xpysij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2028481501080457216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCadLYlaEAAjaLL.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028481497855094784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCadLMka8AADyfl.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028481501080457216",
+            "3_2028481497855094784"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2028481504238764492",
+        "created_at": "2026-03-02T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028481504238764492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2h4Xpysij",
+              "end": 49,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028481504238764492/photo/1",
+              "media_key": "3_2028481501080457216",
+              "start": 26,
+              "url": "https://t.co/H2h4Xpysij"
+            },
+            {
+              "display_url": "pic.x.com/H2h4Xpysij",
+              "end": 49,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028481504238764492/photo/1",
+              "media_key": "3_2028481497855094784",
+              "start": 26,
+              "url": "https://t.co/H2h4Xpysij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028481504238764492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不嗑药不割手。我把嗜好都戒了就只能一直看着你了。 https://t.co/H2h4Xpysij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 27,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 483
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

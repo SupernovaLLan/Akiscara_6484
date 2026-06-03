@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1998486425281638689",
+    "created_at": "2025-12-09T20:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T21:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998486425281638689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998486425281638689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前被我父亲虐待，应该算是吧。我那个时候好讨厌好难过，还很生气。许多情绪都堆积在一起。我讨厌被她绑起来打。但是现在好想被虐待，我那个时候还那么喜欢我爸爸。然后有一次我从2楼被拽着头发拉到一楼的小厕所。把我绑在椅子上让我挣扎，然后我挣扎开又被绑起来，他让我继续挣扎我挣扎开又被绑起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1998486425281638689",
+        "created_at": "2025-12-09T20:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T21:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998486425281638689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998486425281638689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前被我父亲虐待，应该算是吧。我那个时候好讨厌好难过，还很生气。许多情绪都堆积在一起。我讨厌被她绑起来打。但是现在好想被虐待，我那个时候还那么喜欢我爸爸。然后有一次我从2楼被拽着头发拉到一楼的小厕所。把我绑在椅子上让我挣扎，然后我挣扎开又被绑起来，他让我继续挣扎我挣扎开又被绑起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥错把陈醋当成墨，半身苦涩半身酸∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w加q。\n🉑聊天，喜欢萌妹子，友好🤝交流。偶尔出COS❤️\n11年，喜欢潜水看别人发推。属性较为猎奇😅话包子，夜猫子，只回复友好私信。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 23,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 143
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

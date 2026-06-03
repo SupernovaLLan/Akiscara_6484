@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2037599342861959194",
+    "created_at": "2026-03-27T18:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037599342861959194"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037599342861959194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那个时候我总害怕和爸爸一起吃饭。每次这样就要把饭碗扔在地上让我跪着吃或者趴着吃还要说我是狗，别人的母狗，是因为他才当的花花公主才能坐着吃饭。或者是吃爸爸剩下的饭菜，但是都凉掉了或者吃头一天剩下的，或者馊掉的冷饭。过后又是那句为了我好，是爸爸压力太大了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2037599342861959194",
+        "created_at": "2026-03-27T18:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037599342861959194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037599342861959194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个时候我总害怕和爸爸一起吃饭。每次这样就要把饭碗扔在地上让我跪着吃或者趴着吃还要说我是狗，别人的母狗，是因为他才当的花花公主才能坐着吃饭。或者是吃爸爸剩下的饭菜，但是都凉掉了或者吃头一天剩下的，或者馊掉的冷饭。过后又是那句为了我好，是爸爸压力太大了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥（18↓）\nod  自伤 \n家有男友.\n性骚扰草你妈死全家\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 63,
+          "like_count": 4302,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1009
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2013958811422249140",
+    "created_at": "2026-01-21T12:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013958811422249140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013958811422249140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天对象陪我去医院检查，我妈突然杀过来。踢了我对象一脚可把我心疼坏了，把他带走的时候我好担心。好在和我妈聊开了，我妈也冷静下来了，相互加了微信，希望我好好学习。然后今天就在图书馆学习。好开心，我的药也买了也在吃了，一切好像都在往好的方向发展，我真幸福，真不能离开我对象。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2013958811422249140",
+        "created_at": "2026-01-21T12:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013958811422249140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013958811422249140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天对象陪我去医院检查，我妈突然杀过来。踢了我对象一脚可把我心疼坏了，把他带走的时候我好担心。好在和我妈聊开了，我妈也冷静下来了，相互加了微信，希望我好好学习。然后今天就在图书馆学习。好开心，我的药也买了也在吃了，一切好像都在往好的方向发展，我真幸福，真不能离开我对象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od已戒（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，家有男友，家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。\n私信不回恶臭发言男。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 24,
+          "like_count": 2323,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 255
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

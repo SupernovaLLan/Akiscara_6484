@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059712280481435874",
+    "created_at": "2026-05-27T19:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059712280481435874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059712280481435874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特傻福气得我大半夜睡不着，真佩服大主播的心理素质，我有点流量都这样更别说什么大主播和走黑红路线的。非常佩服心理素质和这大气程度哈。本来我想当一个温柔的人对这些东西视而不见。刚刚开始气得我想哭很难过，后面给我气得睡不着，还想骂回去了哈。一人一句要人命。再也样下去我迟早恶臭且暴躁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059712280481435874",
+        "created_at": "2026-05-27T19:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059712280481435874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059712280481435874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特傻福气得我大半夜睡不着，真佩服大主播的心理素质，我有点流量都这样更别说什么大主播和走黑红路线的。非常佩服心理素质和这大气程度哈。本来我想当一个温柔的人对这些东西视而不见。刚刚开始气得我想哭很难过，后面给我气得睡不着，还想骂回去了哈。一人一句要人命。再也样下去我迟早恶臭且暴躁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 164,
+          "like_count": 7019,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 3920
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

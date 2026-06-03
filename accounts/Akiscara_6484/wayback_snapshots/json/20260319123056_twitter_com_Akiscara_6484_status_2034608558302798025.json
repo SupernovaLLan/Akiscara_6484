@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2034608558302798025",
+    "created_at": "2026-03-19T12:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034608558302798025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ripkenno/statu…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/ripkenno/status/2033271730781790279",
+          "start": 46,
+          "url": "https://t.co/SSXTtn4Pkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034608558302798025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033271730781790279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中间是不是有一层膜啊？如果没有的话把肋骨剪开是不是能掏里面的内脏了。内脏会不会直接流出来？ https://t.co/SSXTtn4Pkg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29395,
+        "height": 482,
+        "media_key": "13_2033271640830717952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033271640830717952/img/SyZjqQgg3xAoxa-D.jpg",
+        "public_metrics": {
+          "view_count": 21195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/vid/avc1/496x270/n5KdtO85lOMyGBtz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/vid/avc1/662x360/eut7M6n77DF52d4t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/vid/avc1/888x482/WaAO_bBVcCbvALOZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/pl/25kpmKKJNCKCfGkj.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2034608558302798025",
+        "created_at": "2026-03-19T12:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034608558302798025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripkenno/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/ripkenno/status/2033271730781790279",
+              "start": 46,
+              "url": "https://t.co/SSXTtn4Pkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034608558302798025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033271730781790279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中间是不是有一层膜啊？如果没有的话把肋骨剪开是不是能掏里面的内脏了。内脏会不会直接流出来？ https://t.co/SSXTtn4Pkg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033271640830717952"
+          ]
+        },
+        "author_id": "2025775398890491904",
+        "conversation_id": "2033271730781790279",
+        "created_at": "2026-03-15T19:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033271730781790279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "shtwt"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "goretwt"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "988twt"
+            },
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "988shtwt"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "slittwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqphC0qGkk",
+              "end": 116,
+              "expanded_url": "https://x.com/ripkenno/status/2033271730781790279/video/1",
+              "media_key": "13_2033271640830717952",
+              "start": 93,
+              "url": "https://t.co/DqphC0qGkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033271730781790279",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1377,
+          "impression_count": 55605,
+          "like_count": 5667,
+          "quote_count": 25,
+          "reply_count": 165,
+          "retweet_count": 1131
+        },
+        "reply_settings": "everyone",
+        "text": "not that big but kinda cool sfx rib cut \n#shtwt #shedtwt #goretwt #988twt #988shtwt #slittwt https://t.co/DqphC0qGkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，双向，自残，od。\n家有男友，家有男友，家有男友。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 56,
+          "like_count": 3966,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 889
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T03:31:31.000Z",
+        "description": "bmi 15 ndni 16y bipolar, conduct disorder \ndo not be surprised by any of my actions - account is for research/art purposes only PRO HORROR MOVIE SFX ARTIST",
+        "id": "2025775398890491904",
+        "location": "sniped at 2.9k💔",
+        "name": "kenno",
+        "pinned_tweet_id": "2033271730781790279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028318967203246080/jLjOLN3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 449,
+          "like_count": 2651,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 438
+        },
+        "username": "ripkenno",
+        "verified": false
+      }
+    ]
+  }
+}

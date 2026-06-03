@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060277944459902976"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2060277952240341111",
+    "created_at": "2026-05-29T08:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060277952240341111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cdZAdIKPYm",
+          "end": 41,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2060277952240341111/photo/1",
+          "media_key": "3_2060277944459902976",
+          "start": 18,
+          "url": "https://t.co/cdZAdIKPYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060277952240341111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "行，我现在满16岁了。过几天成年。 https://t.co/cdZAdIKPYm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060277952240341111].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060277952240341111",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060277952240341111"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1626,
+        "media_key": "3_2060277944459902976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeT3-oawAA--UJ.jpg",
+        "width": 904
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 164,
+          "like_count": 7064,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 4009
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

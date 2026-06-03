@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2042278829025296669",
+    "created_at": "2026-04-10T01:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T02:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042410978890170725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "KashabaiSilver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042410978890170725",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042406673747485065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KashabaiSilver 确实啊，或许早就没有未来了。而且我当下这个状态去工作的话，也并没有那么可观。既然横竖都没有未来的话，那拼一把？出门看看？除非我一直保持我的分数线在600左右，这样或许会好点。上学的话或许只是晚一点吃生活的苦吧。但我不会太绝对的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2042278829025296669",
+        "created_at": "2026-04-10T01:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042410978890170725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "KashabaiSilver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042410978890170725",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042406673747485065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KashabaiSilver 确实啊，或许早就没有未来了。而且我当下这个状态去工作的话，也并没有那么可观。既然横竖都没有未来的话，那拼一把？出门看看？除非我一直保持我的分数线在600左右，这样或许会好点。上学的话或许只是晚一点吃生活的苦吧。但我不会太绝对的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "2042278829025296669",
+        "created_at": "2026-04-10T00:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042406673747485065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042406673747485065",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278833953640638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 以目前中国的就业情况来说，不管你是什么学业都很难让你工作\n\n或者说你其实早就已经没有未来了，包括你的对象其实也是…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 99,
+          "like_count": 6413,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1620
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintaureliaev…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintaureliaevergarden",
+                "start": 0,
+                "url": "https://t.co/G1S4F934aJ"
+              }
+            ]
+          }
+        },
+        "id": "1781207661922701313",
+        "location": "Malaysia",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurelia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "1906662123180347605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980793192005632/ygaC_zoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 125,
+          "like_count": 135220,
+          "listed_count": 3,
+          "media_count": 5598,
+          "tweet_count": 74854
+        },
+        "url": "https://t.co/G1S4F934aJ",
+        "username": "KashabaiSilver",
+        "verified": false
+      }
+    ]
+  }
+}

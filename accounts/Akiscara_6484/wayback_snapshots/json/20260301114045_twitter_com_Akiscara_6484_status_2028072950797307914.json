@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028072918610284544"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2028072950797307914",
+    "created_at": "2026-03-01T11:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T12:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028072950797307914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s7IDwEa3hZ",
+          "end": 34,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028072950797307914/video/1",
+          "media_key": "7_2028072918610284544",
+          "start": 11,
+          "url": "https://t.co/s7IDwEa3hZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028072950797307914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没错，我就这样喝汤。 https://t.co/s7IDwEa3hZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8725,
+        "height": 1280,
+        "media_key": "7_2028072918610284544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028072918610284544/pu/img/vAeFQuKiuZMUOMYz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028072918610284544/pu/vid/avc1/320x568/ECHp2M_GNq29FPnj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028072918610284544/pu/vid/avc1/480x852/RCRPhd4vo6zYrboG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028072918610284544/pu/vid/avc1/720x1280/xxGQMmWQLS1CNXTl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028072918610284544/pu/pl/xgFt5bHvwkwBfeVw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028072918610284544"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2028072950797307914",
+        "created_at": "2026-03-01T11:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028072950797307914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7IDwEa3hZ",
+              "end": 34,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028072950797307914/video/1",
+              "media_key": "7_2028072918610284544",
+              "start": 11,
+              "url": "https://t.co/s7IDwEa3hZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028072950797307914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没错，我就这样喝汤。 https://t.co/s7IDwEa3hZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 26,
+          "like_count": 2981,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 451
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

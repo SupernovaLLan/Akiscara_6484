@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2060908487325200539",
+    "created_at": "2026-05-31T17:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061140255827534319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025558473082322944",
+          "start": 0,
+          "username": "godgunnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061140255827534319",
+    "in_reply_to_user_id": "2025558473082322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060908487325200539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godgunnnnn 没事，没几个学懂的，考砸了又不是人生完蛋了，没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2060908487325200539",
+        "created_at": "2026-05-31T17:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061140255827534319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025558473082322944",
+              "start": 0,
+              "username": "godgunnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061140255827534319",
+        "in_reply_to_user_id": "2025558473082322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060908487325200539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godgunnnnn 没事，没几个学懂的，考砸了又不是人生完蛋了，没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025558473082322944",
+        "conversation_id": "2060908487325200539",
+        "created_at": "2026-05-31T02:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060908487325200539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060908487325200539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "应该考砸了，真的好烦\n妈的到底是谁在学懂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（ fifteen years old）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪66好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 167,
+          "like_count": 7105,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 4097
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T13:09:15.000Z",
+        "description": "07大学生  还在读读读读读  \n目标是做一个温柔的人（什）",
+        "id": "2025558473082322944",
+        "location": "中国西安",
+        "name": "王梓瑾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025558571937861633/IH4GpEEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 81
+        },
+        "username": "godgunnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

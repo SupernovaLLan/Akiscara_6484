@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2005352550309216388",
+    "created_at": "2025-12-28T18:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T19:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005352550309216388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005352550309216388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像我这种穷逼，生病都生不起的。住院一个月都得要1w+。纯飞雾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2005352550309216388",
+        "created_at": "2025-12-28T18:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005352550309216388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005352550309216388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像我这种穷逼，生病都生不起的。住院一个月都得要1w+。纯飞雾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。发情男死妈，发情男死妈，发情男死妈。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 25,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 165
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

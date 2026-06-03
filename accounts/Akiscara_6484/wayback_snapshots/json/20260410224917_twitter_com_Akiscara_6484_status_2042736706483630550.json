@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2042362143061000261",
+    "created_at": "2026-04-10T22:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T23:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042736706483630550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908630026012004353",
+          "start": 0,
+          "username": "Oscxiar_0716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042736706483630550",
+    "in_reply_to_user_id": "1908630026012004353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042642201096970383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscxiar_0716 多发点推应该就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2042362143061000261",
+        "created_at": "2026-04-10T22:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042736706483630550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042736706483630550",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042642201096970383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 多发点推应该就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908630026012004353",
+        "conversation_id": "2042362143061000261",
+        "created_at": "2026-04-10T16:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042642201096970383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042642201096970383",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042362143061000261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 我没上去 好伤心这是对我的否定🫥🫥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 101,
+          "like_count": 6455,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1645
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "id": "1908630026012004353",
+        "location": "法兰西第五共和国",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 349,
+          "like_count": 1909,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1048
+        },
+        "username": "Oscxiar_0716",
+        "verified": false
+      }
+    ]
+  }
+}

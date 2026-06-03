@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2024999672864280576",
+        "3_2024999674915291136"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2024999713465102644",
+    "created_at": "2026-02-21T00:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024999713465102644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wFtykMQ1S7",
+          "end": 154,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2024999713465102644/video/1",
+          "media_key": "7_2024999672864280576",
+          "start": 131,
+          "url": "https://t.co/wFtykMQ1S7"
+        },
+        {
+          "display_url": "pic.x.com/wFtykMQ1S7",
+          "end": 154,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2024999713465102644/video/1",
+          "media_key": "3_2024999674915291136",
+          "start": 131,
+          "url": "https://t.co/wFtykMQ1S7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024999713465102644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家里的门锁永远是坏的，无论是哪个房间，都是我父亲母亲踹烂的。睡的好好的突然就踹门，给我弟一顿骂，还说要整死他。他的脸是小时候被打歪的，我的也是。家里没钱给他买衣服穿的就不太好，带出门见亲戚又觉得丢脸。门牙不小心被磕断了也不会带他去看看。每天贬低他却嫌弃他自卑。 https://t.co/wFtykMQ1S7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17834,
+        "height": 1280,
+        "media_key": "7_2024999672864280576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024999672864280576/pu/img/1I1-vw0YaBiL16Xn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024999672864280576/pu/vid/avc1/320x568/vrhyt4w1UpGEq11x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024999672864280576/pu/vid/avc1/480x852/UUUeBHW42djk9KOb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024999672864280576/pu/vid/avc1/720x1280/zBfWxv5jhiyvntQn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024999672864280576/pu/pl/-WSmQuPCiq7xXbYI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024999674915291136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBo-ebWbgAAZelX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024999672864280576",
+            "3_2024999674915291136"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024999713465102644",
+        "created_at": "2026-02-21T00:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024999713465102644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFtykMQ1S7",
+              "end": 154,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2024999713465102644/video/1",
+              "media_key": "7_2024999672864280576",
+              "start": 131,
+              "url": "https://t.co/wFtykMQ1S7"
+            },
+            {
+              "display_url": "pic.x.com/wFtykMQ1S7",
+              "end": 154,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2024999713465102644/video/1",
+              "media_key": "3_2024999674915291136",
+              "start": 131,
+              "url": "https://t.co/wFtykMQ1S7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024999713465102644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里的门锁永远是坏的，无论是哪个房间，都是我父亲母亲踹烂的。睡的好好的突然就踹门，给我弟一顿骂，还说要整死他。他的脸是小时候被打歪的，我的也是。家里没钱给他买衣服穿的就不太好，带出门见亲戚又觉得丢脸。门牙不小心被磕断了也不会带他去看看。每天贬低他却嫌弃他自卑。 https://t.co/wFtykMQ1S7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 25,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 360
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

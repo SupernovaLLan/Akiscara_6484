@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052926612535128347",
+    "created_at": "2026-05-09T17:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053170172102676645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874890159134838784",
+          "start": 0,
+          "username": "abbb1234_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053170172102676645",
+    "in_reply_to_user_id": "1874890159134838784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053168508805185780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abbb1234_ emmmmm......有道理。我有点不知道该说什么了。那我离这种人远远的就好了！😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052926612535128347",
+        "created_at": "2026-05-09T17:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053170172102676645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874890159134838784",
+              "start": 0,
+              "username": "abbb1234_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053170172102676645",
+        "in_reply_to_user_id": "1874890159134838784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053168508805185780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abbb1234_ emmmmm......有道理。我有点不知道该说什么了。那我离这种人远远的就好了！😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874890159134838784",
+        "conversation_id": "2052926612535128347",
+        "created_at": "2026-05-09T17:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053168508805185780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053168508805185780",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053166607703429430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 唉，还是家庭教育唉\n往搞笑了说，你的自罚心理可以被性化利用（即评论区里的SM）；往严肃了说，若不控制其发展，最终可能会导致过于严重的躯体损伤（甚至死亡）以及对人格的影响/改变（比如从惭愧性地希望“不犯错/达成期望”变成讨好性的希望“满足他人”）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 135,
+          "like_count": 6891,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 2845
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T18:47:20.000Z",
+        "description": "只是想模仿这样写｜为什么都喜欢这样｜应该是intp｜没病但是够傻逼｜负面属性太多不想打｜小药片和小刀片没什么勾引力了｜谢谢你的fo但是为什么",
+        "id": "1874890159134838784",
+        "name": "abb123-我是偷妈头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252648770326528/prQ2myhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 116
+        },
+        "username": "abbb1234_",
+        "verified": false
+      }
+    ]
+  }
+}

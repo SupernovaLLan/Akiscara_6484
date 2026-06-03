@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058508734998225336",
+    "created_at": "2026-05-24T11:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058514763924283879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "26503819",
+          "start": 0,
+          "username": "rei_chaixaaghi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058514763924283879",
+    "in_reply_to_user_id": "26503819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058514332602810818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei_chaixaaghi 好多表情包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2058514327607386112",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJFP394XIAAX2SQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJFP394XIAAX2SQ.mp4"
+          }
+        ],
+        "width": 382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2058508734998225336",
+        "created_at": "2026-05-24T11:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058514763924283879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "26503819",
+              "start": 0,
+              "username": "rei_chaixaaghi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058514763924283879",
+        "in_reply_to_user_id": "26503819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058514332602810818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei_chaixaaghi 好多表情包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058514327607386112"
+          ]
+        },
+        "author_id": "26503819",
+        "conversation_id": "2058508734998225336",
+        "created_at": "2026-05-24T11:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058514332602810818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuO96AGFKF",
+              "end": 38,
+              "expanded_url": "https://x.com/rei_chaixaaghi/status/2058514332602810818/photo/1",
+              "media_key": "16_2058514327607386112",
+              "start": 15,
+              "url": "https://t.co/iuO96AGFKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058514332602810818",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058514223463112885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 https://t.co/iuO96AGFKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（分享日常生活，碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心看见会难过（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 157,
+          "like_count": 6926,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 3637
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-25T14:08:04.000Z",
+        "description": "放松,good vibes, 探索世界☺️ INTP. (languages/语言 🇸🇪🇺🇲🇩🇪🇨🇳🇰🇷🇯🇵🇧🇷🇪🇦🇷🇺🇲🇫🇹🇷）pfp by: @siroko_mk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "siroko_mk"
+              }
+            ]
+          }
+        },
+        "id": "26503819",
+        "location": "서울 어쩌면",
+        "name": "ザげテレス 🦊",
+        "pinned_tweet_id": "1959355921215152276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728920051271553024/U5WThnOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 312,
+          "like_count": 21952,
+          "listed_count": 0,
+          "media_count": 3236,
+          "tweet_count": 12760
+        },
+        "username": "rei_chaixaaghi",
+        "verified": false
+      }
+    ]
+  }
+}

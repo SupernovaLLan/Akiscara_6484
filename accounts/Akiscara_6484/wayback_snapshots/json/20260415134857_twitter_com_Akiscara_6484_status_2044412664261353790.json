@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044412654010429440",
+        "3_2044412654215892992"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2044412664261353790",
+    "created_at": "2026-04-15T13:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044412664261353790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8I2WNOUcUX",
+          "end": 30,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2044412664261353790/photo/1",
+          "media_key": "3_2044412654010429440",
+          "start": 7,
+          "url": "https://t.co/8I2WNOUcUX"
+        },
+        {
+          "display_url": "pic.x.com/8I2WNOUcUX",
+          "end": 30,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2044412664261353790/photo/1",
+          "media_key": "3_2044412654215892992",
+          "start": 7,
+          "url": "https://t.co/8I2WNOUcUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044412664261353790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被人机占领了 https://t.co/8I2WNOUcUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044412654010429440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF82eiCa8AA0Z-m.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044412654215892992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF82eizaEAAvRiU.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044412654010429440",
+            "3_2044412654215892992"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2044412664261353790",
+        "created_at": "2026-04-15T13:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044412664261353790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8I2WNOUcUX",
+              "end": 30,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2044412664261353790/photo/1",
+              "media_key": "3_2044412654010429440",
+              "start": 7,
+              "url": "https://t.co/8I2WNOUcUX"
+            },
+            {
+              "display_url": "pic.x.com/8I2WNOUcUX",
+              "end": 30,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2044412664261353790/photo/1",
+              "media_key": "3_2044412654215892992",
+              "start": 7,
+              "url": "https://t.co/8I2WNOUcUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044412664261353790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被人机占领了 https://t.co/8I2WNOUcUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 104,
+          "like_count": 6691,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1805
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

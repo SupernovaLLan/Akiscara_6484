@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058595221131395072"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058595262088819157",
+    "created_at": "2026-05-24T17:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058595262088819157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jWVD0Qwbvd",
+          "end": 104,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2058595262088819157/video/1",
+          "media_key": "7_2058595221131395072",
+          "start": 81,
+          "url": "https://t.co/jWVD0Qwbvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058595262088819157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十年之内无人听懂她在说什么。我大半夜还在听，还是没听懂..........纳闷了。（她o大了说话说不清楚，我理解能力有问题还耳背，昨天就这样仙家对话半个多小时） https://t.co/jWVD0Qwbvd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058595262088819157].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058595262088819157",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058595262088819157"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22549,
+        "height": 720,
+        "media_key": "7_2058595221131395072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058595221131395072/pu/img/iwucgS_xGR6_22D7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058595221131395072/pu/vid/avc1/480x270/9fNDgRaApcxw_ULN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058595221131395072/pu/vid/avc1/640x360/Nz_jBhzdHeWfjEcW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058595221131395072/pu/vid/avc1/1280x720/gAjrw_afQaln8Zou.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058595221131395072/pu/pl/d821z5gjinkXksDC.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（分享日常生活，碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心看见会难过（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 158,
+          "like_count": 6932,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 3674
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

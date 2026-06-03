@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058856116222857526",
+    "created_at": "2026-05-25T17:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058966109555196160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004844517263114241",
+          "start": 0,
+          "username": "qwqcoii1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058966109555196160",
+    "in_reply_to_user_id": "2004844517263114241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058856116222857526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqcoii1214 最近我们这里热热的～希望你那边明天晴但没那么热吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2058856108014571521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKGuNHaEAEdHzk.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2058856116222857526",
+        "created_at": "2026-05-25T17:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058966109555196160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004844517263114241",
+              "start": 0,
+              "username": "qwqcoii1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058966109555196160",
+        "in_reply_to_user_id": "2004844517263114241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058856116222857526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqcoii1214 最近我们这里热热的～希望你那边明天晴但没那么热吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058856108014571521"
+          ]
+        },
+        "author_id": "2004844517263114241",
+        "conversation_id": "2058856116222857526",
+        "created_at": "2026-05-25T10:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058856116222857526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CekPTBAbpC",
+              "end": 144,
+              "expanded_url": "https://x.com/qwqcoii1214/status/2058856116222857526/photo/1",
+              "media_key": "3_2058856108014571521",
+              "start": 121,
+              "url": "https://t.co/CekPTBAbpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058856116222857526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近日碎碎念：明天师姐就要毕业答辩了，她一走，我就成研三的了😭补药走啊补药啊。买了花花明天送给她们～\n昨天吃399的寿喜烧自助给我吃吐了…过几天师门毕业聚餐去吃烧烤，已不敢上称哦呵呵呵…\n好讨厌下雨，潮湿粘腻闷热还有蚯蚓，等天晴（但也别太热🌚 https://t.co/CekPTBAbpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/m/受虐（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 159,
+          "like_count": 6939,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 3751
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T09:19:32.000Z",
+        "description": "淡淡的…就会顺顺的…",
+        "id": "2004844517263114241",
+        "name": "记忆结成冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007376051064950784/dPzpnXXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 102,
+          "like_count": 4549,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 742
+        },
+        "username": "qwqcoii1214",
+        "verified": false
+      }
+    ]
+  }
+}

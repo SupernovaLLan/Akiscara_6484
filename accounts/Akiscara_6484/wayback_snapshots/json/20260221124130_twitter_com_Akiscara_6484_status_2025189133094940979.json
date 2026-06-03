@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2025020396475723980",
+    "created_at": "2026-02-21T12:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025189133094940979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901358988173991936",
+          "start": 0,
+          "username": "karashaaaaa"
+        },
+        {
+          "end": 24,
+          "id": "1669250248265302020",
+          "start": 13,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025189133094940979",
+    "in_reply_to_user_id": "1901358988173991936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025186889142337684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karashaaaaa @xu96175836 就是啊，显得自己老高贵了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2025020396475723980",
+        "created_at": "2026-02-21T12:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025189133094940979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901358988173991936",
+              "start": 0,
+              "username": "karashaaaaa"
+            },
+            {
+              "end": 24,
+              "id": "1669250248265302020",
+              "start": 13,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025189133094940979",
+        "in_reply_to_user_id": "1901358988173991936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025186889142337684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karashaaaaa @xu96175836 就是啊，显得自己老高贵了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901358988173991936",
+        "conversation_id": "2025020396475723980",
+        "created_at": "2026-02-21T12:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025186889142337684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 26,
+              "id": "1669250248265302020",
+              "start": 15,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025186889142337684",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025129158062604388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 @xu96175836 xhs特别多这种人。真的感觉没脑子 没有人想看他们的手是什么样的 感觉自从各大国内平台出了图片评论就冒出来更多智障了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 25,
+          "like_count": 2703,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 371
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T19:44:58.000Z",
+        "description": "是からしゃ大王😈照片全是高p线下查无此人|\n匿名https://t.co/Ymz7tzOxlE \n女孩子可以加🫧\n无聊的时候也可以找我聊天滴～我很健谈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karasha",
+                "end": 47,
+                "expanded_url": "https://ngl.link/karasha",
+                "start": 24,
+                "url": "https://t.co/Ymz7tzOxlE"
+              }
+            ]
+          }
+        },
+        "id": "1901358988173991936",
+        "location": "幸福降临我身边",
+        "name": "Jinarix_xa",
+        "pinned_tweet_id": "2022360057451848010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021271728811540483/MrD0CVNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 36,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1008
+        },
+        "username": "karashaaaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120779,
+          "following_count": 1503,
+          "like_count": 7667,
+          "listed_count": 360,
+          "media_count": 11387,
+          "tweet_count": 12648
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

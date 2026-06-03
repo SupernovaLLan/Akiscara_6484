@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2033956927256879236",
+    "created_at": "2026-04-06T02:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040977945217601688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1303206498294738944",
+          "start": 0,
+          "username": "Mariodrac4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040977945217601688",
+    "in_reply_to_user_id": "1303206498294738944",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040977442567774397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mariodrac4 Which country are you from"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2033956927256879236",
+        "created_at": "2026-04-06T02:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040977945217601688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1303206498294738944",
+              "start": 0,
+              "username": "Mariodrac4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040977945217601688",
+        "in_reply_to_user_id": "1303206498294738944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040977442567774397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mariodrac4 Which country are you from"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303206498294738944",
+        "conversation_id": "2033956927256879236",
+        "created_at": "2026-04-06T02:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040977442567774397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040977442567774397",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040976599965896981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 I do it because I don't have no one to talk :("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（不收男m，不准叫妈妈）\n家有男友.\n性骚扰草你妈\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 88,
+          "like_count": 5623,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1345
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T05:40:30.000Z",
+        "description": "Well... hi",
+        "id": "1303206498294738944",
+        "name": "Mariodrac",
+        "pinned_tweet_id": "1944538389069635879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932130103040892928/QQi_liri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 93,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 151
+        },
+        "username": "Mariodrac4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1962534221777637767",
+    "created_at": "2025-09-04T14:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963604420257878295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1776127805618847744",
+          "start": 0,
+          "username": "bornsexhk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963604420257878295",
+    "in_reply_to_user_id": "1776127805618847744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962549879475236984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bornsexhk 什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1962534221777637767",
+        "created_at": "2025-09-04T14:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963604420257878295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1776127805618847744",
+              "start": 0,
+              "username": "bornsexhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963604420257878295",
+        "in_reply_to_user_id": "1776127805618847744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962549879475236984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bornsexhk 什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776127805618847744",
+        "conversation_id": "1962534221777637767",
+        "created_at": "2025-09-01T16:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962549879475236984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962549879475236984",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962534221777637767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 Dm?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 4,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T06:00:49.000Z",
+        "description": "香港 29yo 男 專業人士 不定期分享 不露臉🤭 always looking for the next actress",
+        "id": "1776127805618847744",
+        "location": "Hong Kong",
+        "name": "HKHomeMade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836660156857470976/uK41UQG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "bornsexhk",
+        "verified": false
+      }
+    ]
+  }
+}

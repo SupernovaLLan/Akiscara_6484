@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002969793327157248"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2002969795738972162",
+    "created_at": "2025-12-22T05:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T06:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002969795738972162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ss05Y4CKcC",
+          "end": 40,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2002969795738972162/photo/1",
+          "media_key": "3_2002969793327157248",
+          "start": 17,
+          "url": "https://t.co/Ss05Y4CKcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002969795738972162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "活又活不好，死又死不成。我草米嘛 https://t.co/Ss05Y4CKcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2002969793327157248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8v6ajMaUAA7I3T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002969793327157248"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2002969795738972162",
+        "created_at": "2025-12-22T05:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002969795738972162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ss05Y4CKcC",
+              "end": 40,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2002969795738972162/photo/1",
+              "media_key": "3_2002969793327157248",
+              "start": 17,
+              "url": "https://t.co/Ss05Y4CKcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002969795738972162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活又活不好，死又死不成。我草米嘛 https://t.co/Ss05Y4CKcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥错把陈醋当成墨，半身苦涩半身酸∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w加q。\n🉑聊天，喜欢萌妹子，友好🤝交流。偶尔出COS❤️\n11年，喜欢潜水看别人发推。属性较为猎奇😅话包子，夜猫子，只回复友好私信。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 25,
+          "like_count": 1911,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 166
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

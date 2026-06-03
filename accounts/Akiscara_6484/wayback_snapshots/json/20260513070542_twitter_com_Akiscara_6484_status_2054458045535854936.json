@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2054157549226856929",
+    "created_at": "2026-05-13T07:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054458045535854936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037090530467995648",
+          "start": 0,
+          "username": "A920520"
+        },
+        {
+          "end": 23,
+          "id": "1986291014370545665",
+          "start": 9,
+          "username": "pleasehelp070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054458045535854936",
+    "in_reply_to_user_id": "2037090530467995648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054161566959071658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A920520 @pleasehelp070 可能是被ban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2054157549226856929",
+        "created_at": "2026-05-13T07:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054458045535854936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037090530467995648",
+              "start": 0,
+              "username": "A920520"
+            },
+            {
+              "end": 23,
+              "id": "1986291014370545665",
+              "start": 9,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054458045535854936",
+        "in_reply_to_user_id": "2037090530467995648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054161566959071658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A920520 @pleasehelp070 可能是被ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037090530467995648",
+        "conversation_id": "2054157549226856929",
+        "created_at": "2026-05-12T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054161566959071658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054161566959071658",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054157549226856929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 怎么了发生什么事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 147,
+          "like_count": 6891,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 3180
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:53:36.000Z",
+        "description": "身高188.体重135，土象处女座，妹控，infj绿老头，有点爱喝酒，开心的时候不怎么喝，喜欢冒险，刺激，有激情，有挑战的事，属性s，会点绳缚，另外接私人定制小狗小猫项圈，脾气很好，性格很好，想认识好多新朋友",
+        "id": "2037090530467995648",
+        "name": "林飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037090657848942592/kDT51ZvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 126,
+          "like_count": 1781,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 431
+        },
+        "username": "A920520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 164,
+          "like_count": 3166,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 798
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

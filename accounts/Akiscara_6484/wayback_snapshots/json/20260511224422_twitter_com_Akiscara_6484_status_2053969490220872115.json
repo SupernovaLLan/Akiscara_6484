@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053673232457433317",
+    "created_at": "2026-05-11T22:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053969490220872115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462903099895414784",
+          "start": 0,
+          "username": "jinpika2333"
+        },
+        {
+          "end": 23,
+          "id": "1868117602356359168",
+          "start": 13,
+          "username": "maimaiRC_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053969490220872115",
+    "in_reply_to_user_id": "1462903099895414784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053968537606369347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinpika2333 @maimaiRC_ 哈哈哈哈哈哈哈哈，算了，请原谅我笑得太大声。我真的没绷住。我是受过专业训练的，一般不会笑，除非太好笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053673232457433317",
+        "created_at": "2026-05-11T22:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053969490220872115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462903099895414784",
+              "start": 0,
+              "username": "jinpika2333"
+            },
+            {
+              "end": 23,
+              "id": "1868117602356359168",
+              "start": 13,
+              "username": "maimaiRC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053969490220872115",
+        "in_reply_to_user_id": "1462903099895414784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053968537606369347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinpika2333 @maimaiRC_ 哈哈哈哈哈哈哈哈，算了，请原谅我笑得太大声。我真的没绷住。我是受过专业训练的，一般不会笑，除非太好笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462903099895414784",
+        "conversation_id": "2053673232457433317",
+        "created_at": "2026-05-11T22:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053968537606369347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907294384544190464",
+              "start": 0,
+              "username": "Keo24106"
+            },
+            {
+              "end": 20,
+              "id": "1868117602356359168",
+              "start": 10,
+              "username": "maimaiRC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053968537606369347",
+        "in_reply_to_user_id": "1907294384544190464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053752974661603678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keo24106 @maimaiRC_ _(:⁍」∠)_艹笑死了，绷不住啊，哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 141,
+          "like_count": 6916,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3007
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-22T21:57:44.000Z",
+        "description": "",
+        "id": "1462903099895414784",
+        "name": "金皮卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462903150172680194/Jj9kTdjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 964,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 217
+        },
+        "username": "jinpika2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:15:26.000Z",
+        "description": "交友投稿| 情感分析|大赛举办｜分享宝宝们的日常｜偶尔抽奖|接正规有偿转发｜所有投稿均已认证｜可接认证｜推广自辨｜私信容易被吞 若未回复滴我✈️ https://t.co/6DZKgy1VqO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/shaobei_XZ",
+                "end": 96,
+                "expanded_url": "https://t.me/shaobei_XZ",
+                "start": 73,
+                "url": "https://t.co/6DZKgy1VqO"
+              }
+            ]
+          }
+        },
+        "id": "1868117602356359168",
+        "location": "爱这里💙",
+        "name": "烧杯学长",
+        "pinned_tweet_id": "2027673517630824782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003105127641808896/f4vQS7RF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176199,
+          "following_count": 260,
+          "like_count": 945,
+          "listed_count": 228,
+          "media_count": 1861,
+          "tweet_count": 2706
+        },
+        "username": "maimaiRC_",
+        "verified": true
+      }
+    ]
+  }
+}

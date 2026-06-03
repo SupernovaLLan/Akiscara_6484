@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059691393506013500",
+    "created_at": "2026-05-27T17:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059691393506013500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuri__ono/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yuri__ono/status/2059309066191802679",
+          "start": 4,
+          "url": "https://t.co/HLw2p2UrUY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059691393506013500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059309066191802679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是 https://t.co/HLw2p2UrUY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 119,
+        "media_key": "3_2059309060831481860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQirh2akAQ8QfH.jpg",
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059691393506013500",
+        "created_at": "2026-05-27T17:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059691393506013500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuri__ono/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yuri__ono/status/2059309066191802679",
+              "start": 4,
+              "url": "https://t.co/HLw2p2UrUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059691393506013500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059309066191802679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是 https://t.co/HLw2p2UrUY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059309060831481860"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2059309066191802679",
+        "created_at": "2026-05-26T16:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059309066191802679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1Y4vYRwaa",
+              "end": 36,
+              "expanded_url": "https://x.com/yuri__ono/status/2059309066191802679/photo/1",
+              "media_key": "3_2059309060831481860",
+              "start": 13,
+              "url": "https://t.co/X1Y4vYRwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059309066191802679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 60869,
+          "like_count": 826,
+          "quote_count": 11,
+          "reply_count": 244,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "我每天上线就盯着这个了！ https://t.co/X1Y4vYRwaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 161,
+          "like_count": 6994,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 3870
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 当朋友圈刷 发碎碎念 什么都看 互关可以加微信 不聊黄 喜欢有礼貌的人 看到的基本上都回 欢迎找我聊天呀 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971968133637591045/valSqUne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 534,
+          "like_count": 4614,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1304
+        },
+        "username": "yuri__ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2038271451820949686",
+    "created_at": "2026-03-29T15:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038271451820949686"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038271451820949686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想死，我不想被治疗。治好了我以前的那些痛苦又算什么。变成了健全b起点还比别人低，然后就拿着我迟钝的脑子幻想考上大学吗？我也不想去到医院，对我的帮助顶多算吃药，但这个副作用我还是不适应。要是可以无痛死亡就好了，我真的太怕疼了。痛的要死，还自杀未遂。说起来都搞笑。上吊还吊断了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2038271451820949686",
+        "created_at": "2026-03-29T15:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038271451820949686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038271451820949686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想死，我不想被治疗。治好了我以前的那些痛苦又算什么。变成了健全b起点还比别人低，然后就拿着我迟钝的脑子幻想考上大学吗？我也不想去到医院，对我的帮助顶多算吃药，但这个副作用我还是不适应。要是可以无痛死亡就好了，我真的太怕疼了。痛的要死，还自杀未遂。说起来都搞笑。上吊还吊断了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥（18↓）\nod/自伤/碎碎念/\n家有男友.\n性骚扰草你妈死全家\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 66,
+          "like_count": 4459,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1069
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

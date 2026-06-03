@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058236656667541555",
+    "created_at": "2026-05-24T05:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058425318717952274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "923051228614897664",
+          "start": 0,
+          "username": "Lisa_Queen_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058425318717952274",
+    "in_reply_to_user_id": "923051228614897664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058236656667541555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lisa_Queen_Me 生日快乐～希望你天天开心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058236640037117952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBTUbEbIAA_aQW.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2058236656667541555",
+        "created_at": "2026-05-24T05:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058425318717952274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "923051228614897664",
+              "start": 0,
+              "username": "Lisa_Queen_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058425318717952274",
+        "in_reply_to_user_id": "923051228614897664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058236656667541555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lisa_Queen_Me 生日快乐～希望你天天开心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058236640037117952"
+          ]
+        },
+        "author_id": "923051228614897664",
+        "conversation_id": "2058236656667541555",
+        "created_at": "2026-05-23T17:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058236656667541555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rg0J0g5rpL",
+              "end": 41,
+              "expanded_url": "https://x.com/Lisa_Queen_Me/status/2058236656667541555/photo/1",
+              "media_key": "3_2058236640037117952",
+              "start": 18,
+              "url": "https://t.co/rg0J0g5rpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058236656667541555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2741,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔，真的。。。。30了诶，生日快乐 https://t.co/rg0J0g5rpL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）注：不收门槛，不接线下。\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）勿骚扰（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。🉑推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 157,
+          "like_count": 6919,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 3605
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-25T04:58:57.000Z",
+        "description": "谐音梗扣钱 | intj | 猫猫&🏳️‍⚧️ & les | 社恐形态(不够熟悉时) | 工具开发 项目经理 python Java 并不断丰富技能ing | 意面爱好者 & 美食制作者 | 老诗人(现在不怎么写了) | 三只喵星人的好朋友 | 欢迎同类及朋友互fo",
+        "id": "923051228614897664",
+        "name": "LisaQueen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003671193430392832/cr96Siu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 787,
+          "like_count": 2173,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 328
+        },
+        "username": "Lisa_Queen_Me",
+        "verified": true
+      }
+    ]
+  }
+}

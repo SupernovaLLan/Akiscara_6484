@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2038589144029372701",
+    "created_at": "2026-03-30T18:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038686031525130637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3326305791",
+          "start": 0,
+          "username": "CuteCatsMagic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038686031525130637",
+    "in_reply_to_user_id": "3326305791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038589144029372701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteCatsMagic 我不行了太可爱了，我心都要被萌化了，这个世界不能没有小猫咪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2038589137687597056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqGBRLW0AAts3j.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2038589144029372701",
+        "created_at": "2026-03-30T18:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038686031525130637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3326305791",
+              "start": 0,
+              "username": "CuteCatsMagic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038686031525130637",
+        "in_reply_to_user_id": "3326305791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038589144029372701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteCatsMagic 我不行了太可爱了，我心都要被萌化了，这个世界不能没有小猫咪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038589137687597056"
+          ]
+        },
+        "author_id": "3326305791",
+        "conversation_id": "2038589144029372701",
+        "created_at": "2026-03-30T12:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038589144029372701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t39JQQWQtf",
+              "end": 23,
+              "expanded_url": "https://x.com/CuteCatsMagic/status/2038589144029372701/photo/1",
+              "media_key": "3_2038589137687597056",
+              "start": 0,
+              "url": "https://t.co/t39JQQWQtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038589144029372701",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 10725,
+          "like_count": 940,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t39JQQWQtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/阴暗扭曲的爬行\n家有男友.\n性骚扰草你妈\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 75,
+          "like_count": 4905,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1148
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-15T06:25:54.000Z",
+        "description": "Follow me to watch the best cat videos.If you like my content, you can subscribe to my page for more 🐈",
+        "id": "3326305791",
+        "name": "Cat 🐈",
+        "pinned_tweet_id": "2037965950264230139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801704006932123648/-ngn25vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83151,
+          "following_count": 13903,
+          "like_count": 85735,
+          "listed_count": 207,
+          "media_count": 9499,
+          "tweet_count": 48504
+        },
+        "username": "CuteCatsMagic",
+        "verified": true
+      }
+    ]
+  }
+}

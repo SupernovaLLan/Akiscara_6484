@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2016609198105330060",
+    "created_at": "2026-01-29T03:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016722119724585334",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016609198105330060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 抱抱小宝，可以尝试分散一下注意力～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981563709102477312",
+        "conversation_id": "2016609198105330060",
+        "created_at": "2026-01-28T20:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T21:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016609198105330060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 811,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最近好暴躁根本没办法控制好焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，家有男友，家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n😅话包子\n私信不回恶臭发言男。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 25,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 285
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015769888288067585/0C-Vs_Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4036,
+          "following_count": 470,
+          "like_count": 2246,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 838
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

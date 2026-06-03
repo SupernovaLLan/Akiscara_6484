@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042191334782763009",
+        "3_2042191334795333632"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042085380300927428",
+    "created_at": "2026-04-09T10:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042191356618322363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1ygQQA07x",
+          "end": 71,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2042191356618322363/photo/1",
+          "media_key": "3_2042191334782763009",
+          "start": 48,
+          "url": "https://t.co/y1ygQQA07x"
+        },
+        {
+          "display_url": "pic.x.com/y1ygQQA07x",
+          "end": 71,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2042191356618322363/photo/1",
+          "media_key": "3_2042191334795333632",
+          "start": 48,
+          "url": "https://t.co/y1ygQQA07x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042191356618322363",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042085380300927428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 昨天刷这个的时候就看到了，我操，我当时截屏没截到，但是我截屏截到其他的了。 https://t.co/y1ygQQA07x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042191334782763009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdSMvEbgAEKvZu.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042191334795333632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdSMvHbUAARd2M.jpg",
+        "width": 931
+      },
+      {
+        "height": 1873,
+        "media_key": "3_2042085378023456768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbx1PYbgAATACu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042191334782763009",
+            "3_2042191334795333632"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042085380300927428",
+        "created_at": "2026-04-09T10:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042191356618322363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1ygQQA07x",
+              "end": 71,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2042191356618322363/photo/1",
+              "media_key": "3_2042191334782763009",
+              "start": 48,
+              "url": "https://t.co/y1ygQQA07x"
+            },
+            {
+              "display_url": "pic.x.com/y1ygQQA07x",
+              "end": 71,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2042191356618322363/photo/1",
+              "media_key": "3_2042191334795333632",
+              "start": 48,
+              "url": "https://t.co/y1ygQQA07x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042191356618322363",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042085380300927428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 昨天刷这个的时候就看到了，我操，我当时截屏没截到，但是我截屏截到其他的了。 https://t.co/y1ygQQA07x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042085378023456768"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2042085380300927428",
+        "created_at": "2026-04-09T03:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042085380300927428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOEVNFRzqS",
+              "end": 56,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042085380300927428/photo/1",
+              "media_key": "3_2042085378023456768",
+              "start": 33,
+              "url": "https://t.co/iOEVNFRzqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042085380300927428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4292,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我也有份？？？广州禁毒我也上榜了，哪个晶哥潜伏在我的跟踪里面 https://t.co/iOEVNFRzqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 95,
+          "like_count": 6161,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1522
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 410,
+          "like_count": 9384,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

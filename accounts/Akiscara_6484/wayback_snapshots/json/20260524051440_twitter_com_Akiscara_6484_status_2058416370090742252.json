@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057888118435713386",
+    "created_at": "2026-05-24T05:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058416370090742252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874890159134838784",
+          "start": 0,
+          "username": "abbb1234_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058416370090742252",
+    "in_reply_to_user_id": "1874890159134838784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058212763605020864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abbb1234_ 呃啊。我似乎没看懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057888118435713386",
+        "created_at": "2026-05-24T05:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058416370090742252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874890159134838784",
+              "start": 0,
+              "username": "abbb1234_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058416370090742252",
+        "in_reply_to_user_id": "1874890159134838784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058212763605020864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abbb1234_ 呃啊。我似乎没看懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874890159134838784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2057888118435713386",
+        "created_at": "2026-05-23T15:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058212763605020864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058212763605020864",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057888118435713386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 人类不可能抛弃感知，那么“颜值”或者说外在就必定是不可或缺的影响项\n就像应该是所有人面对所谓“坦克大战”（与肥胖的人xx）都会厌嫌恶心以及嘲弄，这也是社会反应上的证据\n我们在很多很多哲学问题没解决之前，这种下属的问题都只能是随心就好，除非你已经失去了一切判断能力或者是抛弃了一切“需要”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）注：不收门槛，不接线下。\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）勿骚扰（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。🉑推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 156,
+          "like_count": 6902,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3571
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T18:47:20.000Z",
+        "description": "只是想模仿这样写｜为什么都喜欢这样｜应该是intp｜没病但是够傻逼｜负面属性太多不想打｜小药片和小刀片没什么勾引力了｜谢谢你的fo但是为什么",
+        "id": "1874890159134838784",
+        "name": "abb123-我是偷妈头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252648770326528/prQ2myhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 130
+        },
+        "username": "abbb1234_",
+        "verified": false
+      }
+    ]
+  }
+}

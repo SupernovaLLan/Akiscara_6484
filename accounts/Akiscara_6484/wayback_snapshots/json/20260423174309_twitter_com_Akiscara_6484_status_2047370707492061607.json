@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2047366923315544303",
+    "created_at": "2026-04-23T17:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047370707492061607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926286386342100992",
+          "start": 0,
+          "username": "NinanH45074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047370707492061607",
+    "in_reply_to_user_id": "1926286386342100992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047369231415783506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NinanH45074 好焦虑，但是这样也有道理。反正大家都得死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2047366923315544303",
+        "created_at": "2026-04-23T17:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047370707492061607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926286386342100992",
+              "start": 0,
+              "username": "NinanH45074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047370707492061607",
+        "in_reply_to_user_id": "1926286386342100992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047369231415783506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NinanH45074 好焦虑，但是这样也有道理。反正大家都得死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926286386342100992",
+        "conversation_id": "2047366923315544303",
+        "created_at": "2026-04-23T17:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047369231415783506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047369231415783506",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047366923315544303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 害怕也不会改变会死的结局，不如好好享受现在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 106,
+          "like_count": 6728,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 2188
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T14:38:19.000Z",
+        "description": "一介俗人而已",
+        "id": "1926286386342100992",
+        "name": "ninan hh",
+        "pinned_tweet_id": "2037936835209408515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043539492749836288/E0qolsJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "NinanH45074",
+        "verified": false
+      }
+    ]
+  }
+}

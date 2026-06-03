@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039106715254394880"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2039106722032439590",
+    "created_at": "2026-03-31T22:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T23:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039106722032439590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPLhxPHaa0",
+          "end": 30,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2039106722032439590/photo/1",
+          "media_key": "3_2039106715254394880",
+          "start": 7,
+          "url": "https://t.co/EPLhxPHaa0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039106722032439590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人智商如下 https://t.co/EPLhxPHaa0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2039106715254394880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HExcwP3aEAA5d3k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039106715254394880"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2039106722032439590",
+        "created_at": "2026-03-31T22:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039106722032439590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPLhxPHaa0",
+              "end": 30,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2039106722032439590/photo/1",
+              "media_key": "3_2039106715254394880",
+              "start": 7,
+              "url": "https://t.co/EPLhxPHaa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039106722032439590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人智商如下 https://t.co/EPLhxPHaa0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/阴暗扭曲的爬行（不收男m，不准叫妈妈）\n家有男友.\n性骚扰草你妈\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 81,
+          "like_count": 5031,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1182
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

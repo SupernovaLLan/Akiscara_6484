@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1818690959204663547",
+    "created_at": "2026-05-07T17:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052435112172945429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729421194984624128",
+          "start": 0,
+          "username": "mrctrl666"
+        },
+        {
+          "end": 21,
+          "id": "1756497662692786176",
+          "start": 11,
+          "username": "huali1002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052435112172945429",
+    "in_reply_to_user_id": "1729421194984624128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818834143431819760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrctrl666 @huali1002 这个好爽，我每次都是刚醒就要求把我掐晕。后来平时走路也会晕过去。好好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1818690959204663547",
+        "created_at": "2026-05-07T17:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052435112172945429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729421194984624128",
+              "start": 0,
+              "username": "mrctrl666"
+            },
+            {
+              "end": 21,
+              "id": "1756497662692786176",
+              "start": 11,
+              "username": "huali1002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052435112172945429",
+        "in_reply_to_user_id": "1729421194984624128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818834143431819760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrctrl666 @huali1002 这个好爽，我每次都是刚醒就要求把我掐晕。后来平时走路也会晕过去。好好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729421194984624128",
+        "conversation_id": "1818690959204663547",
+        "created_at": "2024-08-01T02:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T03:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818834143431819760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1756497662692786176",
+              "start": 0,
+              "username": "huali1002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818834143431819760",
+        "in_reply_to_user_id": "1756497662692786176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818690959204663547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huali1002 生命受到威胁求生本能给你来了点肾上腺素让你兴奋，加上对自己的憎恨情绪产生了弄死仇人的快感，不过玩窒息要注意安全哟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 127,
+          "like_count": 6816,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 2527
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T08:45:33.000Z",
+        "description": "间歇性有组织人类过敏，末日爱好者，异世界爱好者，自由至上，美腿至上",
+        "id": "1729421194984624128",
+        "location": "korla-0996",
+        "name": "Mrctrl666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729742731780435968/7jIZF14B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 80,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "mrctrl666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T01:57:44.000Z",
+        "description": "08年，设定是猫猫。梦想是被杀掉。是一只小肉肉（有主）",
+        "id": "1756497662692786176",
+        "name": "星落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756731747600044033/HjQ8ZDvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 75,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 276
+        },
+        "username": "huali1002",
+        "verified": false
+      }
+    ]
+  }
+}

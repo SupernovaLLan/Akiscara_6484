@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2060857987045155246",
+    "created_at": "2026-05-30T22:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T23:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060857987045155246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986760052955652096",
+          "start": 3,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060857987045155246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055995869632360478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhaXia123: 此账号主人假装爱狗人士领养并虐杀狗给虐猫区传播 还蹲过局子 他至今在小红书和抖音还有大量的粉丝 每天播放两只猫 很多新粉不知道他过往事迹 两只猫的瞳仁也都是巨大滴散瞳药 一给他评论相关的他就删评拉黑，以前还关过一段时间评论 所以知道的人太少了 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055995862569074689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhdWAgaQAEKfmZ.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2060857987045155246",
+        "created_at": "2026-05-30T22:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060857987045155246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986760052955652096",
+              "start": 3,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060857987045155246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055995869632360478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZhaXia123: 此账号主人假装爱狗人士领养并虐杀狗给虐猫区传播 还蹲过局子 他至今在小红书和抖音还有大量的粉丝 每天播放两只猫 很多新粉不知道他过往事迹 两只猫的瞳仁也都是巨大滴散瞳药 一给他评论相关的他就删评拉黑，以前还关过一段时间评论 所以知道的人太少了 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055995862569074689"
+          ]
+        },
+        "author_id": "1986760052955652096",
+        "conversation_id": "2055995869632360478",
+        "created_at": "2026-05-17T12:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055995869632360478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qVODFHe4l",
+              "end": 145,
+              "expanded_url": "https://x.com/ZhaXia123/status/2055995869632360478/photo/1",
+              "media_key": "3_2055995862569074689",
+              "start": 122,
+              "url": "https://t.co/7qVODFHe4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055995869632360478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 315870,
+          "like_count": 3079,
+          "quote_count": 45,
+          "reply_count": 245,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "此账号主人假装爱狗人士领养并虐杀狗给虐猫区传播 还蹲过局子 他至今在小红书和抖音还有大量的粉丝 每天播放两只猫 很多新粉不知道他过往事迹 两只猫的瞳仁也都是巨大滴散瞳药 一给他评论相关的他就删评拉黑，以前还关过一段时间评论 所以知道的人太少了 https://t.co/7qVODFHe4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（ fifteen years old）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪66好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 166,
+          "like_count": 7091,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 4075
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子。\n我只是一个看乐子之人",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2055995869632360478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 51,
+          "like_count": 8016,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 3793
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

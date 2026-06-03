@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061183643700330496"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2061183652478980552",
+    "created_at": "2026-05-31T20:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T21:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061183652478980552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0p7ThG7jQ",
+          "end": 62,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2061183652478980552/photo/1",
+          "media_key": "3_2061183643700330496",
+          "start": 39,
+          "url": "https://t.co/j0p7ThG7jQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061183652478980552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我看我自己的号只能滑到这里。更早的东西我已经从自己的账号里面翻不到了😭 https://t.co/j0p7ThG7jQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061183652478980552].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061183652478980552",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061183652478980552"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061183643700330496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrLmnOagAAQQQC.jpg",
+        "width": 931
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（ fifteen years old）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪66好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 167,
+          "like_count": 7132,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 4117
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

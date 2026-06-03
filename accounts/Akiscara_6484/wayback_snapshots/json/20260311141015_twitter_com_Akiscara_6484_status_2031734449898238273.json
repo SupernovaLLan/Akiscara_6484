@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031734446790205443",
+        "3_2031734446840569856"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2031734449898238273",
+    "created_at": "2026-03-11T14:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031734449898238273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVqRs6E3KH",
+          "end": 38,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2031734449898238273/photo/1",
+          "media_key": "3_2031734446790205443",
+          "start": 15,
+          "url": "https://t.co/hVqRs6E3KH"
+        },
+        {
+          "display_url": "pic.x.com/hVqRs6E3KH",
+          "end": 38,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2031734449898238273/photo/1",
+          "media_key": "3_2031734446840569856",
+          "start": 15,
+          "url": "https://t.co/hVqRs6E3KH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031734449898238273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是生病了，我不是招鬼了。 https://t.co/hVqRs6E3KH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031734446790205443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIrtvra4AMuYVh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031734446840569856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIrtv3bYAAmR67.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031734446790205443",
+            "3_2031734446840569856"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031734449898238273",
+        "created_at": "2026-03-11T14:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031734449898238273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVqRs6E3KH",
+              "end": 38,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2031734449898238273/photo/1",
+              "media_key": "3_2031734446790205443",
+              "start": 15,
+              "url": "https://t.co/hVqRs6E3KH"
+            },
+            {
+              "display_url": "pic.x.com/hVqRs6E3KH",
+              "end": 38,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2031734449898238273/photo/1",
+              "media_key": "3_2031734446840569856",
+              "start": 15,
+              "url": "https://t.co/hVqRs6E3KH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031734449898238273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是生病了，我不是招鬼了。 https://t.co/hVqRs6E3KH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，双向，自残，od。\n家有男友，家有男友，家有男友。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 41,
+          "like_count": 3616,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 728
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

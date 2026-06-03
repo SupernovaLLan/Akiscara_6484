@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2049801070969585764",
+    "created_at": "2026-04-30T11:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049809643015471589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730504341771952128",
+          "start": 0,
+          "username": "PlayEthine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049809643015471589",
+    "in_reply_to_user_id": "1730504341771952128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049809234389586153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayEthine 不是吧😨我靠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2049801070969585764",
+        "created_at": "2026-04-30T11:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049809643015471589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730504341771952128",
+              "start": 0,
+              "username": "PlayEthine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049809643015471589",
+        "in_reply_to_user_id": "1730504341771952128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049809234389586153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayEthine 不是吧😨我靠。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730504341771952128",
+        "conversation_id": "2049801070969585764",
+        "created_at": "2026-04-30T11:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049809234389586153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049809234389586153",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049808997818282008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 我就发了个我想自残就被封了12小时😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 108,
+          "like_count": 6730,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2293
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T08:29:40.000Z",
+        "description": "小兔 舞萌 明日方舟 终末地 双相\nxp tk什么的\n极度社恐\n在京\n碎碎念\n可以叫我a酱 あ酱（桑",
+        "id": "1730504341771952128",
+        "location": "北京",
+        "name": "あかね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044035011868012545/8vr8H2vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 96,
+          "like_count": 1206,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 394
+        },
+        "username": "PlayEthine",
+        "verified": false
+      }
+    ]
+  }
+}

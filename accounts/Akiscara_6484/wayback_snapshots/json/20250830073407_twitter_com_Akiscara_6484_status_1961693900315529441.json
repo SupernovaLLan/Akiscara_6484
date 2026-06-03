@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1958557045302378496"
+      ],
+      "media_source_tweet_id": [
+        "1960017808718434536"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1961693900315529441",
+    "created_at": "2025-08-30T07:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T08:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961693900315529441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937098339616727041",
+          "start": 3,
+          "username": "thi_tinh4157"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtbcCmfwI2",
+          "end": 41,
+          "expanded_url": "https://x.com/NellyPatto67/status/1960017808718434536/video/24",
+          "media_key": "13_1958557045302378496",
+          "start": 18,
+          "url": "https://t.co/RtbcCmfwI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961693900315529441",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961466909309771933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thi_tinh4157: https://t.co/RtbcCmfwI2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961693900315529441].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961693900315529441",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961693900315529441"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7450030,
+        "height": 720,
+        "media_key": "13_1958557045302378496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958557045302378496/img/uQ2WNeJ7gGzxsJwX.jpg",
+        "public_metrics": {
+          "view_count": 638663
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958557045302378496/vid/avc1/480x270/1smu4jMz2_uXn5zg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958557045302378496/vid/avc1/640x360/qgmClV7CgklW-NlD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958557045302378496/vid/avc1/1280x720/yT_l05wnnMgSmnLn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958557045302378496/pl/n6aNxoAdGsuSGq7s.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958557045302378496"
+          ],
+          "media_source_tweet_id": [
+            "1960017808718434536"
+          ]
+        },
+        "author_id": "1937098339616727041",
+        "conversation_id": "1961466909309771933",
+        "created_at": "2025-08-29T16:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961466909309771933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtbcCmfwI2",
+              "end": 23,
+              "expanded_url": "https://x.com/NellyPatto67/status/1960017808718434536/video/24",
+              "media_key": "13_1958557045302378496",
+              "start": 0,
+              "url": "https://t.co/RtbcCmfwI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961466909309771933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2714,
+          "impression_count": 28675,
+          "like_count": 2427,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RtbcCmfwI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T10:40:15.000Z",
+        "description": "",
+        "id": "1937098339616727041",
+        "name": "Chudai 18+ JAV ملكة مثير مثير eulc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938269472965726209/JXSEITuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 2,
+          "like_count": 71,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 76
+        },
+        "username": "thi_tinh4157",
+        "verified": false
+      }
+    ]
+  }
+}

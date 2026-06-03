@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1967254491994235326",
+    "created_at": "2025-09-14T15:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T16:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967254491994235326"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967254491994235326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "父母又吵架，为什么又这样。我好像什么都改变不了，对吗？也维持不好什么关系。我还有价值吗？我想放弃了。我好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1967254491994235326",
+        "created_at": "2025-09-14T15:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967254491994235326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967254491994235326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父母又吵架，为什么又这样。我好像什么都改变不了，对吗？也维持不好什么关系。我还有价值吗？我想放弃了。我好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 11,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 84
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

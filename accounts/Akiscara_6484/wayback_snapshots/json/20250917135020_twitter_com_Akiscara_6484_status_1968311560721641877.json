@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1968140536709296342",
+    "created_at": "2025-09-17T13:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968311560721641877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968311560721641877",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968140536709296342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 肉炸开了没有，好想看看里面的真皮层和脂肪层。这个恢复期很疼的，不要沾水。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1968140524684259329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A9YSnbMAEWUp2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1968140536709296342",
+        "created_at": "2025-09-17T13:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968311560721641877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968311560721641877",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968140536709296342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 肉炸开了没有，好想看看里面的真皮层和脂肪层。这个恢复期很疼的，不要沾水。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968140524684259329"
+          ]
+        },
+        "author_id": "1652985793290604545",
+        "conversation_id": "1968140536709296342",
+        "created_at": "2025-09-17T02:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968140536709296342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCJrBdRx51",
+              "end": 23,
+              "expanded_url": "https://x.com/TuTri77/status/1968140536709296342/photo/1",
+              "media_key": "3_1968140524684259329",
+              "start": 0,
+              "url": "https://t.co/RCJrBdRx51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968140536709296342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 19928,
+          "like_count": 2682,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RCJrBdRx51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 12,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 108
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/不要忘记我 ｜自用蜂鸟VPN： https://t.co/S4ISvO0qF3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 45,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MF28Fdlt",
+                "start": 22,
+                "url": "https://t.co/S4ISvO0qF3"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "name": "nini",
+        "pinned_tweet_id": "1810144213742567728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942230293148250112/vgnMIxrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7561,
+          "following_count": 246,
+          "like_count": 2886,
+          "listed_count": 10,
+          "media_count": 380,
+          "tweet_count": 1473
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

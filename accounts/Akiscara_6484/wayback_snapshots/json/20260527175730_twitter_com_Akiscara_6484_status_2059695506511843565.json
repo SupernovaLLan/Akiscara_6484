@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059642065055867332",
+    "created_at": "2026-05-27T17:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059695506511843565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713262638749118464",
+          "start": 0,
+          "username": "Kota08232016"
+        },
+        {
+          "end": 23,
+          "id": "1749798935357767680",
+          "start": 14,
+          "username": "Nameiccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059695506511843565",
+    "in_reply_to_user_id": "1713262638749118464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059658554014134738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kota08232016 @Nameiccc 就是就是。能不能弄投诉之类的东西啊，我真的受不了了了。我要气死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059642065055867332",
+        "created_at": "2026-05-27T17:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059695506511843565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713262638749118464",
+              "start": 0,
+              "username": "Kota08232016"
+            },
+            {
+              "end": 23,
+              "id": "1749798935357767680",
+              "start": 14,
+              "username": "Nameiccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059695506511843565",
+        "in_reply_to_user_id": "1713262638749118464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059658554014134738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kota08232016 @Nameiccc 就是就是。能不能弄投诉之类的东西啊，我真的受不了了了。我要气死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713262638749118464",
+        "conversation_id": "2059642065055867332",
+        "created_at": "2026-05-27T15:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059658554014134738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749798935357767680",
+              "start": 0,
+              "username": "Nameiccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658554014134738",
+        "in_reply_to_user_id": "1749798935357767680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3742,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059642065055867332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nameiccc 人机号不封，疯狂封活人号，真玩不下去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 164,
+          "like_count": 6999,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 3886
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T18:37:36.000Z",
+        "description": "03年 生活已经很难啦 希望大家都带点善意",
+        "id": "1713262638749118464",
+        "location": "3.2km",
+        "name": "Kota",
+        "pinned_tweet_id": "2057378155330170920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991069958755979264/vteW2zon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6201,
+          "following_count": 23,
+          "like_count": 82,
+          "listed_count": 5,
+          "media_count": 188,
+          "tweet_count": 1380
+        },
+        "username": "Kota08232016",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T14:19:18.000Z",
+        "description": "",
+        "id": "1749798935357767680",
+        "location": "🚪99",
+        "name": "海克斯科技",
+        "pinned_tweet_id": "2037652562296615053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884611841625890816/fNfl7BWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67591,
+          "following_count": 19,
+          "like_count": 1097,
+          "listed_count": 150,
+          "media_count": 369,
+          "tweet_count": 753
+        },
+        "username": "Nameiccc",
+        "verified": true
+      }
+    ]
+  }
+}

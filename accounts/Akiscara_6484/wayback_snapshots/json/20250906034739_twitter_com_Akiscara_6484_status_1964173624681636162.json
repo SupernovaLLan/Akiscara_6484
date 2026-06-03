@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1963605121302253864",
+    "created_at": "2025-09-06T03:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T04:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964173624681636162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "523455021",
+          "start": 0,
+          "username": "geodoina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964173624681636162",
+    "in_reply_to_user_id": "523455021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964075558955880554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geodoina 贵阳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1963605121302253864",
+        "created_at": "2025-09-06T03:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964173624681636162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "523455021",
+              "start": 0,
+              "username": "geodoina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964173624681636162",
+        "in_reply_to_user_id": "523455021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964075558955880554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geodoina 贵阳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "523455021",
+        "conversation_id": "1963605121302253864",
+        "created_at": "2025-09-05T21:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T22:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964075558955880554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964075558955880554",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963605121302253864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 坐标呢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-13T17:06:19.000Z",
+        "description": "event-driven trader",
+        "id": "523455021",
+        "location": "seize every moment",
+        "name": "andrei doina elena (✸,✸)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894390596/prajitura_cu_capsuni_si_frisca-t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 491,
+          "like_count": 2466,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 122
+        },
+        "username": "geodoina",
+        "verified": false
+      }
+    ]
+  }
+}

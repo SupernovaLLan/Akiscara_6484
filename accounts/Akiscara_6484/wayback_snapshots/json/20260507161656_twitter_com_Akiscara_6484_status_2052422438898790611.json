@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2051370907340603540",
+    "created_at": "2026-05-07T16:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052422438898790611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048129689676664832",
+          "start": 0,
+          "username": "Yuanjieph8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052422438898790611",
+    "in_reply_to_user_id": "2048129689676664832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052330146376642843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanjieph8p 好，谢谢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2051370907340603540",
+        "created_at": "2026-05-07T16:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422438898790611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048129689676664832",
+              "start": 0,
+              "username": "Yuanjieph8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422438898790611",
+        "in_reply_to_user_id": "2048129689676664832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052330146376642843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanjieph8p 好，谢谢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048129689676664832",
+        "conversation_id": "2051370907340603540",
+        "created_at": "2026-05-07T10:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052330146376642843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052330146376642843",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052327705325314303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 我之前常去的一家店 洗发师是这样和我说的\n1熬夜是最影响头发的 2洗头发的时候拼命洗出泡沫（正常情况下洗第一遍的时候有一点点泡沫的时候就可以停了）3生气 4吃的东西太油太辣。 1234就是危害程度排行 改善办法就是不熬夜不生气 然后护发素要常用 洗头不要勤洗 市面上所有的洗发水都伤发质 三天一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 127,
+          "like_count": 6797,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 2500
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T20:00:19.000Z",
+        "description": "互勉请备注\n一个很容易生闷气的入",
+        "id": "2048129689676664832",
+        "location": "江南北",
+        "name": "缘结",
+        "pinned_tweet_id": "2052139263773544540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048131907800715264/o_pICD0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 75
+        },
+        "username": "Yuanjieph8p",
+        "verified": false
+      }
+    ]
+  }
+}

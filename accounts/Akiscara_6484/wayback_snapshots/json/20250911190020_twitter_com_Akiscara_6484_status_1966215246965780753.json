@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1966215244776354162",
+    "created_at": "2025-09-11T19:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T20:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966215246965780753"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966215246965780753",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966215244776354162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看着自己痛苦我好爽，看着自己好爽我很痛苦。仿佛到了第三人的视角，只是一个有共情能力的旁观者，内心更希望“她”再痛苦一点。我好兴奋，我好想杀人，我好想分尸，我好激动啊。如果看着别人痛苦挣扎那岂不是更好了，我岂不是不用再那么痛苦了。我骗了人，我骗了所有人，我不是人。我没骗人，我骗了自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1966215244776354162",
+        "created_at": "2025-09-11T19:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966215246965780753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966215246965780753",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966215244776354162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着自己痛苦我好爽，看着自己好爽我很痛苦。仿佛到了第三人的视角，只是一个有共情能力的旁观者，内心更希望“她”再痛苦一点。我好兴奋，我好想杀人，我好想分尸，我好激动啊。如果看着别人痛苦挣扎那岂不是更好了，我岂不是不用再那么痛苦了。我骗了人，我骗了所有人，我不是人。我没骗人，我骗了自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1966215244776354162",
+        "created_at": "2025-09-11T19:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966215244776354162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966215244776354162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都很想死，想自残，想自杀，我不惜写过一本自杀手册。记录自杀时的感受，自残时的感受，然后拍照，记录。最后反复品尝当时的那份痛苦，吃净了，嚼碎了 ，嚼烂了 ，咽下去，一肚子的苦水，是我最后的停尸房。我一边害怕痛苦一边享受痛苦迷恋痛苦，几乎到了病态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 9,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

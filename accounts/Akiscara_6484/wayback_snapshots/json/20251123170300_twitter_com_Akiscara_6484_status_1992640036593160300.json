@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1992640036593160300",
+    "created_at": "2025-11-23T17:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992640036593160300"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992640036593160300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天吃了很恶心的药，我要把东西记在上面。早上要吃饭，然后要带水杯喝水，然后要吃臭臭的药。然后我要抱玩偶，然后放一把刀，然后要梳头，不可以从窗户那里跳下去，关门时门外的东西不要看，缩在被子里。吃药，吃药，吃药。不理解的人感到奇怪就不管了，会忘记的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1992640036593160300",
+        "created_at": "2025-11-23T17:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992640036593160300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992640036593160300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃了很恶心的药，我要把东西记在上面。早上要吃饭，然后要带水杯喝水，然后要吃臭臭的药。然后我要抱玩偶，然后放一把刀，然后要梳头，不可以从窗户那里跳下去，关门时门外的东西不要看，缩在被子里。吃药，吃药，吃药。不理解的人感到奇怪就不管了，会忘记的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 16,
+          "like_count": 1126,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 96
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2016566999451914288",
+    "created_at": "2026-01-29T05:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1847389163479584770",
+          "start": 0,
+          "username": "dontmoveany"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016738381217353744",
+    "in_reply_to_user_id": "1847389163479584770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016566999451914288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontmoveany 啊？门槛多少啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847389163479584770",
+        "conversation_id": "2016566999451914288",
+        "created_at": "2026-01-28T17:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016566999451914288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23420,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我所有的钱来自于推特。我自己租房子 自己养两只狗 都是因为推特门槛费。但现在没人过我门槛 我真的要活不下去了！\n我家狗又肠胃炎反复 肚子里一直有滴虫 肠道菌群紊乱 所以我崩溃了 这些是要用钱的 但我赚不到钱了 没人过我门槛。我现在身上还有一百多 我怎么活下去？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，家有男友，家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n😅话包子\n私信不回恶臭发言男。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 25,
+          "like_count": 2402,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 290
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T21:28:20.000Z",
+        "description": "我素qq企鹅！门槛详情看置顶/ 支持支付宝口令红包/ 福利有露点照片@niudunbeng1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "niudunbeng1"
+              }
+            ]
+          }
+        },
+        "id": "1847389163479584770",
+        "location": "🚪",
+        "name": "QQ企鹅2.0",
+        "pinned_tweet_id": "2014369184969613733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000575577276002304/Ry_FQJwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14571,
+          "following_count": 130,
+          "like_count": 2141,
+          "listed_count": 32,
+          "media_count": 308,
+          "tweet_count": 1247
+        },
+        "username": "dontmoveany",
+        "verified": false
+      }
+    ]
+  }
+}

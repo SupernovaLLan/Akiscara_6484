@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057891788103540940",
+    "created_at": "2026-05-23T12:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058166842020307204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1228406233738072064",
+          "start": 0,
+          "username": "AR10545614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058166842020307204",
+    "in_reply_to_user_id": "1228406233738072064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058094122108592340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AR10545614 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057891788103540940",
+        "created_at": "2026-05-23T12:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058166842020307204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228406233738072064",
+              "start": 0,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058166842020307204",
+        "in_reply_to_user_id": "1228406233738072064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058094122108592340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AR10545614 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228406233738072064",
+        "conversation_id": "2057891788103540940",
+        "created_at": "2026-05-23T07:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058094122108592340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058094122108592340",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057891788103540940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 牛  99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓wcn）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）注：不收门槛，不接线下。\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）勿骚扰（戒药，戒割）请不要忘记我，不喜欢就请屏蔽我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 157,
+          "like_count": 6896,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3560
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是男孩子快关！恋ビト:@jaxondid13 /坐标福冈sub/uestc/病娇/不会写代码/钕铜贴贴/主要发猫猫/🚪88不陪聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "ココナラ",
+        "pinned_tweet_id": "2041585601703768498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 857,
+          "like_count": 171,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 449
+        },
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

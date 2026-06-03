@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2042913608913629204",
+    "created_at": "2026-04-11T10:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042913608913629204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mari48439289/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/mari48439289/status/2042256366593569149",
+          "start": 2,
+          "url": "https://t.co/sGGnsZ7jXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042913608913629204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042256366593569149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇 https://t.co/sGGnsZ7jXA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5248,
+        "height": 1280,
+        "media_key": "7_2042256322922528768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042256322922528768/pu/img/Aab8q0iA10AGQn8c.jpg",
+        "public_metrics": {
+          "view_count": 9732
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042256322922528768/pu/vid/avc1/320x568/xO666zVzoAinRvNa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042256322922528768/pu/vid/avc1/480x852/UCMlKeVAaDFBAmcR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042256322922528768/pu/vid/avc1/720x1280/9MOrF9O0T_PfeY7E.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042256322922528768/pu/pl/aqPg-OE-hoap8za7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2042913608913629204",
+        "created_at": "2026-04-11T10:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042913608913629204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mari48439289/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/mari48439289/status/2042256366593569149",
+              "start": 2,
+              "url": "https://t.co/sGGnsZ7jXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042913608913629204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042256366593569149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇 https://t.co/sGGnsZ7jXA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042256322922528768"
+          ]
+        },
+        "author_id": "1641939037945487362",
+        "conversation_id": "2042256366593569149",
+        "created_at": "2026-04-09T15:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042256366593569149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 0,
+              "tag": "shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる"
+            },
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "selfharm"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqprnHBORu",
+              "end": 86,
+              "expanded_url": "https://x.com/mari48439289/status/2042256366593569149/video/1",
+              "media_key": "7_2042256322922528768",
+              "start": 63,
+              "url": "https://t.co/aqprnHBORu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042256366593569149",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 755,
+          "impression_count": 20403,
+          "like_count": 2866,
+          "quote_count": 20,
+          "reply_count": 80,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "#shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる #selfharm #shtwt https://t.co/aqprnHBORu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 101,
+          "like_count": 6508,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1674
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T23:02:57.000Z",
+        "description": "#goretwt #shtwt ૮ ྀིᴗ͈ . ᴗ͈ ྀིაᶻ 𝘇",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "goretwt"
+              },
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "shtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zaza._1461?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zaza._1461?igsh=MTNvM3Fha2ZrdjNrOQ=",
+                "start": 0,
+                "url": "https://t.co/sYKBrSX6Ar"
+              }
+            ]
+          }
+        },
+        "id": "1641939037945487362",
+        "location": "ᡕᠵ᠊ᡃ່࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘𐡏 ♡",
+        "name": "𝒛𝒂𝒛𝒂 𐔌՞ ܸ.ˬ.ܸ ՞𐦯",
+        "pinned_tweet_id": "1915639132371538210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041646894980722688/12D-PsGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 286,
+          "like_count": 958,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/sYKBrSX6Ar",
+        "username": "mari48439289",
+        "verified": false
+      }
+    ]
+  }
+}

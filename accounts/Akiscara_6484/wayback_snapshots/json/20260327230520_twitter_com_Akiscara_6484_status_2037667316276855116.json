@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037667293053005824"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2037667316276855116",
+    "created_at": "2026-03-27T23:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T00:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037667316276855116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EgTjP1xHEO",
+          "end": 48,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2037667316276855116/video/1",
+          "media_key": "7_2037667293053005824",
+          "start": 25,
+          "url": "https://t.co/EgTjP1xHEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037667316276855116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经把我从大门的指纹锁删了，我还不知道我家密码。 https://t.co/EgTjP1xHEO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11242,
+        "height": 1280,
+        "media_key": "7_2037667293053005824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037667293053005824/pu/img/TezPvHYI2acOg1Pw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037667293053005824/pu/vid/avc1/320x568/Z-BMhyO219nxpdv_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037667293053005824/pu/vid/avc1/480x852/gDho5me-BeRCFNu3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037667293053005824/pu/vid/avc1/720x1280/h9-hjr78vkHwydz5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037667293053005824/pu/pl/l4vCyJ86tBVpjvyu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037667293053005824"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2037667316276855116",
+        "created_at": "2026-03-27T23:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037667316276855116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgTjP1xHEO",
+              "end": 48,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2037667316276855116/video/1",
+              "media_key": "7_2037667293053005824",
+              "start": 25,
+              "url": "https://t.co/EgTjP1xHEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037667316276855116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经把我从大门的指纹锁删了，我还不知道我家密码。 https://t.co/EgTjP1xHEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥（18↓）\nod/自伤/\n家有男友.\n性骚扰草你妈死全家\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 64,
+          "like_count": 4342,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1030
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

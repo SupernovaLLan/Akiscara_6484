@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052879985770365195",
+    "created_at": "2026-05-08T22:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052880170982506802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "26503819",
+          "start": 0,
+          "username": "rei_chaixaaghi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052880170982506802",
+    "in_reply_to_user_id": "26503819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052880099582578851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei_chaixaaghi 捏你唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052879985770365195",
+        "created_at": "2026-05-08T22:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052880170982506802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "26503819",
+              "start": 0,
+              "username": "rei_chaixaaghi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052880170982506802",
+        "in_reply_to_user_id": "26503819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052880099582578851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei_chaixaaghi 捏你唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "26503819",
+        "conversation_id": "2052879985770365195",
+        "created_at": "2026-05-08T22:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052880099582578851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052880099582578851",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052879985770365195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 👁️👁️👁️👁️👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 131,
+          "like_count": 6858,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 2679
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-25T14:08:04.000Z",
+        "description": "放松,good vibes, 探索世界☺️ INTP. (languages/语言 🇸🇪🇺🇲🇩🇪🇨🇳🇰🇷🇯🇵🇧🇷🇪🇦🇷🇺🇲🇫🇹🇷）pfp by: @siroko_mk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "siroko_mk"
+              }
+            ]
+          }
+        },
+        "id": "26503819",
+        "location": "서울 어쩌면",
+        "name": "ザげテレス 🦊",
+        "pinned_tweet_id": "1959355921215152276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728920051271553024/U5WThnOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 318,
+          "like_count": 21824,
+          "listed_count": 0,
+          "media_count": 3226,
+          "tweet_count": 12731
+        },
+        "username": "rei_chaixaaghi",
+        "verified": false
+      }
+    ]
+  }
+}

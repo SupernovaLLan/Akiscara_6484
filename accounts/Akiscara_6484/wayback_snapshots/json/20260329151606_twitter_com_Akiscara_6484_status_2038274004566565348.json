@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2038274004566565348",
+    "created_at": "2026-03-29T15:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038274004566565348"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038274004566565348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "WC我好矫情，一想到难过的就想哭，别人安慰我更想哭了。我眼睛袅袅了。你们太好了，起码愿意看完我的碎碎念，还愿意相信我，起初在以前有一个好朋友我告诉了他就骂我是为了卖惨装的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2038274004566565348",
+        "created_at": "2026-03-29T15:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038274004566565348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038274004566565348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "WC我好矫情，一想到难过的就想哭，别人安慰我更想哭了。我眼睛袅袅了。你们太好了，起码愿意看完我的碎碎念，还愿意相信我，起初在以前有一个好朋友我告诉了他就骂我是为了卖惨装的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥（18↓）\nod/自伤/碎碎念/\n家有男友.\n性骚扰草你妈死全家\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 4474,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1075
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

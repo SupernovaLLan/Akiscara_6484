@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2060743427118305576",
+    "created_at": "2026-05-31T16:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061121413642346619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752343973891641344",
+          "start": 0,
+          "username": "James_69cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061121413642346619",
+    "in_reply_to_user_id": "1752343973891641344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060743427118305576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James_69cm 不会再吵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2060743427118305576",
+        "created_at": "2026-05-31T16:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061121413642346619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752343973891641344",
+              "start": 0,
+              "username": "James_69cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061121413642346619",
+        "in_reply_to_user_id": "1752343973891641344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060743427118305576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James_69cm 不会再吵了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752343973891641344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060743427118305576",
+        "created_at": "2026-05-30T15:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060743427118305576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060743427118305576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 97222,
+          "like_count": 1169,
+          "quote_count": 16,
+          "reply_count": 348,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "I really hope that one day, people from Japan, Korea, and China will stop arguing on Twitter (X). We have so much in common, and we could easily be great friends, right? Let's spread love, not hate! 🌏❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（ fifteen years old）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪66好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 167,
+          "like_count": 7096,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 4091
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:52:27.000Z",
+        "description": "i am OTHER.",
+        "id": "1752343973891641344",
+        "name": "James",
+        "pinned_tweet_id": "2052758306004058376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053110151083864064/xk38k-_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 870,
+          "like_count": 801,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1707
+        },
+        "username": "James_69cm",
+        "verified": true
+      }
+    ]
+  }
+}

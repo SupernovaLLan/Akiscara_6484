@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027754021835153408",
+        "3_2027754024708222976",
+        "3_2027754021860347910"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027754028126584879",
+    "created_at": "2026-02-28T14:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027754028126584879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fcBE4kOCdk",
+          "end": 46,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2027754028126584879/photo/1",
+          "media_key": "3_2027754021835153408",
+          "start": 23,
+          "url": "https://t.co/fcBE4kOCdk"
+        },
+        {
+          "display_url": "pic.x.com/fcBE4kOCdk",
+          "end": 46,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2027754028126584879/photo/1",
+          "media_key": "3_2027754024708222976",
+          "start": 23,
+          "url": "https://t.co/fcBE4kOCdk"
+        },
+        {
+          "display_url": "pic.x.com/fcBE4kOCdk",
+          "end": 46,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2027754028126584879/photo/1",
+          "media_key": "3_2027754021860347910",
+          "start": 23,
+          "url": "https://t.co/fcBE4kOCdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027754028126584879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果这个焰色反应能让我开心那它就不算是浪费。 https://t.co/fcBE4kOCdk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027754021835153408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQHihNaoAAiNxk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027754024708222976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQHir6aMAA13MF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027754021860347910",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQHihTbEAYlZjb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027754021835153408",
+            "3_2027754024708222976",
+            "3_2027754021860347910"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027754028126584879",
+        "created_at": "2026-02-28T14:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027754028126584879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcBE4kOCdk",
+              "end": 46,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2027754028126584879/photo/1",
+              "media_key": "3_2027754021835153408",
+              "start": 23,
+              "url": "https://t.co/fcBE4kOCdk"
+            },
+            {
+              "display_url": "pic.x.com/fcBE4kOCdk",
+              "end": 46,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2027754028126584879/photo/1",
+              "media_key": "3_2027754024708222976",
+              "start": 23,
+              "url": "https://t.co/fcBE4kOCdk"
+            },
+            {
+              "display_url": "pic.x.com/fcBE4kOCdk",
+              "end": 46,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2027754028126584879/photo/1",
+              "media_key": "3_2027754021860347910",
+              "start": 23,
+              "url": "https://t.co/fcBE4kOCdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027754028126584879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果这个焰色反应能让我开心那它就不算是浪费。 https://t.co/fcBE4kOCdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 26,
+          "like_count": 2959,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 444
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053795199973986461",
+    "created_at": "2026-05-11T22:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053971159285408048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807129271728775168",
+          "start": 0,
+          "username": "Kokittyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053971159285408048",
+    "in_reply_to_user_id": "1807129271728775168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053795199973986461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kokittyi 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053795199973986461",
+        "created_at": "2026-05-11T22:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053971159285408048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807129271728775168",
+              "start": 0,
+              "username": "Kokittyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053971159285408048",
+        "in_reply_to_user_id": "1807129271728775168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053795199973986461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kokittyi 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807129271728775168",
+        "conversation_id": "2053795199973986461",
+        "created_at": "2026-05-11T11:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053795199973986461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053795199973986461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 57404,
+          "like_count": 362,
+          "quote_count": 1,
+          "reply_count": 391,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "X最美好的一点是可以让很多建模一般的人体验当小网红的乐趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 141,
+          "like_count": 6916,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3010
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:09:38.000Z",
+        "description": "我负责可爱",
+        "id": "1807129271728775168",
+        "location": "🚪19",
+        "name": "心",
+        "pinned_tweet_id": "1807131343928905783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051195386539483136/YsAeVDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 4,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 46
+        },
+        "username": "Kokittyi",
+        "verified": false
+      }
+    ]
+  }
+}

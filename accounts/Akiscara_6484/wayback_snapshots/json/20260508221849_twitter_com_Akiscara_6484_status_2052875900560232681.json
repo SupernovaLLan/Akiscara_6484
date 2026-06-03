@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052437596438245439",
+    "created_at": "2026-05-08T22:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052875900560232681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958564025727664128",
+          "start": 0,
+          "username": "SNS142148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052875900560232681",
+    "in_reply_to_user_id": "1958564025727664128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052588689247912200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNS142148 我感觉我很大了其实，不想长大唉..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052437596438245439",
+        "created_at": "2026-05-08T22:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052875900560232681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958564025727664128",
+              "start": 0,
+              "username": "SNS142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052875900560232681",
+        "in_reply_to_user_id": "1958564025727664128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052588689247912200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNS142148 我感觉我很大了其实，不想长大唉..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958564025727664128",
+        "conversation_id": "2052437596438245439",
+        "created_at": "2026-05-08T03:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052588689247912200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052588689247912200",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052437596438245439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 这么小吗（？\n我落伍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 131,
+          "like_count": 6853,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 2644
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔 查成分互fo 友跨\n提问箱：https://t.co/VRLP0B0UmF\nOD💊/烟鬼🚬/性别酷儿🏳️‍🌈/数码爱好者📷/普瑞巴林单推人/重度焦虑/双相\nHRT：2023.5.31\n橙子二世账号\n目前状态：精神崩溃、身体抗议中～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 45,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 22,
+                "url": "https://t.co/VRLP0B0UmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ1q30"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "location": "距离你148米",
+        "name": "ゾルピデム重度依存💕",
+        "pinned_tweet_id": "2048060105107898614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 59,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/XfQ0VJ1q30",
+        "username": "SNS142148",
+        "verified": true
+      }
+    ]
+  }
+}

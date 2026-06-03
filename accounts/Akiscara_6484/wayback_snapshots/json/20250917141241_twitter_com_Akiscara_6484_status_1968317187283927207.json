@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1968168704602148999",
+    "created_at": "2025-09-17T14:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T15:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968317187283927207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895944696545067008",
+          "start": 0,
+          "username": "xxxqq430295"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968317187283927207",
+    "in_reply_to_user_id": "1895944696545067008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968168704602148999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxqq430295 因为没有，所以羡慕。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1968168704602148999",
+        "created_at": "2025-09-17T14:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968317187283927207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895944696545067008",
+              "start": 0,
+              "username": "xxxqq430295"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968317187283927207",
+        "in_reply_to_user_id": "1895944696545067008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968168704602148999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxqq430295 因为没有，所以羡慕。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895944696545067008",
+        "conversation_id": "1968168704602148999",
+        "created_at": "2025-09-17T04:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T05:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968168704602148999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968168704602148999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13908,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "胸大的想胸小\n高的想矮一点\n矮的想高一点\n胖的想瘦一点，太瘦的又想长点肉\n我们到底怎么样才能与自己和解。\n怎么样才叫完美……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 12,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 112
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T21:10:24.000Z",
+        "description": "isfj 天秤 小矮人/服务型。 switch/重度恋足 直直直直直直直男。不发牛不发牛，再问直接屏蔽\n什么都发，偶尔发些身材自恋\n服务型，来推纯为了满足我的虚荣心\n不约不聊骚不线下，看情况互关。",
+        "id": "1895944696545067008",
+        "name": "智齿痛",
+        "pinned_tweet_id": "1935017265889689652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927420624000983040/MoXQG0o-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 43,
+          "like_count": 2497,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 1120
+        },
+        "username": "xxxqq430295",
+        "verified": false
+      }
+    ]
+  }
+}

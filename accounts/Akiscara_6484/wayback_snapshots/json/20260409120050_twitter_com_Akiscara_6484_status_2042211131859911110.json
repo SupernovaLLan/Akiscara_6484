@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2042087733540352030",
+    "created_at": "2026-04-09T12:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042211131859911110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042211131859911110",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042087733540352030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 哈哈哈，我昨天刚刷到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2042087729887113216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbz-Iwa8AAlnrs.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1622,
+        "media_key": "3_2042087731212546049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbz-NsbcAEPAIG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2042087733540352030",
+        "created_at": "2026-04-09T12:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042211131859911110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042211131859911110",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042087733540352030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 哈哈哈，我昨天刚刷到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042087729887113216",
+            "3_2042087731212546049"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2042087733540352030",
+        "created_at": "2026-04-09T03:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042087733540352030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQAmVmRVM1",
+              "end": 66,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042087733540352030/photo/1",
+              "media_key": "3_2042087729887113216",
+              "start": 43,
+              "url": "https://t.co/mQAmVmRVM1"
+            },
+            {
+              "display_url": "pic.x.com/mQAmVmRVM1",
+              "end": 66,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042087733540352030/photo/1",
+              "media_key": "3_2042087731212546049",
+              "start": 43,
+              "url": "https://t.co/mQAmVmRVM1"
+            },
+            {
+              "display_url": "x.com/xxx_jjkk/statu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/xxx_jjkk/status/2035543807027253691",
+              "start": 67,
+              "url": "https://t.co/etBCDMjSqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042087733540352030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035543807027253691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操回旋镖镖到我自己身上了\n官方这波还真拿我的推文宣传了两次 \n狠狠吃了一波官方流量 https://t.co/mQAmVmRVM1 https://t.co/etBCDMjSqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 95,
+          "like_count": 6178,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1525
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 410,
+          "like_count": 9410,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

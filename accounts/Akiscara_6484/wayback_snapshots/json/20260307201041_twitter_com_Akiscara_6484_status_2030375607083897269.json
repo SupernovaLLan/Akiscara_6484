@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030375604441563136"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2030375607083897269",
+    "created_at": "2026-03-07T20:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T21:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030375607083897269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UvAJ3QvXap",
+          "end": 138,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2030375607083897269/photo/1",
+          "media_key": "3_2030375604441563136",
+          "start": 115,
+          "url": "https://t.co/UvAJ3QvXap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030375607083897269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还好我听歌可以分散一些注意力.......但是如果一个人得精神疾病，还很丑没有特长，大家都觉得他只是一个恶心的蛆虫。但是一个人得了精神疾病却很漂亮或者有特长，大家又觉得他好忧郁。精神疾病也需要分三六九等吗？这个世界还是太复杂了。 https://t.co/UvAJ3QvXap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030375604441563136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC1X2tdbwAAUXZ-.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030375604441563136"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2030375607083897269",
+        "created_at": "2026-03-07T20:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T21:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030375607083897269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvAJ3QvXap",
+              "end": 138,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2030375607083897269/photo/1",
+              "media_key": "3_2030375604441563136",
+              "start": 115,
+              "url": "https://t.co/UvAJ3QvXap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030375607083897269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还好我听歌可以分散一些注意力.......但是如果一个人得精神疾病，还很丑没有特长，大家都觉得他只是一个恶心的蛆虫。但是一个人得了精神疾病却很漂亮或者有特长，大家又觉得他好忧郁。精神疾病也需要分三六九等吗？这个世界还是太复杂了。 https://t.co/UvAJ3QvXap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 36,
+          "like_count": 3520,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 689
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

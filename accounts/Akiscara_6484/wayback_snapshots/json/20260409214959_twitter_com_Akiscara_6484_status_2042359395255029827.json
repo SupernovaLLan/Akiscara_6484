@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2042359395255029827",
+    "created_at": "2026-04-09T21:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042359395255029827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mullerluiseno/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/mullerluiseno/status/2042310278814068924",
+          "start": 16,
+          "url": "https://t.co/KWAzEuhvhF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042359395255029827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042310278814068924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了哈哈哈哈哈哈哈哈哈哈哈 https://t.co/KWAzEuhvhF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2042359395255029827",
+        "created_at": "2026-04-09T21:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042359395255029827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mullerluiseno/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mullerluiseno/status/2042310278814068924",
+              "start": 16,
+              "url": "https://t.co/KWAzEuhvhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042359395255029827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042310278814068924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了哈哈哈哈哈哈哈哈哈哈哈 https://t.co/KWAzEuhvhF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163071378037399553",
+        "conversation_id": "2042129796751061200",
+        "created_at": "2026-04-09T18:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042310278814068924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042310278814068924",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 104563,
+          "like_count": 6682,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042129796751061200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk Era tan feliz sin poder leer lo que los chinos escribían"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 6345,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1579
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T12:53:28.000Z",
+        "description": "Nada. Soy completamente gris\nA veces hago humor negro.\nMi mamá dice que soy super .",
+        "id": "1163071378037399553",
+        "name": "Luiseño müller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039047158813589504/iUbkX-j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 98,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 5189
+        },
+        "username": "mullerluiseno",
+        "verified": false
+      }
+    ]
+  }
+}

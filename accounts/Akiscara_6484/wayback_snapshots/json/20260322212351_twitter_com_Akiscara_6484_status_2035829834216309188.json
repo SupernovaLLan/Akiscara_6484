@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2035829834216309188",
+    "created_at": "2026-03-22T21:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T22:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035829834216309188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035829834216309188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "联系不上朋友后，我已经做好了最坏的心理准备了。但是我好伤心，心跳特别快，双手发抖，我一直在冒冷汗，我一直心悸，我好害怕，万一真的是最坏的结果怎么办。我第一次遇到这种事情我真的不知道怎么办了。如果有人心情不好的话可以找我聊天的，聊什么都可以，我愿意当你们的情绪树洞，别走好吗？😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2035829834216309188",
+        "created_at": "2026-03-22T21:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T22:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035829834216309188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035829834216309188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "联系不上朋友后，我已经做好了最坏的心理准备了。但是我好伤心，心跳特别快，双手发抖，我一直在冒冷汗，我一直心悸，我好害怕，万一真的是最坏的结果怎么办。我第一次遇到这种事情我真的不知道怎么办了。如果有人心情不好的话可以找我聊天的，聊什么都可以，我愿意当你们的情绪树洞，别走好吗？😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥（18↓）\n抗抑郁，焦虑，惊恐，双向，自残，od。\n家有男友，家有男友，家有男友。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 59,
+          "like_count": 4062,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 946
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052798852722495817",
+    "created_at": "2026-05-09T17:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053165613779202538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745135251838676994",
+          "start": 0,
+          "username": "cyh419008692984"
+        },
+        {
+          "end": 33,
+          "id": "1739691618838679552",
+          "start": 17,
+          "username": "TherapistGreen_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053165613779202538",
+    "in_reply_to_user_id": "1745135251838676994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053164172075233404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyh419008692984 @TherapistGreen_ 我私信截屏不了，有那个什么限制来着的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052798852722495817",
+        "created_at": "2026-05-09T17:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053165613779202538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745135251838676994",
+              "start": 0,
+              "username": "cyh419008692984"
+            },
+            {
+              "end": 33,
+              "id": "1739691618838679552",
+              "start": 17,
+              "username": "TherapistGreen_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053165613779202538",
+        "in_reply_to_user_id": "1745135251838676994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053164172075233404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyh419008692984 @TherapistGreen_ 我私信截屏不了，有那个什么限制来着的东西。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745135251838676994",
+        "conversation_id": "2052798852722495817",
+        "created_at": "2026-05-09T17:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053164172075233404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 31,
+              "id": "1739691618838679552",
+              "start": 15,
+              "username": "TherapistGreen_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053164172075233404",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052900935278719117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 @TherapistGreen_ 求截屏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 135,
+          "like_count": 6891,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 2832
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T17:27:30.000Z",
+        "description": "1",
+        "id": "1745135251838676994",
+        "name": "cyh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935782072922017792/IkKfoe2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 19,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "cyh419008692984",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T16:56:26.000Z",
+        "description": "“性不该是自学成才的事”\nWACS认证性治疗师/性咨询师/性教育师\nNHC三级生殖健康咨询师\nCPA认证心理咨询师\n（备用号@yours_green ）\n\n学习性知识性技巧请先看 #Green教学 \n性知识/技巧咨询免费，但请先：\n1.关注\n2.转发2条我的视频推文(包含置顶帖)\n3.咨询内容可能会匿名分享，介意勿扰",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "Green教学"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "yours_green"
+              }
+            ]
+          }
+        },
+        "id": "1739691618838679552",
+        "name": "你们的Green老师",
+        "pinned_tweet_id": "2031932679093174382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739696188029607936/8TWW45jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137043,
+          "following_count": 189,
+          "like_count": 1005,
+          "listed_count": 230,
+          "media_count": 840,
+          "tweet_count": 2649
+        },
+        "username": "TherapistGreen_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2013555159436075480",
+    "created_at": "2026-01-21T12:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013957883919020281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1648537854694531072",
+          "start": 0,
+          "username": "forfree1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013957883919020281",
+    "in_reply_to_user_id": "1648537854694531072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013616662151602363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@forfree1949 会有更好的人遇见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2013555159436075480",
+        "created_at": "2026-01-21T12:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013957883919020281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1648537854694531072",
+              "start": 0,
+              "username": "forfree1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013957883919020281",
+        "in_reply_to_user_id": "1648537854694531072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013616662151602363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@forfree1949 会有更好的人遇见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648537854694531072",
+        "conversation_id": "2013555159436075480",
+        "created_at": "2026-01-20T14:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013616662151602363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013616662151602363",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013555159436075480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 我都为她做过啊，可是她很快就离开我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od已戒（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，家有男友，家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。\n私信不回恶臭发言男。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 24,
+          "like_count": 2323,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 254
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:03:55.000Z",
+        "description": "",
+        "id": "1648537854694531072",
+        "name": "あさき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722839243016519680/nT7_6XI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 211,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1143
+        },
+        "username": "forfree1949",
+        "verified": false
+      }
+    ]
+  }
+}

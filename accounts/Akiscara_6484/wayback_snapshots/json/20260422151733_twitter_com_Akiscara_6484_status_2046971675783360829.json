@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2044968160546492771",
+    "created_at": "2026-04-22T15:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046971675783360829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032445646792470528",
+          "start": 0,
+          "username": "QhLj9uKkO631559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046971675783360829",
+    "in_reply_to_user_id": "2032445646792470528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044968160546492771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QhLj9uKkO631559 男人也有，我在推上看见那种教学视频。挺好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2044968160546492771",
+        "created_at": "2026-04-22T15:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046971675783360829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032445646792470528",
+              "start": 0,
+              "username": "QhLj9uKkO631559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046971675783360829",
+        "in_reply_to_user_id": "2032445646792470528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044968160546492771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QhLj9uKkO631559 男人也有，我在推上看见那种教学视频。挺好的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032445646792470528",
+        "conversation_id": "2044968160546492771",
+        "created_at": "2026-04-17T02:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044968160546492771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044968160546492771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近学习的都是女女，感觉女女更会让对方舒服一样，真的就是女人才懂怎么样使女人舒服吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 107,
+          "like_count": 6717,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2134
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T13:16:32.000Z",
+        "description": "找找一些刺激",
+        "id": "2032445646792470528",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "好想躺平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038588398664134656/BFrh3CUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 21,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "QhLj9uKkO631559",
+        "verified": false
+      }
+    ]
+  }
+}

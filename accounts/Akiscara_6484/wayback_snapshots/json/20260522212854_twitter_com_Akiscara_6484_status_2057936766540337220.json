@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057936763998585206",
+    "created_at": "2026-05-22T21:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T22:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057936766540337220"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057936766540337220",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057936763998585206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后来，和我的男友奔现了。那个时候还在去年。他着急带着我离开这个鬼地方，（家庭和对象在施压）我便提了三个未完成的心愿。其中一个就是去一趟古镇。可是一拖再拖，便到了今年。也没有陪我去。那个时候没什么钱，自己也不敢离家远点。（会惊恐发作）自己渐渐的都快忘了。答应我的陪伴，我哀求不来。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057936752929894400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9CksibcAAVt-M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057936763998585206",
+        "created_at": "2026-05-22T21:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057936766540337220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057936766540337220",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057936763998585206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来，和我的男友奔现了。那个时候还在去年。他着急带着我离开这个鬼地方，（家庭和对象在施压）我便提了三个未完成的心愿。其中一个就是去一趟古镇。可是一拖再拖，便到了今年。也没有陪我去。那个时候没什么钱，自己也不敢离家远点。（会惊恐发作）自己渐渐的都快忘了。答应我的陪伴，我哀求不来。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057936752929894400"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057936763998585206",
+        "created_at": "2026-05-22T21:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057936763998585206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoTRJJ3v8f",
+              "end": 166,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2057936763998585206/photo/1",
+              "media_key": "3_2057936752929894400",
+              "start": 143,
+              "url": "https://t.co/qoTRJJ3v8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057936763998585206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个古镇，我似乎在一年半还是两年前去过一次。在遭受严重校园80的那个时候妈妈好不容易带我出门走了一次，我格外珍惜。拍了很多照片存在qq相册，也发了朋友圈。再后来爸爸贫血，妈妈胃癌，我在上学，就再也没有去过了。我哀求了妈妈很久，可每次换来的都是再等等吧。（爸爸没有带我出过一次门从来不会 https://t.co/qoTRJJ3v8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友，家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）勿骚扰（！！！戒药，戒割ing.....！！！）请不要忘记我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 156,
+          "like_count": 6895,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 3504
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

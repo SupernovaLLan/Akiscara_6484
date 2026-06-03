@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2050291216114467013",
+    "created_at": "2026-05-01T19:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T20:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050291671137693823"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050291671137693823",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050291216114467013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有姨妈片。在学校会侧漏。捡厕所里比较干净的姨妈片。或者说自己姨妈巾用完了借。（我可能有点早熟，小学来的大姨妈）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2050291208396886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQY_bqaUAAbDaG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2050291216114467013",
+        "created_at": "2026-05-01T19:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050291671137693823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050291671137693823",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050291216114467013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有姨妈片。在学校会侧漏。捡厕所里比较干净的姨妈片。或者说自己姨妈巾用完了借。（我可能有点早熟，小学来的大姨妈）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050291208396886016"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2050291216114467013",
+        "created_at": "2026-05-01T19:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050291216114467013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpVBUDU8rN",
+              "end": 164,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2050291216114467013/photo/1",
+              "media_key": "3_2050291208396886016",
+              "start": 141,
+              "url": "https://t.co/qpVBUDU8rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050291216114467013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爷爷癌症花了好多钱，奶奶不顾家吃不饱，甚至吃坏掉的。上厕所小便不擦的，后面才知道女孩子上厕所袅袅要擦屁股，我没纸拿的厕所垃圾桶相对干净有点的纸巾擦（不擦湿湿的不太舒服）我的衣服全都是别人穿过扔的衣服穿。我喜欢玩偶包括到现在，但爸爸妈妈只给我买了一个，我放了十年。我只有这一个玩具。 https://t.co/qpVBUDU8rN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 116,
+          "like_count": 6749,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2336
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

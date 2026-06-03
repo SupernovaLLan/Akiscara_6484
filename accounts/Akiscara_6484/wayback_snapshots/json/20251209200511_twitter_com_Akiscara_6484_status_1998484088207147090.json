@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1998483574576775170",
+    "created_at": "2025-12-09T20:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T21:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998484088207147090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998484088207147090",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998483574576775170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "直到我挣扎不了，挣脱不开绳子。然后他拿了一个手帕，把一个透明的水倒在上面，让我闻，我闻起来头好昏啊，脑袋涨涨的，迷迷糊糊的，好难受，眼睛也迷迷糊糊的。然后他就把手机打开，在我那个年纪，放簧片给我看，然后那个手机上的女生的胸，被一个很长很长的针一样的东西穿透，穿了好多个。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1998483574576775170",
+        "created_at": "2025-12-09T20:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T21:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998484088207147090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998484088207147090",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998483574576775170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直到我挣扎不了，挣脱不开绳子。然后他拿了一个手帕，把一个透明的水倒在上面，让我闻，我闻起来头好昏啊，脑袋涨涨的，迷迷糊糊的，好难受，眼睛也迷迷糊糊的。然后他就把手机打开，在我那个年纪，放簧片给我看，然后那个手机上的女生的胸，被一个很长很长的针一样的东西穿透，穿了好多个。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1998483574576775170",
+        "created_at": "2025-12-09T20:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T21:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998483574576775170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998483574576775170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前被我父亲虐待，应该算是吧。我那个时候好讨厌好难过，还很生气。许多情绪都堆积在一起。我讨厌被她绑起来打。但是现在好想被虐待，我那个时候还那么喜欢我爸爸。然后有一次我从2楼被拽着头发拉到一楼的小厕所。把我绑在椅子上让我挣扎，然后我挣扎开又被绑起来，他让我继续挣扎我挣扎开又被绑起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥错把陈醋当成墨，半身苦涩半身酸∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w加q。\n🉑聊天，喜欢萌妹子，友好🤝交流。偶尔出COS❤️\n11年，喜欢潜水看别人发推。属性较为猎奇😅话包子，夜猫子，只回复友好私信。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 23,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 144
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

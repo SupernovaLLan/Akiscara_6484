@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2054167377282232555",
+    "created_at": "2026-05-13T15:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054591905258991638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1571083414358609922",
+          "start": 0,
+          "username": "pb_rdd"
+        },
+        {
+          "end": 19,
+          "id": "1858393719080366080",
+          "start": 8,
+          "username": "xiaomonuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054591905258991638",
+    "in_reply_to_user_id": "1571083414358609922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054525177216823754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pb_rdd @xiaomonuya 如果还是数学题我宁愿选死刑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2054167377282232555",
+        "created_at": "2026-05-13T15:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054591905258991638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1571083414358609922",
+              "start": 0,
+              "username": "pb_rdd"
+            },
+            {
+              "end": 19,
+              "id": "1858393719080366080",
+              "start": 8,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054591905258991638",
+        "in_reply_to_user_id": "1571083414358609922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054525177216823754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pb_rdd @xiaomonuya 如果还是数学题我宁愿选死刑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571083414358609922",
+        "conversation_id": "2054167377282232555",
+        "created_at": "2026-05-13T11:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054525177216823754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054525177216823754",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054167377282232555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomonuya 强行写五年模拟三年高考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 150,
+          "like_count": 6899,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 3236
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:27:41.000Z",
+        "description": "♂ loser \n悲观派系\\血腥猎奇\\悲悼伶人\n也许该好好营业一下？",
+        "id": "1571083414358609922",
+        "name": "鲨臂",
+        "pinned_tweet_id": "1599639393983115266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580436056486203392/7ELnkkVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 103,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 141
+        },
+        "username": "pb_rdd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n🚪52喵//\nles\n//29元包年千G流量VPN👉🏻https://t.co/zQZ5MJmWPl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 135,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 112,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 0,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          }
+        },
+        "id": "1858393719080366080",
+        "location": "29元包年千G流量VPN👉🏻",
+        "name": "Camellia",
+        "pinned_tweet_id": "2054520522667700358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050651147199975424/Q4r3IJl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 199,
+          "like_count": 4941,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 5460
+        },
+        "url": "https://t.co/zQZ5MJmWPl",
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

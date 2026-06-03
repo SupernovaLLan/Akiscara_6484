@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1967228918878044607",
+    "created_at": "2025-09-14T14:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967228918878044607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1938963008",
+          "start": 3,
+          "username": "HotmailfromSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967228918878044607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966857405729583396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HotmailfromSH: 德国著名哲学家康德（Immanuel Kant）曾说过一句话：“有三样东西有助于缓解生命的辛劳---希望、睡眠与微笑”。\n\n精神状态不稳定→去睡觉；\n身体不舒服→去睡觉；\n总是觉得累→去睡觉；\n焦虑→去睡觉；\n太过烦恼→去睡觉；\n压力太大→…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_1966857400612421632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uuYo9aAAAiRYt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1967228918878044607",
+        "created_at": "2025-09-14T14:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967228918878044607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1938963008",
+              "start": 3,
+              "username": "HotmailfromSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967228918878044607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966857405729583396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HotmailfromSH: 德国著名哲学家康德（Immanuel Kant）曾说过一句话：“有三样东西有助于缓解生命的辛劳---希望、睡眠与微笑”。\n\n精神状态不稳定→去睡觉；\n身体不舒服→去睡觉；\n总是觉得累→去睡觉；\n焦虑→去睡觉；\n太过烦恼→去睡觉；\n压力太大→…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966857400612421632"
+          ]
+        },
+        "author_id": "1938963008",
+        "conversation_id": "1966857405729583396",
+        "created_at": "2025-09-13T13:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966857405729583396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bJ214Dwpb",
+              "end": 170,
+              "expanded_url": "https://x.com/HotmailfromSH/status/1966857405729583396/photo/1",
+              "media_key": "3_1966857400612421632",
+              "start": 147,
+              "url": "https://t.co/8bJ214Dwpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966857405729583396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "德国著名哲学家康德（Immanuel Kant）曾说过一句话：“有三样东西有助于缓解生命的辛劳---希望、睡眠与微笑”。\n\n精神状态不稳定→去睡觉；\n身体不舒服→去睡觉；\n总是觉得累→去睡觉；\n焦虑→去睡觉；\n太过烦恼→去睡觉；\n压力太大→去睡觉；\n注意力不集中→去睡觉；\n记性不好→去睡觉；\n瘦不下来→去睡觉；\n想保持更年轻的状态→去睡觉；\n改善皮肤状态→去睡觉."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 603,
+          "impression_count": 233100,
+          "like_count": 1394,
+          "quote_count": 9,
+          "reply_count": 54,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "德国著名哲学家康德（Immanuel Kant）曾说过一句话：“有三样东西有助于缓解生命的辛劳---希望、睡眠与微笑”。\n\n精神状态不稳定→去睡觉；\n身体不舒服→去睡觉；\n总是觉得累→去睡觉；\n焦虑→去睡觉；\n太过烦恼→去睡觉；\n压力太大→去睡觉；\n注意力不集中→去睡觉；\n记性不好→去睡觉； https://t.co/8bJ214Dwpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 11,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 81
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-05T22:00:24.000Z",
+        "description": "荣格信徒；医学科普&原研药专业解决方案~",
+        "id": "1938963008",
+        "location": "Thailand",
+        "name": "Dr.Wang",
+        "pinned_tweet_id": "1771438123500847385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142937,
+          "following_count": 859,
+          "like_count": 151932,
+          "listed_count": 767,
+          "media_count": 4670,
+          "tweet_count": 55214
+        },
+        "username": "HotmailfromSH",
+        "verified": true
+      }
+    ]
+  }
+}

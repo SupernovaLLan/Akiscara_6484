@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2028754122984534204",
+    "created_at": "2026-03-04T05:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T06:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029066900815397352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1410841706174455808",
+          "start": 0,
+          "username": "xixikeai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029066900815397352",
+    "in_reply_to_user_id": "1410841706174455808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028754122984534204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikeai_ 看地下影片，血腥，暴力，猎奇，恐怖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2028754122984534204",
+        "created_at": "2026-03-04T05:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029066900815397352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1410841706174455808",
+              "start": 0,
+              "username": "xixikeai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029066900815397352",
+        "in_reply_to_user_id": "1410841706174455808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028754122984534204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikeai_ 看地下影片，血腥，暴力，猎奇，恐怖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410841706174455808",
+        "conversation_id": "2028754122984534204",
+        "created_at": "2026-03-03T08:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028754122984534204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028754122984534204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18829,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家看到猎奇的东西能给我发一下吗，我就是为了猎奇的东西上推的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 32,
+          "like_count": 3309,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 563
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T06:04:19.000Z",
+        "description": "152r+vx~ 提供满满的情绪价值",
+        "id": "1410841706174455808",
+        "name": "栖栖敲可爱",
+        "pinned_tweet_id": "1774665272907178226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600770625035198464/9PbbUsv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495591,
+          "following_count": 35,
+          "like_count": 859,
+          "listed_count": 529,
+          "media_count": 380,
+          "tweet_count": 967
+        },
+        "username": "xixikeai_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

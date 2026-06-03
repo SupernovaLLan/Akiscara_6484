@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2013301579718500593",
+    "created_at": "2026-01-19T17:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T18:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013301579718500593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013301579718500593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的药被我包在纸巾里面 由于之前请弟弟吃饭，送了他电子烟然后帮我打扫卫生。我说不要动桌子上的东西，但是他以为是垃圾就扔了。当时没注意 吃药的时候，我找他质问看他死活不松口和他打架了。我狂躁，再加上快来大姨妈。我很生气就打了弟弟，我也很后悔。以我弟弟的视角他好委屈，我好自责........"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2013301579718500593",
+        "created_at": "2026-01-19T17:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013301579718500593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013301579718500593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的药被我包在纸巾里面 由于之前请弟弟吃饭，送了他电子烟然后帮我打扫卫生。我说不要动桌子上的东西，但是他以为是垃圾就扔了。当时没注意 吃药的时候，我找他质问看他死活不松口和他打架了。我狂躁，再加上快来大姨妈。我很生气就打了弟弟，我也很后悔。以我弟弟的视角他好委屈，我好自责........"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 23,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 240
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

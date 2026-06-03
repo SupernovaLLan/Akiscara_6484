@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059191123596464502",
+    "created_at": "2026-05-26T08:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059191123596464502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akiscara_3405/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Akiscara_3405/status/2058880593195376913",
+          "start": 53,
+          "url": "https://t.co/gPxPrGR83w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059191123596464502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058880593195376913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个账号是姐姐的大号，目前登录不进去了。她说不打算继续用这个账号了，希望大家多多关注他的其他账号。感谢🙏 https://t.co/gPxPrGR83w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058880582592106496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKc-0BaEAA1MKI.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059191123596464502",
+        "created_at": "2026-05-26T08:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059191123596464502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akiscara_3405/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Akiscara_3405/status/2058880593195376913",
+              "start": 53,
+              "url": "https://t.co/gPxPrGR83w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059191123596464502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058880593195376913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个账号是姐姐的大号，目前登录不进去了。她说不打算继续用这个账号了，希望大家多多关注他的其他账号。感谢🙏 https://t.co/gPxPrGR83w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058880582592106496"
+          ]
+        },
+        "author_id": "1621943298473758720",
+        "conversation_id": "2058880593195376913",
+        "created_at": "2026-05-25T11:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058880593195376913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOsk3saXWT",
+              "end": 51,
+              "expanded_url": "https://x.com/Akiscara_3405/status/2058880593195376913/photo/1",
+              "media_key": "3_2058880582592106496",
+              "start": 28,
+              "url": "https://t.co/vOsk3saXWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058880593195376913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十年内无人能看懂我o了苯海索写出来的东西。包括我自己… https://t.co/vOsk3saXWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等内）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 160,
+          "like_count": 6958,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 3804
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T18:46:43.000Z",
+        "description": "=霜夜。  18↑ 非二元性别｜双相情感障碍+重度焦虑  药物治疗中｜阿咖酚散仙人desu  普瑞巴林重度依赖｜@cnmdsjdqs小玖非常萌w｜@STULRS永远的老哥｜@sev_cloud我的小宝｜@Akiscara_6484妹妹｜@Hosinokaede0717 亲爱的老鸨｜🚪88｜互关请私信查成分会回。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "cnmdsjdqs"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "STULRS"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "sev_cloud"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Akiscara_6484"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Hosinokaede0717"
+              }
+            ]
+          }
+        },
+        "id": "1621943298473758720",
+        "location": "无限城",
+        "name": "霜皇帝☁︎☾.‎˖٭",
+        "pinned_tweet_id": "2039992741220999534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018862283078905857/d3yzQtFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 983,
+          "like_count": 22569,
+          "listed_count": 4,
+          "media_count": 941,
+          "tweet_count": 10866
+        },
+        "username": "Akiscara_3405",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2005623223535518011",
+    "created_at": "2025-12-29T20:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T21:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005739009197400549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975125847339315200",
+          "start": 0,
+          "username": "ji00000zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005739009197400549",
+    "in_reply_to_user_id": "1975125847339315200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005623223535518011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji00000zi 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2005623079813468160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VnkJmbUAAkDwC.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2005623223535518011",
+        "created_at": "2025-12-29T20:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T21:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005739009197400549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975125847339315200",
+              "start": 0,
+              "username": "ji00000zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005739009197400549",
+        "in_reply_to_user_id": "1975125847339315200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005623223535518011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji00000zi 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005623079813468160"
+          ]
+        },
+        "author_id": "1975125847339315200",
+        "conversation_id": "2005623223535518011",
+        "created_at": "2025-12-29T12:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005623223535518011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjVV2tmC7f",
+              "end": 41,
+              "expanded_url": "https://x.com/ji00000zi/status/2005623223535518011/photo/1",
+              "media_key": "3_2005623079813468160",
+              "start": 18,
+              "url": "https://t.co/MjVV2tmC7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005623223535518011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 594,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人家起码还有人陪着割割😭\n我呢…… https://t.co/MjVV2tmC7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。发情男死妈，发情男死妈，发情男死妈。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 25,
+          "like_count": 2076,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 174
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:08:02.000Z",
+        "description": "退圈xyn？ 精神状态还行？ 可以找我打三角洲 06 168 60\n🚪20(聊天打游戏)\n前3个号去世\n2025.11.26启用此号\n同类会回关的啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji1zi1",
+                "end": 23,
+                "expanded_url": "https://t.me/ji1zi1",
+                "start": 0,
+                "url": "https://t.co/ZVJNbGmmsy"
+              }
+            ]
+          }
+        },
+        "id": "1975125847339315200",
+        "location": "4km",
+        "name": "💊好吃的小猫咪🍥",
+        "pinned_tweet_id": "2005119587936076221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998140604539342848/oYEsf5X1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 190,
+          "like_count": 475,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/ZVJNbGmmsy",
+        "username": "ji00000zi",
+        "verified": false
+      }
+    ]
+  }
+}

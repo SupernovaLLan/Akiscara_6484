@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2004188036444442693",
+    "created_at": "2025-12-26T13:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T14:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004543730196586733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914521439392423939",
+          "start": 0,
+          "username": "2gqLIfyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004543730196586733",
+    "in_reply_to_user_id": "1914521439392423939",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004188036444442693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2gqLIfyM 。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2004188036444442693",
+        "created_at": "2025-12-26T13:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004543730196586733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914521439392423939",
+              "start": 0,
+              "username": "2gqLIfyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004543730196586733",
+        "in_reply_to_user_id": "1914521439392423939",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004188036444442693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2gqLIfyM 。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914521439392423939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2004188036444442693",
+        "created_at": "2025-12-25T13:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004188036444442693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004188036444442693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 116976,
+          "like_count": 2066,
+          "quote_count": 18,
+          "reply_count": 60,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 25,
+          "like_count": 1973,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 137
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T03:28:06.000Z",
+        "description": "我是外星人别管我了 不接推广",
+        "id": "1914521439392423939",
+        "location": "🚪200/520",
+        "name": "我踏马受够这个逼世界了",
+        "pinned_tweet_id": "1984258317863256431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993944465795641344/e_ZquwVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15288,
+          "following_count": 41,
+          "like_count": 404,
+          "listed_count": 40,
+          "media_count": 99,
+          "tweet_count": 617
+        },
+        "username": "2gqLIfyM",
+        "verified": false
+      }
+    ]
+  }
+}

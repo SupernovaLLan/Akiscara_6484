@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023639425524310016"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2023639428074532882",
+    "created_at": "2026-02-17T06:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T07:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023639428074532882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1zKO1wAyV",
+          "end": 44,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2023639428074532882/photo/1",
+          "media_key": "3_2023639425524310016",
+          "start": 21,
+          "url": "https://t.co/j1zKO1wAyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023639428074532882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乔治没有眼泪，所有伦敦成为了著名的雨城。 https://t.co/j1zKO1wAyV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2023639425524310016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVpVffaIAA6ZNR.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023639425524310016"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2023639428074532882",
+        "created_at": "2026-02-17T06:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T07:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023639428074532882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1zKO1wAyV",
+              "end": 44,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2023639428074532882/photo/1",
+              "media_key": "3_2023639425524310016",
+              "start": 21,
+              "url": "https://t.co/j1zKO1wAyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023639428074532882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乔治没有眼泪，所有伦敦成为了著名的雨城。 https://t.co/j1zKO1wAyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n😅话包子",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 26,
+          "like_count": 2630,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 328
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

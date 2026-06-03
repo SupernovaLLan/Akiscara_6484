@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2041711088560218294",
+    "created_at": "2026-04-08T04:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041740933927150074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494563724803592192",
+          "start": 0,
+          "username": "Kuluomuzhuyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041740933927150074",
+    "in_reply_to_user_id": "1494563724803592192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041740289271067002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuluomuzhuyun 我同意了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2041711088560218294",
+        "created_at": "2026-04-08T04:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041740933927150074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494563724803592192",
+              "start": 0,
+              "username": "Kuluomuzhuyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041740933927150074",
+        "in_reply_to_user_id": "1494563724803592192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041740289271067002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuluomuzhuyun 我同意了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494563724803592192",
+        "conversation_id": "2041711088560218294",
+        "created_at": "2026-04-08T04:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041740289271067002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041740289271067002",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041711088560218294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 有时候这不怪你难受，你已经很厉害了，换其他人早疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 93,
+          "like_count": 6057,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1472
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T06:45:44.000Z",
+        "description": "公告:因为其他副业原因，即日起无限期暂停助孕师服务，偶尔会做科普，现在下班比上班累。。。",
+        "id": "1494563724803592192",
+        "location": "中国 成都",
+        "name": "累废废的艾尼路",
+        "pinned_tweet_id": "1943256969172922834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494622741906952194/Ni0f0WOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6739,
+          "following_count": 32,
+          "like_count": 127,
+          "listed_count": 20,
+          "media_count": 195,
+          "tweet_count": 1207
+        },
+        "username": "Kuluomuzhuyun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2038677330340847879",
+    "created_at": "2026-04-01T03:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039181892776571285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001821328584929280",
+          "start": 0,
+          "username": "cwmgdnn0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039181892776571285",
+    "in_reply_to_user_id": "2001821328584929280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039176584847048944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwmgdnn0305 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2038677330340847879",
+        "created_at": "2026-04-01T03:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039181892776571285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001821328584929280",
+              "start": 0,
+              "username": "cwmgdnn0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039181892776571285",
+        "in_reply_to_user_id": "2001821328584929280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039176584847048944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwmgdnn0305 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001821328584929280",
+        "conversation_id": "2038677330340847879",
+        "created_at": "2026-04-01T03:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039176584847048944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039176584847048944",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038677330340847879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 宝宝不哭惹…抱抱你🥺（抱住）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/阴暗扭曲的爬行（不收男m，不准叫妈妈）\n家有男友.\n性骚扰草你妈\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 80,
+          "like_count": 5067,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1195
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T01:06:51.000Z",
+        "description": "餐券女   日常是一个非常温良的妹子可以随便找我倾诉哦   可以称呼我为楠楠   od💊割手手  查成分互fo   直fo就是喜欢你 喜欢右美   感康（虽然很难受不过它给我的幻觉是难以想象的，喜欢）白兔（超级温柔的药），pr80（比较喜欢的，好幸福）你喜欢我＝我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cwmgdnn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cwmgdnn",
+                "start": 0,
+                "url": "https://t.co/jtBG6h7WY2"
+              }
+            ]
+          }
+        },
+        "id": "2001821328584929280",
+        "location": "Tokyo-to, Japan",
+        "name": "…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039171823590629376/Z_wwMudM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 245,
+          "like_count": 2282,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/jtBG6h7WY2",
+        "username": "cwmgdnn0305",
+        "verified": false
+      }
+    ]
+  }
+}

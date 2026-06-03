@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2043184819212017956",
+    "created_at": "2026-04-12T06:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043218823608967419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043218823608967419",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043184819212017956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 怎么跟抖音一样，怨气这么大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_2043184814002692096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrZw1kaYAABLhe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2043184816204709888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrZw9xagAAzcfo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2043184819212017956",
+        "created_at": "2026-04-12T06:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043218823608967419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043218823608967419",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043184819212017956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 怎么跟抖音一样，怨气这么大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043184814002692096",
+            "3_2043184816204709888"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2043184819212017956",
+        "created_at": "2026-04-12T04:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043184819212017956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGMTC5zg8B",
+              "end": 163,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2043184819212017956/photo/1",
+              "media_key": "3_2043184814002692096",
+              "start": 140,
+              "url": "https://t.co/OGMTC5zg8B"
+            },
+            {
+              "display_url": "pic.x.com/OGMTC5zg8B",
+              "end": 163,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2043184819212017956/photo/1",
+              "media_key": "3_2043184816204709888",
+              "start": 140,
+              "url": "https://t.co/OGMTC5zg8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043184819212017956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 934,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的不懂为什么健全人对自残圈的人恶意那么那么大。\n明明自残的时候又不是割他们身上，明明是我们被伤害先，但把恶意自己吞下肚宁愿选择伤害自己也不愿伤害别人。但是得到的回报就是被辱骂被污蔑被诅咒去死。\n所以他人即地狱，我从来不相信有什么因果轮回，人心真的很险恶，善恶都没有回报。 https://t.co/OGMTC5zg8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 102,
+          "like_count": 6507,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1687
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 418,
+          "like_count": 10084,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

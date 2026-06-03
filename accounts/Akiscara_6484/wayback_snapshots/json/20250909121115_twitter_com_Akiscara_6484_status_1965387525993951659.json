@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1965387285375119360",
+        "7_1965387285836509184",
+        "3_1965387296007749637",
+        "7_1965387467387011076"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "1965387525993951659",
+    "created_at": "2025-09-09T12:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T13:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965387525993951659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MwkpSUkNwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1965387525993951659/video/1",
+          "media_key": "7_1965387285375119360",
+          "start": 0,
+          "url": "https://t.co/MwkpSUkNwh"
+        },
+        {
+          "display_url": "pic.x.com/MwkpSUkNwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1965387525993951659/video/1",
+          "media_key": "7_1965387285836509184",
+          "start": 0,
+          "url": "https://t.co/MwkpSUkNwh"
+        },
+        {
+          "display_url": "pic.x.com/MwkpSUkNwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1965387525993951659/video/1",
+          "media_key": "3_1965387296007749637",
+          "start": 0,
+          "url": "https://t.co/MwkpSUkNwh"
+        },
+        {
+          "display_url": "pic.x.com/MwkpSUkNwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1965387525993951659/video/1",
+          "media_key": "7_1965387467387011076",
+          "start": 0,
+          "url": "https://t.co/MwkpSUkNwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965387525993951659",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MwkpSUkNwh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965387525993951659].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965387525993951659",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965387525993951659"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83142,
+        "height": 856,
+        "media_key": "7_1965387285375119360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1965387285375119360/pu/img/cZQePPEplrTVQY77.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387285375119360/pu/vid/avc1/320x570/42UPWAnHRKFFrUyR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387285375119360/pu/vid/avc1/480x856/slNdCN-J0iM2FmWS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1965387285375119360/pu/pl/liI7Q2mRcy69XOqx.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "duration_ms": 73963,
+        "height": 720,
+        "media_key": "7_1965387285836509184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1965387285836509184/pu/img/eJDadOYcRKla6_FP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387285836509184/pu/vid/avc1/480x270/pnZ6aK9RdB1A8Ts8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387285836509184/pu/vid/avc1/640x360/ioKH8gEWYYIBN_6U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387285836509184/pu/vid/avc1/1280x720/Jtnh5x2TOh304Say.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1965387285836509184/pu/pl/gxIbLIueQf0Sws_g.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1965387296007749637",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Z1VSibgAUCuy-.jpg",
+        "width": 2275
+      },
+      {
+        "duration_ms": 13072,
+        "height": 960,
+        "media_key": "7_1965387467387011076",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1965387467387011076/pu/img/hWkzxeQ4w9oYZ531.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387467387011076/pu/vid/avc1/320x564/1xf-XLBHSUUaBfT7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387467387011076/pu/vid/avc1/480x846/M_dgb7rftPc7Y1KS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965387467387011076/pu/vid/avc1/544x960/YkJ7C10evHx3cH9S.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1965387467387011076/pu/pl/iIDG9imPeBYrFaKG.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 9,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 44
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2038996423207973284",
+    "created_at": "2026-04-09T21:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042360745489547508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966188117163134976",
+          "start": 0,
+          "username": "auawyzzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042360745489547508",
+    "in_reply_to_user_id": "1966188117163134976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038996565709463596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auawyzzk 🤔ing....."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2038996423207973284",
+        "created_at": "2026-04-09T21:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042360745489547508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042360745489547508",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038996565709463596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk 🤔ing....."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966188117163134976",
+        "conversation_id": "2038996423207973284",
+        "created_at": "2026-03-31T15:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038996565709463596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038996565709463596",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14636,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038996423207973284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要为25+男人正名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 98,
+          "like_count": 6347,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1584
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "蝻的 神经病 家里蹲 性格恶劣 心智不成熟 负能很多 不尊重男性女性 双相 割手 od 00 188 70kg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auawyzzk2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/auawyzzk2",
+                "start": 0,
+                "url": "https://t.co/vuAp5MrgmI"
+              }
+            ]
+          }
+        },
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2013257453979189458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099054834728960/J-fSSyve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 22,
+          "like_count": 11985,
+          "listed_count": 1,
+          "media_count": 688,
+          "tweet_count": 8616
+        },
+        "url": "https://t.co/vuAp5MrgmI",
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

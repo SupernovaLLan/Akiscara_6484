@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052659584704098654",
+    "created_at": "2026-05-08T23:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052890417360973844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032398408712118273",
+          "start": 0,
+          "username": "jolee999999999"
+        },
+        {
+          "end": 30,
+          "id": "1883491513206034432",
+          "start": 16,
+          "username": "Maverickssurr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052890417360973844",
+    "in_reply_to_user_id": "2032398408712118273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052673470945951923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jolee999999999 @Maverickssurr 我没有喊成尖叫鸡就好了。痛的要死....."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052659584704098654",
+        "created_at": "2026-05-08T23:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052890417360973844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032398408712118273",
+              "start": 0,
+              "username": "jolee999999999"
+            },
+            {
+              "end": 30,
+              "id": "1883491513206034432",
+              "start": 16,
+              "username": "Maverickssurr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052890417360973844",
+        "in_reply_to_user_id": "2032398408712118273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052673470945951923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jolee999999999 @Maverickssurr 我没有喊成尖叫鸡就好了。痛的要死....."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032398408712118273",
+        "conversation_id": "2052659584704098654",
+        "created_at": "2026-05-08T08:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052673470945951923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883491513206034432",
+              "start": 0,
+              "username": "Maverickssurr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052673470945951923",
+        "in_reply_to_user_id": "1883491513206034432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127962,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052659584704098654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maverickssurr 痛得我馬上表演殺豬叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 132,
+          "like_count": 6877,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 2722
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T10:08:48.000Z",
+        "description": "是的你沒看錯是2.0 | 我是真人啦別再無辜被ban了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jolee36273",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jolee36273",
+                "start": 0,
+                "url": "https://t.co/KvJwua279J"
+              }
+            ]
+          }
+        },
+        "id": "2032398408712118273",
+        "location": "馬來西亞",
+        "name": "Jolee 2.0",
+        "pinned_tweet_id": "2032401021406986584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032398669660790784/kiLe4KfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 142,
+          "like_count": 1557,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/KvJwua279J",
+        "username": "jolee999999999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T12:26:51.000Z",
+        "description": "这个人又凶又饥渴 @mavericks_surr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "mavericks_surr"
+              }
+            ]
+          }
+        },
+        "id": "1883491513206034432",
+        "location": "shandong",
+        "name": "水仙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981031537232535554/GBXm87fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7743,
+          "following_count": 160,
+          "like_count": 1868,
+          "listed_count": 10,
+          "media_count": 41,
+          "tweet_count": 597
+        },
+        "username": "Maverickssurr",
+        "verified": false
+      }
+    ]
+  }
+}

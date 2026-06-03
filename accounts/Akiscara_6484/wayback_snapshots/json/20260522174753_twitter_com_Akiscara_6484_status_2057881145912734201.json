@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057862271649632671",
+    "created_at": "2026-05-22T17:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057881145912734201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2050284049139429376",
+          "start": 0,
+          "username": "sadY2K722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057881145912734201",
+    "in_reply_to_user_id": "2050284049139429376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057862271649632671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadY2K722 好漂亮，好想要衣服链接～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2057862261256105987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7-0tbaMAMaalb.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057862271649632671",
+        "created_at": "2026-05-22T17:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057881145912734201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050284049139429376",
+              "start": 0,
+              "username": "sadY2K722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057881145912734201",
+        "in_reply_to_user_id": "2050284049139429376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057862271649632671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadY2K722 好漂亮，好想要衣服链接～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057862261256105987"
+          ]
+        },
+        "author_id": "2050284049139429376",
+        "conversation_id": "2057862271649632671",
+        "created_at": "2026-05-22T16:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057862271649632671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16Cru9sImi",
+              "end": 34,
+              "expanded_url": "https://x.com/sadY2K722/status/2057862271649632671/photo/1",
+              "media_key": "3_2057862261256105987",
+              "start": 11,
+              "url": "https://t.co/16Cru9sImi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057862271649632671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2931,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你的世界不能只有我吗 https://t.co/16Cru9sImi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友，家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）请勿开h腔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 154,
+          "like_count": 6908,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 3427
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T18:40:25.000Z",
+        "description": "宇宙没了你 才叫太空\nhttps://t.co/VK2EAeiL18",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadness33396",
+                "end": 34,
+                "expanded_url": "https://ngl.link/sadness33396",
+                "start": 11,
+                "url": "https://t.co/VK2EAeiL18"
+              }
+            ]
+          }
+        },
+        "id": "2050284049139429376",
+        "location": "无🚪不加任何联系方式｜08摩羯｜私信会回",
+        "name": "总而言之你很可爱",
+        "pinned_tweet_id": "2055493524523749735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057837845054910464/jJyBzUBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 83,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 206
+        },
+        "username": "sadY2K722",
+        "verified": false
+      }
+    ]
+  }
+}

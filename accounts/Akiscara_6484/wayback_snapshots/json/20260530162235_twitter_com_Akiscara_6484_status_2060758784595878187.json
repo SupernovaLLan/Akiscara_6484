@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2060742441309974740",
+    "created_at": "2026-05-30T16:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060758784595878187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931607185982963712",
+          "start": 0,
+          "username": "Riyomuzan_12529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060758784595878187",
+    "in_reply_to_user_id": "1931607185982963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060742441309974740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riyomuzan_12529 真的假的。这个酒那么猛吗？我今天早上跟你去我尝尝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2060742441309974740",
+        "created_at": "2026-05-30T16:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060758784595878187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931607185982963712",
+              "start": 0,
+              "username": "Riyomuzan_12529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060758784595878187",
+        "in_reply_to_user_id": "1931607185982963712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060742441309974740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riyomuzan_12529 真的假的。这个酒那么猛吗？我今天早上跟你去我尝尝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931607185982963712",
+        "conversation_id": "2060742441309974740",
+        "created_at": "2026-05-30T15:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060742441309974740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060742441309974740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象喝了杯see you tomorrow屁事没有，我喝了杯长岛冰茶又哭又闹还断片了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（ fifteen years old）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 166,
+          "like_count": 7081,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 4050
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T07:00:29.000Z",
+        "description": "=霜夜｜18↑ 非二元性别｜@Akiscara_3405转生。在登上大号之前先在这里玩!!｜🚪66（暂时降低）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1931607185982963712",
+        "name": "霜皇帝2.0៹﹆.",
+        "pinned_tweet_id": "2059688424765014419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059687607135866880/4hCqRCMs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 15,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 65
+        },
+        "username": "Riyomuzan_12529",
+        "verified": false
+      }
+    ]
+  }
+}

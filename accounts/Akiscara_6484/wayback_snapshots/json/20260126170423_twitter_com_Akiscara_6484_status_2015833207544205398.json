@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2015833190938902530"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2015833207544205398",
+    "created_at": "2026-01-26T17:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015833207544205398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1U9f21x7Ks",
+          "end": 27,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2015833207544205398/video/1",
+          "media_key": "7_2015833190938902530",
+          "start": 4,
+          "url": "https://t.co/1U9f21x7Ks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015833207544205398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卡哇伊 https://t.co/1U9f21x7Ks"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17728,
+        "height": 1280,
+        "media_key": "7_2015833190938902530",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015833190938902530/pu/img/yji_UIigJWv74d1O.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015833190938902530/pu/vid/avc1/320x568/TBYrrUDS1YEsQrlO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015833190938902530/pu/vid/avc1/480x852/YCC0kroxpEMRY80A.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015833190938902530/pu/vid/avc1/720x1280/Jo2brKpgyiWdNzi3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015833190938902530/pu/pl/TDSGRaTd0zJp0yTZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015833190938902530"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2015833207544205398",
+        "created_at": "2026-01-26T17:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015833207544205398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1U9f21x7Ks",
+              "end": 27,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2015833207544205398/video/1",
+              "media_key": "7_2015833190938902530",
+              "start": 4,
+              "url": "https://t.co/1U9f21x7Ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015833207544205398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡哇伊 https://t.co/1U9f21x7Ks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od已戒（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，家有男友，家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。\n私信不回恶臭发言男。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 24,
+          "like_count": 2340,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 264
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

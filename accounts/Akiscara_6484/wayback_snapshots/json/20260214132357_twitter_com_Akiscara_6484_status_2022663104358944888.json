@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2022513731893367055",
+    "created_at": "2026-02-14T13:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T14:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022663104358944888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945679660899328000",
+          "start": 0,
+          "username": "BlueHawk1378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022663104358944888",
+    "in_reply_to_user_id": "1945679660899328000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022513731893367055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueHawk1378 畜生"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13233,
+        "height": 640,
+        "media_key": "13_2022431699754430465",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022431699754430465/img/A4_5LpjMgajSkgvv.jpg",
+        "public_metrics": {
+          "view_count": 1266286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022431699754430465/vid/avc1/320x580/vf5tTYC4Cx71hIc2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022431699754430465/vid/avc1/352x640/Sx_zeHgnRF_OFwrG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022431699754430465/pl/aGeg4cq2Gjjom1Lr.m3u8?v=cfc"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2022513731893367055",
+        "created_at": "2026-02-14T13:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022663104358944888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945679660899328000",
+              "start": 0,
+              "username": "BlueHawk1378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022663104358944888",
+        "in_reply_to_user_id": "1945679660899328000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022513731893367055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueHawk1378 畜生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022431699754430465"
+          ],
+          "media_source_tweet_id": [
+            "2022431816272252997"
+          ]
+        },
+        "author_id": "1945679660899328000",
+        "conversation_id": "2022513731893367055",
+        "created_at": "2026-02-14T03:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022513731893367055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nhHWnDstK",
+              "end": 52,
+              "expanded_url": "https://x.com/diceleo_/status/2022431816272252997/video/1",
+              "media_key": "13_2022431699754430465",
+              "start": 29,
+              "url": "https://t.co/5nhHWnDstK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022513731893367055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 655,
+          "impression_count": 1298893,
+          "like_count": 8012,
+          "quote_count": 424,
+          "reply_count": 972,
+          "retweet_count": 2439
+        },
+        "reply_settings": "everyone",
+        "text": "ありえない。この思考と神経。共生なんかできるわけない。。\nhttps://t.co/5nhHWnDstK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n😅话包子",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 26,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 318
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T02:59:43.000Z",
+        "description": "【日本保守党 特別党員】\n定年後は専業投資家｜投資歴36年\n中長期・スイング・優待投資\n底値探しが好きです📈\n\n日本保守党を応援しています。\n有本香／小坂英二／冨田いたる／大谷司郎／岩永京子\n気軽にフォローください。リポスト大歓迎。アンチで無ければ引用も大歓迎。#日本保守党 #ドラゴンスレイヤー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "日本保守党"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "tag": "ドラゴンスレイヤー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoiraijin789",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoiraijin789",
+                "start": 0,
+                "url": "https://t.co/hw3MQ9oq21"
+              }
+            ]
+          }
+        },
+        "id": "1945679660899328000",
+        "location": "東京都",
+        "name": "そこねさがし📈",
+        "pinned_tweet_id": "2011049161723167111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996042875159891968/2x1FJaD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5073,
+          "following_count": 7130,
+          "like_count": 15461,
+          "listed_count": 10,
+          "media_count": 1418,
+          "tweet_count": 16220
+        },
+        "url": "https://t.co/hw3MQ9oq21",
+        "username": "BlueHawk1378",
+        "verified": true
+      }
+    ]
+  }
+}

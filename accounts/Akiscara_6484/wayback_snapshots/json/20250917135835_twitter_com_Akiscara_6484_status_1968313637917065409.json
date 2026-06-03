@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1968210449771659358",
+    "created_at": "2025-09-17T13:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968313637917065409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1637777062730555396",
+          "start": 0,
+          "username": "Mikomikoyo155"
+        },
+        {
+          "end": 27,
+          "id": "1798389435157147648",
+          "start": 15,
+          "username": "yanliang234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968313637917065409",
+    "in_reply_to_user_id": "1637777062730555396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968311581680525796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikomikoyo155 @yanliang234 对，除了混学习不会，为人真的特别好。😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1968210449771659358",
+        "created_at": "2025-09-17T13:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968313637917065409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1637777062730555396",
+              "start": 0,
+              "username": "Mikomikoyo155"
+            },
+            {
+              "end": 27,
+              "id": "1798389435157147648",
+              "start": 15,
+              "username": "yanliang234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968313637917065409",
+        "in_reply_to_user_id": "1637777062730555396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968311581680525796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikomikoyo155 @yanliang234 对，除了混学习不会，为人真的特别好。😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637777062730555396",
+        "conversation_id": "1968210449771659358",
+        "created_at": "2025-09-17T13:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968311581680525796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798389435157147648",
+              "start": 0,
+              "username": "yanliang234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968311581680525796",
+        "in_reply_to_user_id": "1798389435157147648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968210449771659358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanliang234 虽然是剧本，但确实挺多精神小妹人真的挺好的。对我这种超级i人来说，愿意主动找我说话带我玩啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 12,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 110
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T11:24:40.000Z",
+        "description": "01 | intp-t | 单核处理器 | 一个普通村民NPC| 🫩 😴😤| ▶提问箱～https://t.co/8SOGcrLbpK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jensmit9581024",
+                "end": 67,
+                "expanded_url": "https://ngl.link/jensmit9581024",
+                "start": 44,
+                "url": "https://t.co/8SOGcrLbpK"
+              }
+            ]
+          }
+        },
+        "id": "1637777062730555396",
+        "name": "平野小兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962208422755266560/vWKbCgf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 368,
+          "like_count": 9781,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 944
+        },
+        "username": "Mikomikoyo155",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T16:20:37.000Z",
+        "description": "山是地质年代里变化极其缓慢的浪 Ι海面：@yanliang456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "yanliang456"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.79754901",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.79754901",
+                "start": 0,
+                "url": "https://t.co/AeTYWvotDN"
+              }
+            ]
+          }
+        },
+        "id": "1798389435157147648",
+        "location": "于是猪小水开始期待",
+        "name": "水",
+        "pinned_tweet_id": "1955327359143514603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929538124985901056/yqGmoBZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 153,
+          "like_count": 2674,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2525
+        },
+        "url": "https://t.co/AeTYWvotDN",
+        "username": "yanliang234",
+        "verified": false
+      }
+    ]
+  }
+}

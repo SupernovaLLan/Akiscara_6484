@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1966318520125501871",
+    "created_at": "2025-09-21T06:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969656082252644611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958331489629913088",
+          "start": 0,
+          "username": "YaeGakiHaruki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969656082252644611",
+    "in_reply_to_user_id": "1958331489629913088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966318520125501871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaeGakiHaruki 会死"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20080,
+        "height": 576,
+        "media_key": "7_1966318465805107200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1966318465805107200/pu/img/tQx_VG7_i-FP6zlM.jpg",
+        "public_metrics": {
+          "view_count": 131640
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966318465805107200/pu/vid/avc1/600x270/-yL15gjplZHoXMvK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966318465805107200/pu/vid/avc1/800x360/CuZlnBMhmEs8RK1e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966318465805107200/pu/vid/avc1/1280x576/j47IsjBElF4jUv-S.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1966318465805107200/pu/pl/W54U6TaHiBL3vXrF.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1966318520125501871",
+        "created_at": "2025-09-21T06:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969656082252644611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958331489629913088",
+              "start": 0,
+              "username": "YaeGakiHaruki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969656082252644611",
+        "in_reply_to_user_id": "1958331489629913088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966318520125501871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaeGakiHaruki 会死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1966318465805107200"
+          ]
+        },
+        "author_id": "1958331489629913088",
+        "conversation_id": "1966318520125501871",
+        "created_at": "2025-09-12T01:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T02:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966318520125501871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ffveIofDu",
+              "end": 37,
+              "expanded_url": "https://x.com/YaeGakiHaruki/status/1966318520125501871/video/1",
+              "media_key": "7_1966318465805107200",
+              "start": 14,
+              "url": "https://t.co/8ffveIofDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966318520125501871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 32660,
+          "like_count": 1618,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "在大大的鲸鱼里晃呀晃呀晃～ https://t.co/8ffveIofDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 12,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 143
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T00:53:16.000Z",
+        "description": "这里是某人的小号啦！大号清水太久了不太好发涩涩了，基本上偏涩涩的内容之后就往这边搬啦～知道的不要声张，不知道的就当新号看就好啦～谢谢大家喜欢喽～",
+        "id": "1958331489629913088",
+        "name": "八重垣春树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958337198606213120/rro15Pkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 22,
+          "like_count": 50,
+          "listed_count": 23,
+          "media_count": 16,
+          "tweet_count": 21
+        },
+        "username": "YaeGakiHaruki",
+        "verified": false
+      }
+    ]
+  }
+}

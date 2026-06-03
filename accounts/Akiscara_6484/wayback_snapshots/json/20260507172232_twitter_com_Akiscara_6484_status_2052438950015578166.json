@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052438950015578166",
+    "created_at": "2026-05-07T17:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052438950015578166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akiscara_6484/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Akiscara_6484/status/2052425870258958678",
+          "start": 56,
+          "url": "https://t.co/4PGMLQMQgb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052438950015578166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052425870258958678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要死，有没有他亲友看见了打一下120。我应该早点看私信的我不知道还来得及不。球球惹，扩散一下吧。我好愧疚她。 https://t.co/4PGMLQMQgb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052425860658200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuucjBbgAAEYbU.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052438950015578166",
+        "created_at": "2026-05-07T17:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052438950015578166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akiscara_6484/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Akiscara_6484/status/2052425870258958678",
+              "start": 56,
+              "url": "https://t.co/4PGMLQMQgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052438950015578166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052425870258958678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要死，有没有他亲友看见了打一下120。我应该早点看私信的我不知道还来得及不。球球惹，扩散一下吧。我好愧疚她。 https://t.co/4PGMLQMQgb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052425860658200576"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052425870258958678",
+        "created_at": "2026-05-07T16:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052425870258958678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FdjR7vnqi",
+              "end": 73,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052425870258958678/photo/1",
+              "media_key": "3_2052425860658200576",
+              "start": 50,
+              "url": "https://t.co/3FdjR7vnqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052425870258958678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3049,
+          "like_count": 15,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "有没有谁能联系到她，或者知道她亲友联系方式。打一下120，这是我互关列表，她自杀了。我不知道她在哪 https://t.co/3FdjR7vnqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 129,
+          "like_count": 6820,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 2548
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

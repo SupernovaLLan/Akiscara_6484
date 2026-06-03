@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1968670668804804935",
+    "created_at": "2025-09-19T05:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T06:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968903922170376248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968903922170376248",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968670668804804935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 要不男的和男的一起，女的和女的一起吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1968670668804804935",
+        "created_at": "2025-09-19T05:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T06:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968903922170376248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968903922170376248",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968670668804804935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 要不男的和男的一起，女的和女的一起吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1968670668804804935",
+        "created_at": "2025-09-18T13:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968670668804804935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968670668804804935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9586,
+          "like_count": 177,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你是个绝望的直女 你问他为什么喜欢你 他说漂亮 身材好 最后是温柔和声音好听 你很失望 其实期望被看见的是骨子里的浪漫情思或是天马行空的思考和想像 是独有的幽默风趣或是跳跃的思维\n你想和他谈三观谈人生谈理想和未来\n他无法理解的说了句：看看奶子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 12,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 135
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "那些打不死我的一直在打我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1968227499294568467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960930661063372800/NYlRp0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 123,
+          "like_count": 4247,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 1529
+        },
+        "url": "https://t.co/5ZgSd7Ojrl",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

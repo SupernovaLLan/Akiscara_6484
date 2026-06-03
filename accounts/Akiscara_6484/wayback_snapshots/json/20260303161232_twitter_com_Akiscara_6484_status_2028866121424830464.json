@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028866100805685248"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2028866121424830464",
+    "created_at": "2026-03-03T16:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028866121424830464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KQ01Rd0DzT",
+          "end": 39,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028866121424830464/video/1",
+          "media_key": "7_2028866100805685248",
+          "start": 16,
+          "url": "https://t.co/KQ01Rd0DzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028866121424830464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在重庆玩的时候好累，回忆一下吧 https://t.co/KQ01Rd0DzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22691,
+        "height": 1280,
+        "media_key": "7_2028866100805685248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028866100805685248/pu/img/IBjCym_usJQVDcJX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028866100805685248/pu/vid/avc1/320x568/9krPXFDsZdZ88C9C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028866100805685248/pu/vid/avc1/480x852/MI-ODf78xsZLA9D4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028866100805685248/pu/vid/avc1/720x1280/r1SLjY77miiR5RiZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028866100805685248/pu/pl/QNG-0l9DzhIWGODk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028866100805685248"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2028866121424830464",
+        "created_at": "2026-03-03T16:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028866121424830464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQ01Rd0DzT",
+              "end": 39,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028866121424830464/video/1",
+              "media_key": "7_2028866100805685248",
+              "start": 16,
+              "url": "https://t.co/KQ01Rd0DzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028866121424830464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在重庆玩的时候好累，回忆一下吧 https://t.co/KQ01Rd0DzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 32,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 558
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052872347414380544",
+        "3_2052872347435339776",
+        "3_2052872347447914496",
+        "3_2052872347431182336"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052872360114659814",
+    "created_at": "2026-05-08T22:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052872360114659814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzwSI2AutH",
+          "end": 65,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+          "media_key": "3_2052872347414380544",
+          "start": 42,
+          "url": "https://t.co/yzwSI2AutH"
+        },
+        {
+          "display_url": "pic.x.com/yzwSI2AutH",
+          "end": 65,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+          "media_key": "3_2052872347435339776",
+          "start": 42,
+          "url": "https://t.co/yzwSI2AutH"
+        },
+        {
+          "display_url": "pic.x.com/yzwSI2AutH",
+          "end": 65,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+          "media_key": "3_2052872347447914496",
+          "start": 42,
+          "url": "https://t.co/yzwSI2AutH"
+        },
+        {
+          "display_url": "pic.x.com/yzwSI2AutH",
+          "end": 65,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+          "media_key": "3_2052872347431182336",
+          "start": 42,
+          "url": "https://t.co/yzwSI2AutH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052872360114659814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自从之前骂了臭人机滚了之后，就缠上我了。我都快怀疑我账号是人机举报的了，这很荒缪。 https://t.co/yzwSI2AutH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052872347414380544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1EhfzbQAAmVMV.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052872347435339776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1Ehf4bEAAD2c1.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052872347447914496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1Ehf7a8AAy4Jj.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052872347431182336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1Ehf3boAAli7H.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052872347414380544",
+            "3_2052872347435339776",
+            "3_2052872347447914496",
+            "3_2052872347431182336"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052872360114659814",
+        "created_at": "2026-05-08T22:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052872360114659814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzwSI2AutH",
+              "end": 65,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+              "media_key": "3_2052872347414380544",
+              "start": 42,
+              "url": "https://t.co/yzwSI2AutH"
+            },
+            {
+              "display_url": "pic.x.com/yzwSI2AutH",
+              "end": 65,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+              "media_key": "3_2052872347435339776",
+              "start": 42,
+              "url": "https://t.co/yzwSI2AutH"
+            },
+            {
+              "display_url": "pic.x.com/yzwSI2AutH",
+              "end": 65,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+              "media_key": "3_2052872347447914496",
+              "start": 42,
+              "url": "https://t.co/yzwSI2AutH"
+            },
+            {
+              "display_url": "pic.x.com/yzwSI2AutH",
+              "end": 65,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052872360114659814/photo/1",
+              "media_key": "3_2052872347431182336",
+              "start": 42,
+              "url": "https://t.co/yzwSI2AutH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052872360114659814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从之前骂了臭人机滚了之后，就缠上我了。我都快怀疑我账号是人机举报的了，这很荒缪。 https://t.co/yzwSI2AutH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 131,
+          "like_count": 6851,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 2618
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2042359530953294204",
+    "created_at": "2026-04-09T21:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T22:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042359530953294204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sousatzl/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/sousatzl/status/2042251424956813661",
+          "start": 15,
+          "url": "https://t.co/Jto6XiNnHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042359530953294204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042251424956813661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我的推特不能自动翻译？ https://t.co/Jto6XiNnHV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2042359530953294204",
+        "created_at": "2026-04-09T21:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042359530953294204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sousatzl/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sousatzl/status/2042251424956813661",
+              "start": 15,
+              "url": "https://t.co/Jto6XiNnHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042359530953294204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042251424956813661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我的推特不能自动翻译？ https://t.co/Jto6XiNnHV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953886441177812992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2042129796751061200",
+        "created_at": "2026-04-09T14:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042251424956813661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042251424956813661",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 204199,
+          "like_count": 8343,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042129796751061200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk Saudades do tempo que o Twitter não traduzia outras línguas por que agora eu sou obrigada a ler esse gore"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 6345,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1580
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T18:30:21.000Z",
+        "description": "sirva CUNT e deixe todos GAG !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/morgntzy_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/morgntzy_?igsh=bHFrMmdicTM3bWs0",
+                "start": 0,
+                "url": "https://t.co/mUSakgX2Zc"
+              }
+            ]
+          }
+        },
+        "id": "1953886441177812992",
+        "name": "Morgam",
+        "pinned_tweet_id": "1969789123494891679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039525491313696769/kIw77Bfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 54,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/mUSakgX2Zc",
+        "username": "sousatzl",
+        "verified": false
+      }
+    ]
+  }
+}

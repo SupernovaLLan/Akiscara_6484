@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2004462288846414331",
+    "created_at": "2025-12-26T08:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T09:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004462288846414331"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004462288846414331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自从自杀后，好像一切都变了。家里人为了让我吃一口饭，买了螺蛳粉，牛肉，爆炒瘦肉，豆腐炒瘦肉，酸菜，腊肉，还有菠萝蜜。可我还是没胃口吃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2004462288846414331",
+        "created_at": "2025-12-26T08:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004462288846414331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004462288846414331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从自杀后，好像一切都变了。家里人为了让我吃一口饭，买了螺蛳粉，牛肉，爆炒瘦肉，豆腐炒瘦肉，酸菜，腊肉，还有菠萝蜜。可我还是没胃口吃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。聊天找我",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 25,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 195
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

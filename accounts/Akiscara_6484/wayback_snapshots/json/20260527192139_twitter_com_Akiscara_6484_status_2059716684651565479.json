@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059288898996682915",
+    "created_at": "2026-05-27T19:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059716684651565479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1800455049468149760",
+          "start": 0,
+          "username": "Mg500N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059716684651565479",
+    "in_reply_to_user_id": "1800455049468149760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059288898996682915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mg500N 好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059288898996682915",
+        "created_at": "2026-05-27T19:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059716684651565479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1800455049468149760",
+              "start": 0,
+              "username": "Mg500N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059716684651565479",
+        "in_reply_to_user_id": "1800455049468149760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059288898996682915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mg500N 好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800455049468149760",
+        "conversation_id": "2059288898996682915",
+        "created_at": "2026-05-26T15:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059288898996682915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059288898996682915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小馄饨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500（专心经营个人生活，没招惹任何人，别来找存在感）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 164,
+          "like_count": 7026,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 3930
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T09:08:37.000Z",
+        "description": "06｜沪｜负能｜生心男｜中抑重焦｜戒割手中｜酒精｜尼古丁｜\n微查成分互fo致歉…",
+        "id": "1800455049468149760",
+        "name": "Yuk1iii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049519305612820480/YXBxKtmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 188,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 148
+        },
+        "username": "Mg500N",
+        "verified": false
+      }
+    ]
+  }
+}

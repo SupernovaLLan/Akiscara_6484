@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2025798100791550085",
+    "created_at": "2026-02-24T01:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026111569470669036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812438746203291648",
+          "start": 0,
+          "username": "JongkokL7876"
+        },
+        {
+          "end": 23,
+          "id": "1436644167967404039",
+          "start": 14,
+          "username": "sjs88732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026111569470669036",
+    "in_reply_to_user_id": "1812438746203291648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025978461874184492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JongkokL7876 @sjs88732 近亲繁殖就是没脑子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2025798100791550085",
+        "created_at": "2026-02-24T01:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026111569470669036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812438746203291648",
+              "start": 0,
+              "username": "JongkokL7876"
+            },
+            {
+              "end": 23,
+              "id": "1436644167967404039",
+              "start": 14,
+              "username": "sjs88732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026111569470669036",
+        "in_reply_to_user_id": "1812438746203291648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025978461874184492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JongkokL7876 @sjs88732 近亲繁殖就是没脑子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812438746203291648",
+        "conversation_id": "2025798100791550085",
+        "created_at": "2026-02-23T16:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025978461874184492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1436644167967404039",
+              "start": 0,
+              "username": "sjs88732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025978461874184492",
+        "in_reply_to_user_id": "1436644167967404039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31917,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025798100791550085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjs88732 那为什么女生不喜欢吃药呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 26,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 397
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T10:47:51.000Z",
+        "description": "",
+        "id": "1812438746203291648",
+        "name": "uno089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020535094671536128/YMGlP_BQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 45,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "JongkokL7876",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T10:54:25.000Z",
+        "description": "",
+        "id": "1436644167967404039",
+        "location": "武汉",
+        "name": "椰汁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945054420661612544/c-FP5XkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11845,
+          "following_count": 41,
+          "like_count": 15,
+          "listed_count": 13,
+          "media_count": 53,
+          "tweet_count": 229
+        },
+        "username": "sjs88732",
+        "verified": false
+      }
+    ]
+  }
+}

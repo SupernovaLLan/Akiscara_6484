@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2028721124536922474",
+    "created_at": "2026-03-03T06:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028721124536922474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sakurafresas/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Sakurafresas/status/2010565546618536411",
+          "start": 3,
+          "url": "https://t.co/6QwREdcYut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028721124536922474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010565546618536411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好看 https://t.co/6QwREdcYut"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15139,
+        "height": 1280,
+        "media_key": "7_2010565491224358912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010565491224358912/pu/img/BweLqPywVydh9heg.jpg",
+        "public_metrics": {
+          "view_count": 29128
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010565491224358912/pu/vid/avc1/320x568/UIvIVcppkTgY7ioQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010565491224358912/pu/vid/avc1/480x852/TeqtTNArTEXKveMg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010565491224358912/pu/vid/avc1/720x1280/DXepd60MMq3IqNEx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010565491224358912/pu/pl/lr-omz83Qfxj2-pJ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2028721124536922474",
+        "created_at": "2026-03-03T06:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028721124536922474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakurafresas/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Sakurafresas/status/2010565546618536411",
+              "start": 3,
+              "url": "https://t.co/6QwREdcYut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028721124536922474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010565546618536411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好看 https://t.co/6QwREdcYut"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010565491224358912"
+          ]
+        },
+        "author_id": "1762917731156811777",
+        "conversation_id": "2010565546618536411",
+        "created_at": "2026-01-12T04:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010565546618536411"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OmmVg5WgsT",
+              "end": 69,
+              "expanded_url": "https://x.com/Sakurafresas/status/2010565546618536411/video/1",
+              "media_key": "7_2010565491224358912",
+              "start": 46,
+              "url": "https://t.co/OmmVg5WgsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010565546618536411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1586,
+          "impression_count": 81949,
+          "like_count": 6637,
+          "quote_count": 22,
+          "reply_count": 42,
+          "retweet_count": 1326
+        },
+        "reply_settings": "everyone",
+        "text": "彼女はきれいだ   #shtwt \n໒꒰ྀི ˶ෆ . ෆ˶ ꒱ྀི১ ♡no mine♡ https://t.co/OmmVg5WgsT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 31,
+          "like_count": 3242,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 515
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T19:09:07.000Z",
+        "description": "ೀ 🍨 ‧ ˚ 🎀 ⊹˚. ♡Cutecore♡Kawaiicoreೀ 🍰 ‧ ˚ 🍮 ⊹˚. ♡\n#shtwt #edtwt #goretwt #obslovetwt, tlp, tdah, autismo tid, tca, My love @Splunky_Dunky77 \n ໒꒰ྀི´ ˘ ` ꒱ྀིა",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "shtwt"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "edtwt"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "goretwt"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "tag": "obslovetwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "Splunky_Dunky77"
+              }
+            ]
+          }
+        },
+        "id": "1762917731156811777",
+        "location": " ♡Hospital psiquiátrico♡ ",
+        "name": "🎀🍓Sakurafresita🌸🎀 ໒꒰ྀི｡- ˕ -｡꒱ྀི১♡",
+        "pinned_tweet_id": "1988704577781440876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007237545944371201/-1GrC5sn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7783,
+          "following_count": 4019,
+          "like_count": 81431,
+          "listed_count": 84,
+          "media_count": 725,
+          "tweet_count": 21806
+        },
+        "username": "Sakurafresas",
+        "verified": false
+      }
+    ]
+  }
+}

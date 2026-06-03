@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2030028382612901890"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2030028415869538320",
+    "created_at": "2026-03-06T21:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T22:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030028415869538320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tX3z9MfmUM",
+          "end": 33,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2030028415869538320/video/1",
+          "media_key": "7_2030028382612901890",
+          "start": 10,
+          "url": "https://t.co/tX3z9MfmUM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030028415869538320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我家附近发生命案了 https://t.co/tX3z9MfmUM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19713,
+        "height": 1280,
+        "media_key": "7_2030028382612901890",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030028382612901890/pu/img/SIUxfqhwCYFj7Fd1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030028382612901890/pu/vid/avc1/320x568/y6l4wU9Ym1QbzJGQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030028382612901890/pu/vid/avc1/480x852/r-KNKJXherNRRVKw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030028382612901890/pu/vid/avc1/720x1280/QdS4yFvWcSVHXxZj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030028382612901890/pu/pl/aJ_gQ37krgyv4Jy4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030028382612901890"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2030028415869538320",
+        "created_at": "2026-03-06T21:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T22:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030028415869538320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tX3z9MfmUM",
+              "end": 33,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2030028415869538320/video/1",
+              "media_key": "7_2030028382612901890",
+              "start": 10,
+              "url": "https://t.co/tX3z9MfmUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030028415869538320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家附近发生命案了 https://t.co/tX3z9MfmUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 34,
+          "like_count": 3456,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 650
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

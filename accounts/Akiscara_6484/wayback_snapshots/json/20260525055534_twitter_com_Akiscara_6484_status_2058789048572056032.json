@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2055887180313006440",
+    "created_at": "2026-05-25T05:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058789048572056032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050988855206248448",
+          "start": 0,
+          "username": "Zoeeeeechennn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058789048572056032",
+    "in_reply_to_user_id": "2050988855206248448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055887180313006440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoeeeeechennn 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055887156594331648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf6efMX0AAw5l9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2055887180313006440",
+        "created_at": "2026-05-25T05:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058789048572056032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050988855206248448",
+              "start": 0,
+              "username": "Zoeeeeechennn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058789048572056032",
+        "in_reply_to_user_id": "2050988855206248448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055887180313006440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoeeeeechennn 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055887156594331648"
+          ]
+        },
+        "author_id": "2050988855206248448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055887180313006440",
+        "created_at": "2026-05-17T05:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055887180313006440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzFgiN7P9q",
+              "end": 43,
+              "expanded_url": "https://x.com/Zoeeeeechennn/status/2055887180313006440/photo/1",
+              "media_key": "3_2055887156594331648",
+              "start": 20,
+              "url": "https://t.co/RzFgiN7P9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055887180313006440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4589,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乖宝宝有daddy奖励的下午茶吃😋😋😋 https://t.co/RzFgiN7P9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/m/受虐（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 158,
+          "like_count": 6936,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 3702
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T17:21:10.000Z",
+        "description": "有对象惹🫶🫶🫶\n时常忏悔，但是记不住/记录日常/碎碎念🐈‍⬛🐈‍⬛🐈‍⬛\n不约炮，不找主\n🚪52➕了也只有清水的聊天和pyq可以看",
+        "id": "2050988855206248448",
+        "name": "橙橙橙橙酱",
+        "pinned_tweet_id": "2055945289345724694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051252838970372096/9RGItYww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 52,
+          "like_count": 370,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 152
+        },
+        "username": "Zoeeeeechennn",
+        "verified": false
+      }
+    ]
+  }
+}

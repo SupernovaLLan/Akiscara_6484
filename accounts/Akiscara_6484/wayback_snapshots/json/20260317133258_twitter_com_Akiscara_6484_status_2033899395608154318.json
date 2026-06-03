@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033899381590839296",
+        "3_2033899381443989509"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033899395608154318",
+    "created_at": "2026-03-17T13:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033899395608154318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GeUozl6zP0",
+          "end": 47,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2033899395608154318/photo/1",
+          "media_key": "3_2033899381590839296",
+          "start": 24,
+          "url": "https://t.co/GeUozl6zP0"
+        },
+        {
+          "display_url": "pic.x.com/GeUozl6zP0",
+          "end": 47,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2033899395608154318/photo/1",
+          "media_key": "3_2033899381443989509",
+          "start": 24,
+          "url": "https://t.co/GeUozl6zP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033899395608154318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经过男朋友半年多的不懈努力，我终于长胖了4斤。 https://t.co/GeUozl6zP0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2033899381590839296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnctiSb0AAQh8Q.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033899381443989509",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDncthvbEAUU3au.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033899381590839296",
+            "3_2033899381443989509"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033899395608154318",
+        "created_at": "2026-03-17T13:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033899395608154318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeUozl6zP0",
+              "end": 47,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2033899395608154318/photo/1",
+              "media_key": "3_2033899381590839296",
+              "start": 24,
+              "url": "https://t.co/GeUozl6zP0"
+            },
+            {
+              "display_url": "pic.x.com/GeUozl6zP0",
+              "end": 47,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2033899395608154318/photo/1",
+              "media_key": "3_2033899381443989509",
+              "start": 24,
+              "url": "https://t.co/GeUozl6zP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033899395608154318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过男朋友半年多的不懈努力，我终于长胖了4斤。 https://t.co/GeUozl6zP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，双向，自残，od。\n家有男友，家有男友，家有男友。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 45,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 817
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

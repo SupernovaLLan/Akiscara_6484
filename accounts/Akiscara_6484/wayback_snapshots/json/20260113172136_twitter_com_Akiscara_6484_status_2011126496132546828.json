@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011126493628542976",
+        "3_2011126493284614149",
+        "3_2011126493611757568"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2011126496132546828",
+    "created_at": "2026-01-13T17:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T18:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011126496132546828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/86WppUfoEL",
+          "end": 34,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2011126496132546828/photo/1",
+          "media_key": "3_2011126493628542976",
+          "start": 11,
+          "url": "https://t.co/86WppUfoEL"
+        },
+        {
+          "display_url": "pic.x.com/86WppUfoEL",
+          "end": 34,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2011126496132546828/photo/1",
+          "media_key": "3_2011126493284614149",
+          "start": 11,
+          "url": "https://t.co/86WppUfoEL"
+        },
+        {
+          "display_url": "pic.x.com/86WppUfoEL",
+          "end": 34,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2011126496132546828/photo/1",
+          "media_key": "3_2011126493611757568",
+          "start": 11,
+          "url": "https://t.co/86WppUfoEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011126496132546828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那就让我一直抽下去吧 https://t.co/86WppUfoEL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011126493628542976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-j04_sbMAAFdx1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011126493284614149",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-j04-abQAUbVJm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011126493611757568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-j04_obEAAjgEU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011126493628542976",
+            "3_2011126493284614149",
+            "3_2011126493611757568"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2011126496132546828",
+        "created_at": "2026-01-13T17:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T18:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011126496132546828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86WppUfoEL",
+              "end": 34,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2011126496132546828/photo/1",
+              "media_key": "3_2011126493628542976",
+              "start": 11,
+              "url": "https://t.co/86WppUfoEL"
+            },
+            {
+              "display_url": "pic.x.com/86WppUfoEL",
+              "end": 34,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2011126496132546828/photo/1",
+              "media_key": "3_2011126493284614149",
+              "start": 11,
+              "url": "https://t.co/86WppUfoEL"
+            },
+            {
+              "display_url": "pic.x.com/86WppUfoEL",
+              "end": 34,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2011126496132546828/photo/1",
+              "media_key": "3_2011126493611757568",
+              "start": 11,
+              "url": "https://t.co/86WppUfoEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011126496132546828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那就让我一直抽下去吧 https://t.co/86WppUfoEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 23,
+          "like_count": 2268,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 214
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

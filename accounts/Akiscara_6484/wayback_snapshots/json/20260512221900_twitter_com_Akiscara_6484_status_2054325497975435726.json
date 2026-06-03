@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2054178060510155111",
+    "created_at": "2026-05-12T22:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054325497975435726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963285303168569345",
+          "start": 0,
+          "username": "absooolutemet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054325497975435726",
+    "in_reply_to_user_id": "1963285303168569345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054178060510155111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@absooolutemet 天呐....."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054178047251931136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHoDOvbYAAnPzA.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054178047021244416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHoDN4bYAAzQGc.jpg",
+        "width": 943
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2054178047251841024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHoDOvaAAA5ILb.jpg",
+        "width": 1254
+      },
+      {
+        "height": 349,
+        "media_key": "3_2054178047268659200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHoDOzaoAAh1iX.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2054178060510155111",
+        "created_at": "2026-05-12T22:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054325497975435726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963285303168569345",
+              "start": 0,
+              "username": "absooolutemet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054325497975435726",
+        "in_reply_to_user_id": "1963285303168569345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054178060510155111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@absooolutemet 天呐....."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054178047251931136",
+            "3_2054178047021244416",
+            "3_2054178047251841024",
+            "3_2054178047268659200"
+          ]
+        },
+        "author_id": "1963285303168569345",
+        "conversation_id": "2054178060510155111",
+        "created_at": "2026-05-12T12:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054178060510155111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccQfEMeAzS",
+              "end": 94,
+              "expanded_url": "https://x.com/absooolutemet/status/2054178060510155111/photo/1",
+              "media_key": "3_2054178047251931136",
+              "start": 71,
+              "url": "https://t.co/ccQfEMeAzS"
+            },
+            {
+              "display_url": "pic.x.com/ccQfEMeAzS",
+              "end": 94,
+              "expanded_url": "https://x.com/absooolutemet/status/2054178060510155111/photo/1",
+              "media_key": "3_2054178047021244416",
+              "start": 71,
+              "url": "https://t.co/ccQfEMeAzS"
+            },
+            {
+              "display_url": "pic.x.com/ccQfEMeAzS",
+              "end": 94,
+              "expanded_url": "https://x.com/absooolutemet/status/2054178060510155111/photo/1",
+              "media_key": "3_2054178047251841024",
+              "start": 71,
+              "url": "https://t.co/ccQfEMeAzS"
+            },
+            {
+              "display_url": "pic.x.com/ccQfEMeAzS",
+              "end": 94,
+              "expanded_url": "https://x.com/absooolutemet/status/2054178060510155111/photo/1",
+              "media_key": "3_2054178047268659200",
+              "start": 71,
+              "url": "https://t.co/ccQfEMeAzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054178060510155111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪来的小丑傻逼一直追着我狗咬🤣搁我一些推底下急骂得...蜘蛛皇汉能不能冷静点，生活太不如意了吗？就几句话就能骂得那么急，我甚至懒得理你🤡🤡🤡 https://t.co/ccQfEMeAzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 144,
+          "like_count": 6925,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3110
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T16:57:58.000Z",
+        "description": "Bisexual/偏双向/半i人/精神状态中等/偏理性/乐于想象/喜自我享受、表达观点、随意式生活。讨厌某些现状和人。想要多些自由、逃避些什么、精神上的安慰。随便记录发帖，尽量欢迎你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net",
+                "end": 23,
+                "expanded_url": "http://pixiv.net",
+                "start": 0,
+                "url": "https://t.co/K5qFmksIrm"
+              }
+            ]
+          }
+        },
+        "id": "1963285303168569345",
+        "location": "lost",
+        "name": "absooolutel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044542997040427008/P56siNBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 383,
+          "like_count": 3328,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/K5qFmksIrm",
+        "username": "absooolutemet",
+        "verified": false
+      }
+    ]
+  }
+}

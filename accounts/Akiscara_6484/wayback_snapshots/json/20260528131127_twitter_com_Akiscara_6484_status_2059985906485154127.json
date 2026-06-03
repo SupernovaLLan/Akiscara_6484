@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059985899803529216"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059985906485154127",
+    "created_at": "2026-05-28T13:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059985906485154127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931607185982963712",
+          "start": 0,
+          "username": "Riyomuzan_12529"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zKIH5ZYDzg",
+          "end": 99,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2059985906485154127/photo/1",
+          "media_key": "3_2059985899803529216",
+          "start": 76,
+          "url": "https://t.co/zKIH5ZYDzg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059985906485154127",
+    "in_reply_to_user_id": "1931607185982963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Riyomuzan_12529 我姐说染个紫头发，然后他担心衣服被弄脏拿个塑料袋，我以为他是围起来，结果是套脑袋上了。最后我担心弄脏我还给他包起来了 https://t.co/zKIH5ZYDzg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059985906485154127].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059985906485154127",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059985906485154127"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059985899803529216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaKQvgaUAAkFfC.jpg",
+        "width": 768
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 165,
+          "like_count": 7040,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3950
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T07:00:29.000Z",
+        "description": "=霜夜｜18↑ 非二元性别｜@Akiscara_3405转生。在登上大号之前先在这里玩!!｜🚪66（暂时降低）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1931607185982963712",
+        "name": "霜皇帝2.0៹﹆.",
+        "pinned_tweet_id": "2059688424765014419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059687607135866880/4hCqRCMs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 44
+        },
+        "username": "Riyomuzan_12529",
+        "verified": false
+      }
+    ]
+  }
+}

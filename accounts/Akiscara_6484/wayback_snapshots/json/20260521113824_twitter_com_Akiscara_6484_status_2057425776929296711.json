@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057425768129708032"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057425776929296711",
+    "created_at": "2026-05-21T11:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057425776929296711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/owH3vEpFJK",
+          "end": 142,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2057425776929296711/photo/1",
+          "media_key": "3_2057425768129708032",
+          "start": 119,
+          "url": "https://t.co/owH3vEpFJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057425776929296711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷到一个帖子，我觉得可能是同类相吸吧？应该是这么说的，我记不清了。我自己是学乐器的，我就更喜欢会音乐的人。还有就是做饭，谁不想吃好吃的饭菜呢？啊哈哈哈我身边男生都不会做饭。都是妈妈和我做饭，没见过什么男生会做饭。要是看见我感觉挺稀奇吧。 https://t.co/owH3vEpFJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057425768129708032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1x1d0bQAAgJy-.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057425768129708032"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057425776929296711",
+        "created_at": "2026-05-21T11:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057425776929296711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/owH3vEpFJK",
+              "end": 142,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2057425776929296711/photo/1",
+              "media_key": "3_2057425768129708032",
+              "start": 119,
+              "url": "https://t.co/owH3vEpFJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057425776929296711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一个帖子，我觉得可能是同类相吸吧？应该是这么说的，我记不清了。我自己是学乐器的，我就更喜欢会音乐的人。还有就是做饭，谁不想吃好吃的饭菜呢？啊哈哈哈我身边男生都不会做饭。都是妈妈和我做饭，没见过什么男生会做饭。要是看见我感觉挺稀奇吧。 https://t.co/owH3vEpFJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 150,
+          "like_count": 6894,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3365
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

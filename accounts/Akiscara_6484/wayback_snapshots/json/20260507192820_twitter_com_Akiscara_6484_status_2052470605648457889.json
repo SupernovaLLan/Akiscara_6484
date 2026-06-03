@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2047550619842711820",
+    "created_at": "2026-05-07T19:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T20:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052470605648457889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1571083414358609922",
+          "start": 0,
+          "username": "pb_rdd"
+        },
+        {
+          "end": 21,
+          "id": "1986475217422839808",
+          "start": 8,
+          "username": "Caocaonm13nb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052470605648457889",
+    "in_reply_to_user_id": "1571083414358609922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047672599514399021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pb_rdd @Caocaonm13nb 那很爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2047550619842711820",
+        "created_at": "2026-05-07T19:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052470605648457889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1571083414358609922",
+              "start": 0,
+              "username": "pb_rdd"
+            },
+            {
+              "end": 21,
+              "id": "1986475217422839808",
+              "start": 8,
+              "username": "Caocaonm13nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052470605648457889",
+        "in_reply_to_user_id": "1571083414358609922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047672599514399021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pb_rdd @Caocaonm13nb 那很爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571083414358609922",
+        "conversation_id": "2047550619842711820",
+        "created_at": "2026-04-24T13:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047672599514399021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986475217422839808",
+              "start": 0,
+              "username": "Caocaonm13nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047672599514399021",
+        "in_reply_to_user_id": "1986475217422839808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047550619842711820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caocaonm13nb 一边蹭桌角一边走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 131,
+          "like_count": 6848,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 2590
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:27:41.000Z",
+        "description": "♂ loser \n悲观派系\\血腥猎奇\\悲悼伶人\n也许该好好营业一下？",
+        "id": "1571083414358609922",
+        "name": "鲨臂",
+        "pinned_tweet_id": "1599639393983115266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580436056486203392/7ELnkkVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 104,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 116
+        },
+        "username": "pb_rdd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T16:49:15.000Z",
+        "description": "🚪20纯绿 私信有的会被过滤 聊天请过门置顶赞赏码",
+        "id": "1986475217422839808",
+        "name": "u",
+        "pinned_tweet_id": "2041064576511619253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031406249066246149/Lsm27JI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 2,
+          "like_count": 298,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 340
+        },
+        "username": "Caocaonm13nb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053527752247255401",
+    "created_at": "2026-05-10T19:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053551698929664204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1999090419737780224",
+          "start": 0,
+          "username": "jinvyyds1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053551698929664204",
+    "in_reply_to_user_id": "1999090419737780224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053551312638444000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinvyyds1 谢谢你啊，但是我好像并不能完全做到这样。有些东西成为心里过不去的坎的话，我就会反复念叨。希望多些时间，慢慢淡掉吧。但我更多是讨厌这些人吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-10T19:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053551698929664204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999090419737780224",
+              "start": 0,
+              "username": "jinvyyds1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053551698929664204",
+        "in_reply_to_user_id": "1999090419737780224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053551312638444000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinvyyds1 谢谢你啊，但是我好像并不能完全做到这样。有些东西成为心里过不去的坎的话，我就会反复念叨。希望多些时间，慢慢淡掉吧。但我更多是讨厌这些人吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999090419737780224",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-10T19:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053551312638444000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053551312638444000",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053547069470802244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 所以还是向前看吧，人生就是无数麻烦无数问题堆积出来的，人一生有两项顺遂的就不错了，没必要纠结过去，太内耗对自己不好，我那个和我一样遭遇的朋友现在就很没心没肺，一点都不内耗活的每天都很开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 135,
+          "like_count": 6902,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 2911
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T12:14:43.000Z",
+        "description": "",
+        "id": "1999090419737780224",
+        "name": "心本逍遥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999090647622455296/FtHYkRa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 379,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "jinvyyds1",
+        "verified": false
+      }
+    ]
+  }
+}

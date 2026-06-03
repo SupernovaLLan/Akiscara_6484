@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957704032258256896"
+      ],
+      "media_source_tweet_id": [
+        "1957704429073023378"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "1963608007327322375",
+    "created_at": "2025-09-04T14:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963608007327322375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291827298392449024",
+          "start": 3,
+          "username": "rik0ring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AeikcHirnE",
+          "end": 45,
+          "expanded_url": "https://x.com/rik0ring/status/1957704429073023378/photo/1",
+          "media_key": "3_1957704032258256896",
+          "start": 22,
+          "url": "https://t.co/AeikcHirnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963608007327322375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1179
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957704429073023378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rik0ring: 八重歯好き？🥺 https://t.co/AeikcHirnE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963608007327322375].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963608007327322375",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963608007327322375"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1957704032258256896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyspceoacAAlQgA.jpg",
+        "width": 2742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957704032258256896"
+          ]
+        },
+        "author_id": "1291827298392449024",
+        "conversation_id": "1957704429073023378",
+        "created_at": "2025-08-19T07:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957704429073023378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AeikcHirnE",
+              "end": 31,
+              "expanded_url": "https://x.com/rik0ring/status/1957704429073023378/photo/1",
+              "media_key": "3_1957704032258256896",
+              "start": 8,
+              "url": "https://t.co/AeikcHirnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957704429073023378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1799,
+          "impression_count": 187055,
+          "like_count": 10800,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 1179
+        },
+        "reply_settings": "everyone",
+        "text": "八重歯好き？🥺 https://t.co/AeikcHirnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 4,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T20:03:45.000Z",
+        "description": "📨CONTACT: rikoring16@gmail.com fanbox: https://t.co/YUTk0uYMgw ENG/中/日本語 OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rik0ring.fanbox.cc",
+                "end": 62,
+                "expanded_url": "https://rik0ring.fanbox.cc/",
+                "start": 39,
+                "url": "https://t.co/YUTk0uYMgw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40317874",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/40317874",
+                "start": 0,
+                "url": "https://t.co/rmoYfw6qK5"
+              }
+            ]
+          }
+        },
+        "id": "1291827298392449024",
+        "name": "Riko",
+        "pinned_tweet_id": "1957704429073023378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894337707398017024/DBM5g_Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237467,
+          "following_count": 995,
+          "like_count": 14614,
+          "listed_count": 1580,
+          "media_count": 213,
+          "tweet_count": 7802
+        },
+        "url": "https://t.co/rmoYfw6qK5",
+        "username": "rik0ring",
+        "verified": true
+      }
+    ]
+  }
+}

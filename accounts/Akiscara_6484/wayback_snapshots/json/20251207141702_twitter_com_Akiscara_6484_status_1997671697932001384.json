@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997671694031593472",
+        "3_1997671694086082560",
+        "3_1997671693616287744",
+        "3_1997671693540859904"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1997671697932001384",
+    "created_at": "2025-12-07T14:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997671697932001384"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "cosplay"
+        },
+        {
+          "end": 17,
+          "start": 9,
+          "tag": "六花ギャラリー"
+        },
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "cos致歉一切"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qYoTTCV4t5",
+          "end": 57,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+          "media_key": "3_1997671694031593472",
+          "start": 34,
+          "url": "https://t.co/qYoTTCV4t5"
+        },
+        {
+          "display_url": "pic.x.com/qYoTTCV4t5",
+          "end": 57,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+          "media_key": "3_1997671694086082560",
+          "start": 34,
+          "url": "https://t.co/qYoTTCV4t5"
+        },
+        {
+          "display_url": "pic.x.com/qYoTTCV4t5",
+          "end": 57,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+          "media_key": "3_1997671693616287744",
+          "start": 34,
+          "url": "https://t.co/qYoTTCV4t5"
+        },
+        {
+          "display_url": "pic.x.com/qYoTTCV4t5",
+          "end": 57,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+          "media_key": "3_1997671693540859904",
+          "start": 34,
+          "url": "https://t.co/qYoTTCV4t5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997671697932001384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#cosplay #六花ギャラリー #cos致歉一切\n好好吃饭了😎 https://t.co/qYoTTCV4t5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997671694031593472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kn0lSbIAAbI-4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1997671694086082560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kn0lfakAA_Bgo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997671693616287744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kn0jvaEAAK0YB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997671693540859904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kn0jdbIAAJvWl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997671694031593472",
+            "3_1997671694086082560",
+            "3_1997671693616287744",
+            "3_1997671693540859904"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1997671697932001384",
+        "created_at": "2025-12-07T14:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997671697932001384"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "cosplay"
+            },
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "六花ギャラリー"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "cos致歉一切"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYoTTCV4t5",
+              "end": 57,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+              "media_key": "3_1997671694031593472",
+              "start": 34,
+              "url": "https://t.co/qYoTTCV4t5"
+            },
+            {
+              "display_url": "pic.x.com/qYoTTCV4t5",
+              "end": 57,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+              "media_key": "3_1997671694086082560",
+              "start": 34,
+              "url": "https://t.co/qYoTTCV4t5"
+            },
+            {
+              "display_url": "pic.x.com/qYoTTCV4t5",
+              "end": 57,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+              "media_key": "3_1997671693616287744",
+              "start": 34,
+              "url": "https://t.co/qYoTTCV4t5"
+            },
+            {
+              "display_url": "pic.x.com/qYoTTCV4t5",
+              "end": 57,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1997671697932001384/photo/1",
+              "media_key": "3_1997671693540859904",
+              "start": 34,
+              "url": "https://t.co/qYoTTCV4t5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997671697932001384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#cosplay #六花ギャラリー #cos致歉一切\n好好吃饭了😎 https://t.co/qYoTTCV4t5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 21,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 115
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

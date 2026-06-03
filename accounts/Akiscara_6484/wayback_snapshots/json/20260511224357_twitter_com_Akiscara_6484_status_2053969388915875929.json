@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053673232457433317",
+    "created_at": "2026-05-11T22:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053969388915875929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "155062499",
+          "start": 0,
+          "username": "1nyhr"
+        },
+        {
+          "end": 17,
+          "id": "1868117602356359168",
+          "start": 7,
+          "username": "maimaiRC_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053969388915875929",
+    "in_reply_to_user_id": "155062499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053773480517362117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nyhr @maimaiRC_ 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053673232457433317",
+        "created_at": "2026-05-11T22:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053969388915875929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "155062499",
+              "start": 0,
+              "username": "1nyhr"
+            },
+            {
+              "end": 17,
+              "id": "1868117602356359168",
+              "start": 7,
+              "username": "maimaiRC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053969388915875929",
+        "in_reply_to_user_id": "155062499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053773480517362117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nyhr @maimaiRC_ 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "155062499",
+        "conversation_id": "2053673232457433317",
+        "created_at": "2026-05-11T09:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053773480517362117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1907294384544190464",
+              "start": 0,
+              "username": "Keo2643"
+            },
+            {
+              "end": 19,
+              "id": "1868117602356359168",
+              "start": 9,
+              "username": "maimaiRC_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053773480517362117",
+        "in_reply_to_user_id": "1907294384544190464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2825,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053752974661603678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keo2643 @maimaiRC_ 正反面都能插"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 141,
+          "like_count": 6916,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3006
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-13T01:19:44.000Z",
+        "description": "世界新生伊始，许多事物还没有名字",
+        "id": "155062499",
+        "location": "阿蒙森-斯科特",
+        "name": "@_@",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/627808128352915456/Q8Phk-bt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 2331,
+          "like_count": 3339,
+          "listed_count": 8,
+          "media_count": 197,
+          "tweet_count": 1814
+        },
+        "username": "1nyhr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:15:26.000Z",
+        "description": "交友投稿| 情感分析|大赛举办｜分享宝宝们的日常｜偶尔抽奖|接正规有偿转发｜所有投稿均已认证｜可接认证｜推广自辨｜私信容易被吞 若未回复滴我✈️ https://t.co/6DZKgy1VqO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/shaobei_XZ",
+                "end": 96,
+                "expanded_url": "https://t.me/shaobei_XZ",
+                "start": 73,
+                "url": "https://t.co/6DZKgy1VqO"
+              }
+            ]
+          }
+        },
+        "id": "1868117602356359168",
+        "location": "爱这里💙",
+        "name": "烧杯学长",
+        "pinned_tweet_id": "2027673517630824782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003105127641808896/f4vQS7RF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176199,
+          "following_count": 260,
+          "like_count": 945,
+          "listed_count": 228,
+          "media_count": 1861,
+          "tweet_count": 2706
+        },
+        "username": "maimaiRC_",
+        "verified": true
+      }
+    ]
+  }
+}

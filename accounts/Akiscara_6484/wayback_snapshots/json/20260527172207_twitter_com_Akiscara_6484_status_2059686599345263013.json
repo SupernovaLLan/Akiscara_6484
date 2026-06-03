@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059285925168140776",
+    "created_at": "2026-05-27T17:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059686599345263013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1785663104506077184",
+          "start": 0,
+          "username": "dngdngd28391907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059686599345263013",
+    "in_reply_to_user_id": "1785663104506077184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059285925168140776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngdngd28391907 我每次做又疼又痒的。医生在那弄我在那笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059285906859950080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQNnylbAAAnMMv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059285925168140776",
+        "created_at": "2026-05-27T17:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059686599345263013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1785663104506077184",
+              "start": 0,
+              "username": "dngdngd28391907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059686599345263013",
+        "in_reply_to_user_id": "1785663104506077184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059285925168140776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngdngd28391907 我每次做又疼又痒的。医生在那弄我在那笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059285906859950080"
+          ]
+        },
+        "author_id": "1785663104506077184",
+        "conversation_id": "2059285925168140776",
+        "created_at": "2026-05-26T14:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059285925168140776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2FChMlIz3",
+              "end": 34,
+              "expanded_url": "https://x.com/dngdngd28391907/status/2059285925168140776/photo/1",
+              "media_key": "3_2059285906859950080",
+              "start": 11,
+              "url": "https://t.co/y2FChMlIz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059285925168140776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 48583,
+          "like_count": 632,
+          "quote_count": 0,
+          "reply_count": 150,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "心电图有点伤我太深了 https://t.co/y2FChMlIz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等内）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 161,
+          "like_count": 6978,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 3856
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T13:30:52.000Z",
+        "description": "",
+        "id": "1785663104506077184",
+        "name": "叮叮当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886825152668950533/2g6xBZT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 52,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "username": "dngdngd28391907",
+        "verified": false
+      }
+    ]
+  }
+}

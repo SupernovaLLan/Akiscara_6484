@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057542850439717227",
+    "created_at": "2026-05-21T19:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T20:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057542850439717227"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057542850439717227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天做梦梦见对象因为肚子疼检查发现是胃癌晚期。醒来吓死我了。然后他说他没什么事。倒是我最近一直肚子疼，虽然知道自己有肠胃炎以前。但是突然想到爷爷癌症晚期走的，我妈现在也是癌症晚期。刚刚开始就是小毛病不舒服不爱去医院看。和霜去医院问我看不看我都拒绝。我后背有点凉飕飕啊还有就是痛死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057542850439717227",
+        "created_at": "2026-05-21T19:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057542850439717227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057542850439717227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天做梦梦见对象因为肚子疼检查发现是胃癌晚期。醒来吓死我了。然后他说他没什么事。倒是我最近一直肚子疼，虽然知道自己有肠胃炎以前。但是突然想到爷爷癌症晚期走的，我妈现在也是癌症晚期。刚刚开始就是小毛病不舒服不爱去医院看。和霜去医院问我看不看我都拒绝。我后背有点凉飕飕啊还有就是痛死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友，家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 155,
+          "like_count": 6909,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 3405
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

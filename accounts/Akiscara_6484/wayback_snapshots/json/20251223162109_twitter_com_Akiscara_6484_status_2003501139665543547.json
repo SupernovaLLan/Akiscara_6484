@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003501133919322113",
+        "3_2003501134112260097",
+        "3_2003501136406528000",
+        "3_2003501137106993153"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2003501139665543547",
+    "created_at": "2025-12-23T16:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T17:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003501139665543547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MuaPDX3XaD",
+          "end": 28,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2003501139665543547/photo/1",
+          "media_key": "3_2003501133919322113",
+          "start": 5,
+          "url": "https://t.co/MuaPDX3XaD"
+        },
+        {
+          "display_url": "pic.x.com/MuaPDX3XaD",
+          "end": 28,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2003501139665543547/photo/1",
+          "media_key": "3_2003501134112260097",
+          "start": 5,
+          "url": "https://t.co/MuaPDX3XaD"
+        },
+        {
+          "display_url": "pic.x.com/MuaPDX3XaD",
+          "end": 28,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2003501139665543547/photo/1",
+          "media_key": "3_2003501136406528000",
+          "start": 5,
+          "url": "https://t.co/MuaPDX3XaD"
+        },
+        {
+          "display_url": "pic.x.com/MuaPDX3XaD",
+          "end": 28,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2003501139665543547/photo/1",
+          "media_key": "3_2003501137106993153",
+          "start": 5,
+          "url": "https://t.co/MuaPDX3XaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003501139665543547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦耶哦耶 https://t.co/MuaPDX3XaD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003501139665543547].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003501139665543547",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003501139665543547"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003501133919322113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83dqpJagAEgtw6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2003501134112260097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83dqp3agAE73dg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003501136406528000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83dqyaaQAAt-L5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003501137106993153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83dq1BagAEuN4W.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q。\n🉑聊天，喜欢萌妹子，友好🤝交流。偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 25,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 171
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

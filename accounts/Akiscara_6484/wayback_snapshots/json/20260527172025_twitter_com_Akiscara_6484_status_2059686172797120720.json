@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053790052044689736",
+    "created_at": "2026-05-27T17:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059686172797120720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908630026012004353",
+          "start": 0,
+          "username": "Oscxiar_0716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059686172797120720",
+    "in_reply_to_user_id": "1908630026012004353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053790052044689736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscxiar_0716 我也爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053790052044689736",
+        "created_at": "2026-05-27T17:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059686172797120720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059686172797120720",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053790052044689736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 我也爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908630026012004353",
+        "conversation_id": "2053790052044689736",
+        "created_at": "2026-05-11T10:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053790052044689736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053790052044689736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我死一段时间 等我能用自己身份证买u再回来\n互关们我爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等内）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 161,
+          "like_count": 6977,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 3854
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oscxiaremax",
+                "end": 23,
+                "expanded_url": "https://t.me/Oscxiaremax",
+                "start": 0,
+                "url": "https://t.co/ArtAUcmE5i"
+              }
+            ]
+          }
+        },
+        "id": "1908630026012004353",
+        "location": "法兰西第五共和国",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 399,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/ArtAUcmE5i",
+        "username": "Oscxiar_0716",
+        "verified": false
+      }
+    ]
+  }
+}

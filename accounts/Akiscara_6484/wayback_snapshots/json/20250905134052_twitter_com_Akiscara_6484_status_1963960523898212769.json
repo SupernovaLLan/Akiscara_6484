@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1963663975159050240"
+      ],
+      "media_source_tweet_id": [
+        "1963664036534661491"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "1963960523898212769",
+    "created_at": "2025-09-05T13:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T14:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963960523898212769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902492629557805056",
+          "start": 3,
+          "username": "couplxlove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulZNJlBpiK",
+          "end": 39,
+          "expanded_url": "https://x.com/couplxlove/status/1963664036534661491/video/1",
+          "media_key": "13_1963663975159050240",
+          "start": 16,
+          "url": "https://t.co/ulZNJlBpiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963960523898212769",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963664036534661491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @couplxlove: https://t.co/ulZNJlBpiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8808,
+        "height": 768,
+        "media_key": "13_1963663975159050240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963663975159050240/img/hEI_eg93GZaUCDqD.jpg",
+        "public_metrics": {
+          "view_count": 9415
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/vid/avc1/320x426/GOY9OpsJzPEqerhk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/vid/avc1/480x640/jZg0T7XLBFIely8h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/vid/avc1/576x768/l-C3aZU51ScUFdOB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963663975159050240/pl/v-kwY-3lC92OE2_O.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963663975159050240"
+          ],
+          "media_source_tweet_id": [
+            "1963664036534661491"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "1963960523898212769",
+        "created_at": "2025-09-05T13:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963960523898212769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902492629557805056",
+              "start": 3,
+              "username": "couplxlove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulZNJlBpiK",
+              "end": 39,
+              "expanded_url": "https://x.com/couplxlove/status/1963664036534661491/video/1",
+              "media_key": "13_1963663975159050240",
+              "start": 16,
+              "url": "https://t.co/ulZNJlBpiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963960523898212769",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963664036534661491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @couplxlove: https://t.co/ulZNJlBpiK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963663975159050240"
+          ]
+        },
+        "author_id": "1902492629557805056",
+        "conversation_id": "1963664036534661491",
+        "created_at": "2025-09-04T18:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T19:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963664036534661491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulZNJlBpiK",
+              "end": 23,
+              "expanded_url": "https://x.com/couplxlove/status/1963664036534661491/video/1",
+              "media_key": "13_1963663975159050240",
+              "start": 0,
+              "url": "https://t.co/ulZNJlBpiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963664036534661491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 28430,
+          "like_count": 1036,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ulZNJlBpiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 6,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T22:49:47.000Z",
+        "description": "Just About Love ✨🤍",
+        "id": "1902492629557805056",
+        "location": "Schaumburg, IL",
+        "name": "Love Daily",
+        "pinned_tweet_id": "1948495861018697805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941261670162092032/kHO3D6hC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15775,
+          "following_count": 361,
+          "like_count": 1276,
+          "listed_count": 25,
+          "media_count": 327,
+          "tweet_count": 339
+        },
+        "username": "couplxlove",
+        "verified": true
+      }
+    ]
+  }
+}

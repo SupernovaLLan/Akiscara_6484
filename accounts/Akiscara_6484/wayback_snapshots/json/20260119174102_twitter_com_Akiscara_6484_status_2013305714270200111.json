@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013305710692503552",
+        "3_2013305710222655488",
+        "3_2013305710398865408"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2013305714270200111",
+    "created_at": "2026-01-19T17:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T18:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013305714270200111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gdgTHo2gMg",
+          "end": 32,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2013305714270200111/photo/1",
+          "media_key": "3_2013305710692503552",
+          "start": 9,
+          "url": "https://t.co/gdgTHo2gMg"
+        },
+        {
+          "display_url": "pic.x.com/gdgTHo2gMg",
+          "end": 32,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2013305714270200111/photo/1",
+          "media_key": "3_2013305710222655488",
+          "start": 9,
+          "url": "https://t.co/gdgTHo2gMg"
+        },
+        {
+          "display_url": "pic.x.com/gdgTHo2gMg",
+          "end": 32,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2013305714270200111/photo/1",
+          "media_key": "3_2013305710398865408",
+          "start": 9,
+          "url": "https://t.co/gdgTHo2gMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013305714270200111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃完前vs吃完后 https://t.co/gdgTHo2gMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013305710692503552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Cy4H4XkAA0xL4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013305710222655488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Cy4GIWQAAN6Fp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013305710398865408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Cy4GyXAAAloC8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013305710692503552",
+            "3_2013305710222655488",
+            "3_2013305710398865408"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2013305714270200111",
+        "created_at": "2026-01-19T17:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013305714270200111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdgTHo2gMg",
+              "end": 32,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2013305714270200111/photo/1",
+              "media_key": "3_2013305710692503552",
+              "start": 9,
+              "url": "https://t.co/gdgTHo2gMg"
+            },
+            {
+              "display_url": "pic.x.com/gdgTHo2gMg",
+              "end": 32,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2013305714270200111/photo/1",
+              "media_key": "3_2013305710222655488",
+              "start": 9,
+              "url": "https://t.co/gdgTHo2gMg"
+            },
+            {
+              "display_url": "pic.x.com/gdgTHo2gMg",
+              "end": 32,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2013305714270200111/photo/1",
+              "media_key": "3_2013305710398865408",
+              "start": 9,
+              "url": "https://t.co/gdgTHo2gMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013305714270200111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完前vs吃完后 https://t.co/gdgTHo2gMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 23,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 244
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

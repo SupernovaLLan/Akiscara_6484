@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2051950132351172699",
+    "created_at": "2026-05-07T10:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052328152316498372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "94207578",
+          "start": 0,
+          "username": "quise87"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052328152316498372",
+    "in_reply_to_user_id": "94207578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052284802699866113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quise87 胖胖的也很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2051950132351172699",
+        "created_at": "2026-05-07T10:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052328152316498372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "94207578",
+              "start": 0,
+              "username": "quise87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052328152316498372",
+        "in_reply_to_user_id": "94207578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052284802699866113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quise87 胖胖的也很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94207578",
+        "conversation_id": "2051950132351172699",
+        "created_at": "2026-05-07T07:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052284802699866113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052284802699866113",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051950132351172699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 管它是不是就乐意胖胖的😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 125,
+          "like_count": 6793,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 2483
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-02T23:51:39.000Z",
+        "description": "",
+        "id": "94207578",
+        "location": "Brunswick",
+        "name": "曾经的王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959414101194805248/xCz8jM7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 26,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 940
+        },
+        "username": "quise87",
+        "verified": false
+      }
+    ]
+  }
+}

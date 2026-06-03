@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053146831488794700",
+    "created_at": "2026-05-12T13:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054188649491919115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114936322890719232",
+          "start": 0,
+          "username": "Cangshengxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054188649491919115",
+    "in_reply_to_user_id": "1114936322890719232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053150507049640083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cangshengxue 纳尼？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053146831488794700",
+        "created_at": "2026-05-12T13:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054188649491919115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114936322890719232",
+              "start": 0,
+              "username": "Cangshengxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054188649491919115",
+        "in_reply_to_user_id": "1114936322890719232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053150507049640083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cangshengxue 纳尼？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114936322890719232",
+        "conversation_id": "2053146831488794700",
+        "created_at": "2026-05-09T16:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053150507049640083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053150507049640083",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053146831488794700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 臭虫、虫子……之类的（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 143,
+          "like_count": 6921,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3075
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T17:01:48.000Z",
+        "description": "性别：男 /   ……偶尔会想起自己上推是为了看色图的。   /   或许是个很温柔的人  /   我会在这里喷射黑色泥浆   /   INFP-T   /   九型人格：2w1   /   泪失禁体质（日均哭三次）   /   音游苦手（菜但爱玩）  /    养猫的   /  认真打舞萌真的会分配地雷系女友吗？",
+        "id": "1114936322890719232",
+        "name": "037",
+        "pinned_tweet_id": "2053154289087131672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053148859459842048/_1MKjyF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 555,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 325
+        },
+        "username": "Cangshengxue",
+        "verified": false
+      }
+    ]
+  }
+}

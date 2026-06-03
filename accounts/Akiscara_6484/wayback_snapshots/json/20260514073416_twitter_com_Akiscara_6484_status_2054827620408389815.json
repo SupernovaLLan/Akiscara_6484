@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2054530044257804475",
+    "created_at": "2026-05-14T07:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054827620408389815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "725696728788250626",
+          "start": 0,
+          "username": "haoyu0522"
+        },
+        {
+          "end": 24,
+          "id": "1862825645824507904",
+          "start": 11,
+          "username": "ThanksuTrump"
+        },
+        {
+          "end": 32,
+          "id": "1654332441010774019",
+          "start": 25,
+          "username": "btcbqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054827620408389815",
+    "in_reply_to_user_id": "725696728788250626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054563067648733508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haoyu0522 @ThanksuTrump @btcbqr 先生，你后脑勺是不是还有一条辫子没剪啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2054530044257804475",
+        "created_at": "2026-05-14T07:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054827620408389815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "725696728788250626",
+              "start": 0,
+              "username": "haoyu0522"
+            },
+            {
+              "end": 24,
+              "id": "1862825645824507904",
+              "start": 11,
+              "username": "ThanksuTrump"
+            },
+            {
+              "end": 32,
+              "id": "1654332441010774019",
+              "start": 25,
+              "username": "btcbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054827620408389815",
+        "in_reply_to_user_id": "725696728788250626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054563067648733508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haoyu0522 @ThanksuTrump @btcbqr 先生，你后脑勺是不是还有一条辫子没剪啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "725696728788250626",
+        "conversation_id": "2054530044257804475",
+        "created_at": "2026-05-13T14:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054563067648733508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862825645824507904",
+              "start": 0,
+              "username": "ThanksuTrump"
+            },
+            {
+              "end": 21,
+              "id": "1654332441010774019",
+              "start": 14,
+              "username": "btcbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054563067648733508",
+        "in_reply_to_user_id": "1862825645824507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15695,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054546383684927796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThanksuTrump @btcbqr 你少在这里假科普了，初夜落红才是常态，没有的才有问题，需要看医生，区别是在于到底谁去罢了。完璧之身非但不是封建糟粕，反而还是检验新妇妇德的一种有效方式，侧面可以证明新妇的管家能力。现在的女性大多数都不符合管家婆能力的原因虽然很多，但是这个就真的是重要原因了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 152,
+          "like_count": 6916,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 3356
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-28T14:42:37.000Z",
+        "description": "",
+        "id": "725696728788250626",
+        "name": "haoyu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 74,
+          "like_count": 7608,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1682
+        },
+        "username": "haoyu0522",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T11:47:10.000Z",
+        "description": "蓝v互关Blue V Follow Back 💯｜ 爱好寻找Alpha｜目标一万蓝v互关｜超级个体 Ai X Crypto X 美股 X Vibe Coding｜#狗狗币 10x建设者｜$STONKS 已质押｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "狗狗币"
+              }
+            ]
+          }
+        },
+        "id": "1862825645824507904",
+        "location": "狗窝",
+        "name": "猫投鹰 蓝v互关(鹰哥 ⭐️社区长期主义战士) |中文狗狗币牛逼🐕🔶BNB",
+        "pinned_tweet_id": "2017818250512572562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863202481695571968/3Wtfkv14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15887,
+          "following_count": 14731,
+          "like_count": 66552,
+          "listed_count": 14,
+          "media_count": 601,
+          "tweet_count": 12346
+        },
+        "username": "ThanksuTrump",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T03:49:35.000Z",
+        "description": "全职炒币9年，20年牛市2万本金打到A7，没有套路，主打免费课程免费进群，每天分享交易知识带你穿越牛熊！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/btcbqr",
+                "end": 23,
+                "expanded_url": "https://t.me/btcbqr",
+                "start": 0,
+                "url": "https://t.co/XKZOD4pFaA"
+              }
+            ]
+          }
+        },
+        "id": "1654332441010774019",
+        "location": "唯一TG：btcbqr👉",
+        "name": "Bitcoin.不求人",
+        "pinned_tweet_id": "2042836852311494799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755778120819564544/VN-W-jMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72193,
+          "following_count": 995,
+          "like_count": 29445,
+          "listed_count": 319,
+          "media_count": 1436,
+          "tweet_count": 17225
+        },
+        "url": "https://t.co/XKZOD4pFaA",
+        "username": "btcbqr",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2057787247668482048",
+    "created_at": "2026-05-22T17:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057881086567547296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2052129056817381376",
+          "start": 0,
+          "username": "mienaseki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057881086567547296",
+    "in_reply_to_user_id": "2052129056817381376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057787247668482048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mienaseki 看起来很好吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057787243109195777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI66mFDaoAE2QdH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057787243088232449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI66mE-awAETE3b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057787243109154816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI66mFDaAAAcVB0.jpg",
+        "width": 1702
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057787243104980992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI66mFCaUAAryfw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057787247668482048",
+        "created_at": "2026-05-22T17:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057881086567547296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2052129056817381376",
+              "start": 0,
+              "username": "mienaseki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057881086567547296",
+        "in_reply_to_user_id": "2052129056817381376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057787247668482048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mienaseki 看起来很好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057787243109195777",
+            "3_2057787243088232449",
+            "3_2057787243109154816",
+            "3_2057787243104980992"
+          ]
+        },
+        "author_id": "2052129056817381376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057787247668482048",
+        "created_at": "2026-05-22T11:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057787247668482048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhd6uU2Cdi",
+              "end": 56,
+              "expanded_url": "https://x.com/mienaseki/status/2057787247668482048/photo/1",
+              "media_key": "3_2057787243109195777",
+              "start": 33,
+              "url": "https://t.co/uhd6uU2Cdi"
+            },
+            {
+              "display_url": "pic.x.com/uhd6uU2Cdi",
+              "end": 56,
+              "expanded_url": "https://x.com/mienaseki/status/2057787247668482048/photo/1",
+              "media_key": "3_2057787243088232449",
+              "start": 33,
+              "url": "https://t.co/uhd6uU2Cdi"
+            },
+            {
+              "display_url": "pic.x.com/uhd6uU2Cdi",
+              "end": 56,
+              "expanded_url": "https://x.com/mienaseki/status/2057787247668482048/photo/1",
+              "media_key": "3_2057787243109154816",
+              "start": 33,
+              "url": "https://t.co/uhd6uU2Cdi"
+            },
+            {
+              "display_url": "pic.x.com/uhd6uU2Cdi",
+              "end": 56,
+              "expanded_url": "https://x.com/mienaseki/status/2057787247668482048/photo/1",
+              "media_key": "3_2057787243104980992",
+              "start": 33,
+              "url": "https://t.co/uhd6uU2Cdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057787247668482048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 119,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样来朋友家里挂壁连吃带拿好爽꒰՞｀o̴̶̷ ⩊o̴̶̷´՞꒱ https://t.co/uhd6uU2Cdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友，家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）请勿开h腔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 154,
+          "like_count": 6907,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 3426
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T20:52:17.000Z",
+        "description": "ドロドロ、碎片化的情绪记录 、游离的精神的垃圾桶 ///单纯需要一个说话的地方///不要打扰我",
+        "id": "2052129056817381376",
+        "location": "魔女之村第118号人偶当铺🧙忘れないで",
+        "name": "陰キャのココロ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052131671802253312/k43x4rzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 11,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 118
+        },
+        "username": "mienaseki",
+        "verified": false
+      }
+    ]
+  }
+}

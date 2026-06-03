@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2025065864622674377",
+    "created_at": "2026-02-21T05:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025086710829490445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1273493669954248707",
+          "start": 0,
+          "username": "Xin6679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025086710829490445",
+    "in_reply_to_user_id": "1273493669954248707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025065864622674377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin6679 吃技术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2025065864622674377",
+        "created_at": "2026-02-21T05:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025086710829490445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1273493669954248707",
+              "start": 0,
+              "username": "Xin6679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025086710829490445",
+        "in_reply_to_user_id": "1273493669954248707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025065864622674377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin6679 吃技术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1273493669954248707",
+        "conversation_id": "2025065864622674377",
+        "created_at": "2026-02-21T04:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025065864622674377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025065864622674377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 33678,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 88,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有个问题，约炮是吃经济还是吃建模？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）陈述这该死的生活\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 25,
+          "like_count": 2702,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 364
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-18T05:52:17.000Z",
+        "description": "不聊骚，只想做你的心上人🌸",
+        "id": "1273493669954248707",
+        "location": "距离11.2km",
+        "name": "Ｍ",
+        "pinned_tweet_id": "2025065864622674377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011821584462622720/AoKvsWBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5522,
+          "following_count": 6,
+          "like_count": 92,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 267
+        },
+        "username": "Xin6679",
+        "verified": false
+      }
+    ]
+  }
+}

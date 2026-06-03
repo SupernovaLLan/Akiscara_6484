@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045016777223270400",
+        "3_2045016777470746624",
+        "3_2045016778884218881"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2045016782671667230",
+    "created_at": "2026-04-17T05:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045016782671667230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpfBnzSD73",
+          "end": 53,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2045016782671667230/photo/1",
+          "media_key": "3_2045016777223270400",
+          "start": 30,
+          "url": "https://t.co/UpfBnzSD73"
+        },
+        {
+          "display_url": "pic.x.com/UpfBnzSD73",
+          "end": 53,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2045016782671667230/photo/1",
+          "media_key": "3_2045016777470746624",
+          "start": 30,
+          "url": "https://t.co/UpfBnzSD73"
+        },
+        {
+          "display_url": "pic.x.com/UpfBnzSD73",
+          "end": 53,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2045016782671667230/photo/1",
+          "media_key": "3_2045016778884218881",
+          "start": 30,
+          "url": "https://t.co/UpfBnzSD73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045016782671667230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "希望你们也天天开心！你们都是独一无二的宝宝！谢谢你们，喵。 https://t.co/UpfBnzSD73"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2045016777223270400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFb7IYbcAA3no5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 920,
+        "media_key": "3_2045016777470746624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFb7JTboAAWAuZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1173,
+        "media_key": "3_2045016778884218881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFb7OkbgAEA2zi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045016777223270400",
+            "3_2045016777470746624",
+            "3_2045016778884218881"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2045016782671667230",
+        "created_at": "2026-04-17T05:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045016782671667230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpfBnzSD73",
+              "end": 53,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2045016782671667230/photo/1",
+              "media_key": "3_2045016777223270400",
+              "start": 30,
+              "url": "https://t.co/UpfBnzSD73"
+            },
+            {
+              "display_url": "pic.x.com/UpfBnzSD73",
+              "end": 53,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2045016782671667230/photo/1",
+              "media_key": "3_2045016777470746624",
+              "start": 30,
+              "url": "https://t.co/UpfBnzSD73"
+            },
+            {
+              "display_url": "pic.x.com/UpfBnzSD73",
+              "end": 53,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2045016782671667230/photo/1",
+              "media_key": "3_2045016778884218881",
+              "start": 30,
+              "url": "https://t.co/UpfBnzSD73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045016782671667230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们也天天开心！你们都是独一无二的宝宝！谢谢你们，喵。 https://t.co/UpfBnzSD73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（脑子一根筋，会听不懂你们说什么但会冒泡泡）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 107,
+          "like_count": 6666,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1962
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053527752247255401",
+    "created_at": "2026-05-12T14:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054214735219048936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1930628054025691137",
+          "start": 0,
+          "username": "xuanyuzhou1954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054214735219048936",
+    "in_reply_to_user_id": "1930628054025691137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054206849642352916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyuzhou1954 好唉宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-12T14:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054214735219048936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1930628054025691137",
+              "start": 0,
+              "username": "xuanyuzhou1954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054214735219048936",
+        "in_reply_to_user_id": "1930628054025691137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054206849642352916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyuzhou1954 好唉宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930628054025691137",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-12T14:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054206849642352916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054206849642352916",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053527752247255401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 怎么说呢，我现在的高中生活没有你惨，但我总是感觉很无聊呢，我其实想说，如果你想的话，我回家可以和你聊聊天呢☺️，不是你的错，加油笑对生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 143,
+          "like_count": 6921,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3078
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T14:09:39.000Z",
+        "description": "爱鹿观的中国人🇨🇳",
+        "id": "1930628054025691137",
+        "name": "xuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019657158783332352/6KeWCy-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 56,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 62
+        },
+        "username": "xuanyuzhou1954",
+        "verified": false
+      }
+    ]
+  }
+}

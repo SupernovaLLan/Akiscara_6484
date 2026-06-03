@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1965562896903274723",
+    "created_at": "2025-09-17T14:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T15:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968319614309613634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        },
+        {
+          "end": 21,
+          "id": "1895944696545067008",
+          "start": 9,
+          "username": "xxxqq430295"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968319614309613634",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965562896903274723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 @xxxqq430295 为什么❓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1965562888925716480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0cVCJIboAA8Wwe.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1965562896903274723",
+        "created_at": "2025-09-17T14:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968319614309613634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 21,
+              "id": "1895944696545067008",
+              "start": 9,
+              "username": "xxxqq430295"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968319614309613634",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965562896903274723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @xxxqq430295 为什么❓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965562888925716480"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1965562896903274723",
+        "created_at": "2025-09-09T23:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T00:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965562896903274723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZY4X5Wn5o",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1965562896903274723/photo/1",
+              "media_key": "3_1965562888925716480",
+              "start": 0,
+              "url": "https://t.co/dZY4X5Wn5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965562896903274723",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 732516,
+          "like_count": 3945,
+          "quote_count": 16,
+          "reply_count": 73,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dZY4X5Wn5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 12,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 116
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95634,
+          "following_count": 993,
+          "like_count": 44069,
+          "listed_count": 218,
+          "media_count": 15704,
+          "tweet_count": 23021
+        },
+        "username": "hsn8086",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T21:10:24.000Z",
+        "description": "isfj 天秤 小矮人/服务型。 switch/重度恋足 直直直直直直直男。不发牛不发牛，再问直接屏蔽\n什么都发，偶尔发些身材自恋\n服务型，来推纯为了满足我的虚荣心\n不约不聊骚不线下，看情况互关。",
+        "id": "1895944696545067008",
+        "name": "智齿痛",
+        "pinned_tweet_id": "1935017265889689652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927420624000983040/MoXQG0o-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 43,
+          "like_count": 2500,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 1124
+        },
+        "username": "xxxqq430295",
+        "verified": false
+      }
+    ]
+  }
+}

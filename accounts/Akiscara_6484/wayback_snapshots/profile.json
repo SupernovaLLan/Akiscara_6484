@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "username": "@Akiscara_6484",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 59,
+        "start": 45,
+        "username": "Akiscara_3405"
+      }
+    ]
+  }
+}

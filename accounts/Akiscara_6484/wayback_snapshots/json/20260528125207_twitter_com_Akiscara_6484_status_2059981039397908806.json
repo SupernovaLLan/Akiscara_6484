@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2059980573209510108",
+    "created_at": "2026-05-28T12:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059981039397908806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931607185982963712",
+          "start": 0,
+          "username": "Riyomuzan_12529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059981039397908806",
+    "in_reply_to_user_id": "1931607185982963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059980573209510108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riyomuzan_12529 我遭不住了，以后都不表演了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20122,
+        "height": 720,
+        "media_key": "7_2059980443395764224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059980443395764224/pu/img/WBbh0N1rIeTHI1AZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059980443395764224/pu/vid/avc1/480x270/XLC5J6ZUJltKE2ik.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059980443395764224/pu/vid/avc1/640x360/ENTSdSogjzPCz9Cl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059980443395764224/pu/vid/avc1/1280x720/SCWcotlAY0lnmb2Y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059980443395764224/pu/pl/VRZJiSY13ojaSaYv.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2059980573209510108",
+        "created_at": "2026-05-28T12:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059981039397908806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931607185982963712",
+              "start": 0,
+              "username": "Riyomuzan_12529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059981039397908806",
+        "in_reply_to_user_id": "1931607185982963712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059980573209510108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riyomuzan_12529 我遭不住了，以后都不表演了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059980443395764224"
+          ]
+        },
+        "author_id": "1931607185982963712",
+        "conversation_id": "2059980573209510108",
+        "created_at": "2026-05-28T12:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059980573209510108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTqwwWcJkT",
+              "end": 43,
+              "expanded_url": "https://x.com/Riyomuzan_12529/status/2059980573209510108/video/1",
+              "media_key": "7_2059980443395764224",
+              "start": 20,
+              "url": "https://t.co/aTqwwWcJkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059980573209510108",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 癫婆哦… https://t.co/aTqwwWcJkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 165,
+          "like_count": 7037,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 3947
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T07:00:29.000Z",
+        "description": "=霜夜｜18↑ 非二元性别｜@Akiscara_3405转生。在登上大号之前先在这里玩!!｜🚪66（暂时降低）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1931607185982963712",
+        "name": "霜皇帝2.0៹﹆.",
+        "pinned_tweet_id": "2059688424765014419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059687607135866880/4hCqRCMs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 44
+        },
+        "username": "Riyomuzan_12529",
+        "verified": false
+      }
+    ]
+  }
+}

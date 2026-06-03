@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1993514265085710511",
+    "created_at": "2025-12-07T14:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997675078516109563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "732475867922735105",
+          "start": 0,
+          "username": "wodmdkcmf18384"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997675078516109563",
+    "in_reply_to_user_id": "732475867922735105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993514265085710511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wodmdkcmf18384 给你🍭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1993514265085710511",
+        "created_at": "2025-12-07T14:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997675078516109563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "732475867922735105",
+              "start": 0,
+              "username": "wodmdkcmf18384"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997675078516109563",
+        "in_reply_to_user_id": "732475867922735105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993514265085710511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodmdkcmf18384 给你🍭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732475867922735105",
+        "conversation_id": "1993514265085710511",
+        "created_at": "2025-11-26T02:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993514265085710511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993514265085710511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道怎么分享快乐\n我已经被苦水泡透了\n\n我尝起来苦苦的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 21,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 118
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-17T07:40:30.000Z",
+        "description": "❄️",
+        "id": "732475867922735105",
+        "location": "Toronto, Ontario",
+        "name": "Yuki.",
+        "pinned_tweet_id": "1969106306817491338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991003632808886272/rWdJnvqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 225,
+          "like_count": 5486,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 3815
+        },
+        "username": "wodmdkcmf18384",
+        "verified": false
+      }
+    ]
+  }
+}

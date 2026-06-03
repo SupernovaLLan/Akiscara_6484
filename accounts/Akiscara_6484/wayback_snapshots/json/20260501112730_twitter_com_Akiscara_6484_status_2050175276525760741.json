@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2048744170618233164",
+    "created_at": "2026-05-01T11:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050175276525760741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908630026012004353",
+          "start": 0,
+          "username": "Oscxiar_0716"
+        },
+        {
+          "end": 25,
+          "id": "1553610253312307200",
+          "start": 14,
+          "username": "lvlinjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050175276525760741",
+    "in_reply_to_user_id": "1908630026012004353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049791459696705910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscxiar_0716 @lvlinjiang 哈哈哈哈哈哈哈哈我现在知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2048744170618233164",
+        "created_at": "2026-05-01T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050175276525760741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            },
+            {
+              "end": 25,
+              "id": "1553610253312307200",
+              "start": 14,
+              "username": "lvlinjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050175276525760741",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049791459696705910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 @lvlinjiang 哈哈哈哈哈哈哈哈我现在知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908630026012004353",
+        "conversation_id": "2048744170618233164",
+        "created_at": "2026-04-30T10:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049791459696705910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 26,
+              "id": "1553610253312307200",
+              "start": 15,
+              "username": "lvlinjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049791459696705910",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049521816197370007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 @lvlinjiang 一发推下面就有🐔🦆找人约炮 定位万达广场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 111,
+          "like_count": 6735,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2308
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oscxiaremax",
+                "end": 23,
+                "expanded_url": "https://t.me/Oscxiaremax",
+                "start": 0,
+                "url": "https://t.co/ArtAUcmE5i"
+              }
+            ]
+          }
+        },
+        "id": "1908630026012004353",
+        "location": "法兰西第五共和国",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 390,
+          "like_count": 2098,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1161
+        },
+        "url": "https://t.co/ArtAUcmE5i",
+        "username": "Oscxiar_0716",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T05:15:41.000Z",
+        "description": "一般的な運命と痛みの結合体｜防炸小号：@astunya2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "astunya2"
+              }
+            ]
+          }
+        },
+        "id": "1553610253312307200",
+        "name": "卧龙猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025735663551967232/6nR38h99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60594,
+          "following_count": 95,
+          "like_count": 22,
+          "listed_count": 145,
+          "media_count": 232,
+          "tweet_count": 361
+        },
+        "username": "lvlinjiang",
+        "verified": false
+      }
+    ]
+  }
+}

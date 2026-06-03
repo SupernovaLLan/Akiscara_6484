@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045560237843992576",
+        "3_2045560238338928640",
+        "3_2045560238414385153",
+        "3_2045560237961490432"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045560247864201621",
+    "created_at": "2026-04-18T17:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045560247864201621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ey1mZObWDT",
+          "end": 40,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+          "media_key": "3_2045560237843992576",
+          "start": 17,
+          "url": "https://t.co/ey1mZObWDT"
+        },
+        {
+          "display_url": "pic.x.com/ey1mZObWDT",
+          "end": 40,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+          "media_key": "3_2045560238338928640",
+          "start": 17,
+          "url": "https://t.co/ey1mZObWDT"
+        },
+        {
+          "display_url": "pic.x.com/ey1mZObWDT",
+          "end": 40,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+          "media_key": "3_2045560238414385153",
+          "start": 17,
+          "url": "https://t.co/ey1mZObWDT"
+        },
+        {
+          "display_url": "pic.x.com/ey1mZObWDT",
+          "end": 40,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+          "media_key": "3_2045560237961490432",
+          "start": 17,
+          "url": "https://t.co/ey1mZObWDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045560247864201621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "姐姐，在你死后。大家都开始爱你。 https://t.co/ey1mZObWDT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045560237843992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNKMs9a0AAEuQQ.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045560238338928640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNKMuza8AALsu_.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045560238414385153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNKMvFaUAE7X9W.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045560237961490432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNKMtZbsAAJWGN.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045560237843992576",
+            "3_2045560238338928640",
+            "3_2045560238414385153",
+            "3_2045560237961490432"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045560247864201621",
+        "created_at": "2026-04-18T17:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045560247864201621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ey1mZObWDT",
+              "end": 40,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+              "media_key": "3_2045560237843992576",
+              "start": 17,
+              "url": "https://t.co/ey1mZObWDT"
+            },
+            {
+              "display_url": "pic.x.com/ey1mZObWDT",
+              "end": 40,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+              "media_key": "3_2045560238338928640",
+              "start": 17,
+              "url": "https://t.co/ey1mZObWDT"
+            },
+            {
+              "display_url": "pic.x.com/ey1mZObWDT",
+              "end": 40,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+              "media_key": "3_2045560238414385153",
+              "start": 17,
+              "url": "https://t.co/ey1mZObWDT"
+            },
+            {
+              "display_url": "pic.x.com/ey1mZObWDT",
+              "end": 40,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2045560247864201621/photo/1",
+              "media_key": "3_2045560237961490432",
+              "start": 17,
+              "url": "https://t.co/ey1mZObWDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045560247864201621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐，在你死后。大家都开始爱你。 https://t.co/ey1mZObWDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，会听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 109,
+          "like_count": 6734,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2064
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

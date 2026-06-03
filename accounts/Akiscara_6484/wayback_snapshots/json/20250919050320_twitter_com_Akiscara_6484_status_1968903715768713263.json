@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1968699756877603223",
+    "created_at": "2025-09-19T05:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T06:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968903715768713263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817790683627073536",
+          "start": 0,
+          "username": "zhouzhou0417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968903715768713263",
+    "in_reply_to_user_id": "1817790683627073536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968699756877603223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouzhou0417 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1968699756877603223",
+        "created_at": "2025-09-19T05:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T06:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968903715768713263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817790683627073536",
+              "start": 0,
+              "username": "zhouzhou0417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968903715768713263",
+        "in_reply_to_user_id": "1817790683627073536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968699756877603223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouzhou0417 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817790683627073536",
+        "conversation_id": "1968699756877603223",
+        "created_at": "2025-09-18T15:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968699756877603223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968699756877603223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 21791,
+          "like_count": 350,
+          "quote_count": 7,
+          "reply_count": 63,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "小女孩别傻了，男人想跟你上床，跟你有没有魅力没太大关系。真正觉得你有魅力的男人，是心底里喜欢你、珍惜你的那种，他们会愿意为你花钱，哪怕自己再穷，也会想方设法满足你的小愿望，送你喜欢的东西，而不是满脑子只想着占你便宜。一个男人如果只想着和你上床，通常只是解决性需求和图一时的新鲜感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "桑榆非晚，柠月如风",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 12,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 134
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T05:14:41.000Z",
+        "description": "职场上班族/适度放纵自己/胡乱更新日常/无门槛/没点关注别私信/",
+        "id": "1817790683627073536",
+        "location": "距离17.6KM",
+        "name": "周小姐的日常",
+        "pinned_tweet_id": "1968662681889443972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879720093971828736/TH25urfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13793,
+          "following_count": 104,
+          "like_count": 5482,
+          "listed_count": 34,
+          "media_count": 45,
+          "tweet_count": 444
+        },
+        "username": "zhouzhou0417",
+        "verified": false
+      }
+    ]
+  }
+}

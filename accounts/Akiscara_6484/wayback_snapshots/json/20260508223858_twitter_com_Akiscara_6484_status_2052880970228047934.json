@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052880967967379456"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052880970228047934",
+    "created_at": "2026-05-08T22:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052880970228047934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/luJ1lIjKif",
+          "end": 73,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2052880970228047934/photo/1",
+          "media_key": "3_2052880967967379456",
+          "start": 50,
+          "url": "https://t.co/luJ1lIjKif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052880970228047934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拥有经常解离的好处就是，不用嗑药也能达到解离效果。然后尽情发呆听歌！什么事情都跟我没有关系了！！！ https://t.co/luJ1lIjKif"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 515,
+        "media_key": "3_2052880967967379456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1MXR3bEAA44mZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052880967967379456"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052880970228047934",
+        "created_at": "2026-05-08T22:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052880970228047934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luJ1lIjKif",
+              "end": 73,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052880970228047934/photo/1",
+              "media_key": "3_2052880967967379456",
+              "start": 50,
+              "url": "https://t.co/luJ1lIjKif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052880970228047934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拥有经常解离的好处就是，不用嗑药也能达到解离效果。然后尽情发呆听歌！什么事情都跟我没有关系了！！！ https://t.co/luJ1lIjKif"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 131,
+          "like_count": 6860,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 2685
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

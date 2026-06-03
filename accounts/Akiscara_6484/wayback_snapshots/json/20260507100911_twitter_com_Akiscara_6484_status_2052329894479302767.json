@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2051950132351172699",
+    "created_at": "2026-05-07T10:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052329894479302767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1842443903561338880",
+          "start": 0,
+          "username": "A3k938"
+        },
+        {
+          "end": 15,
+          "id": "1571083414358609922",
+          "start": 8,
+          "username": "pb_rdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052329894479302767",
+    "in_reply_to_user_id": "1842443903561338880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052204842463228027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A3k938 @pb_rdd 好的，不是很了解，现在已经去搜过了谢谢。喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2051950132351172699",
+        "created_at": "2026-05-07T10:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052329894479302767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1842443903561338880",
+              "start": 0,
+              "username": "A3k938"
+            },
+            {
+              "end": 15,
+              "id": "1571083414358609922",
+              "start": 8,
+              "username": "pb_rdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052329894479302767",
+        "in_reply_to_user_id": "1842443903561338880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052204842463228027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A3k938 @pb_rdd 好的，不是很了解，现在已经去搜过了谢谢。喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842443903561338880",
+        "conversation_id": "2051950132351172699",
+        "created_at": "2026-05-07T01:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052204842463228027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 22,
+              "id": "1571083414358609922",
+              "start": 15,
+              "username": "pb_rdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052204842463228027",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052022654249640237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 @pb_rdd bbw就是肥胖美女啊…你去搜搜好不好 至少180斤以上吧 偏胖美女才是plump。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 126,
+          "like_count": 6798,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 2492
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T05:57:27.000Z",
+        "description": "日记本 喜欢就投喂我吧💗",
+        "id": "1842443903561338880",
+        "location": "上海",
+        "name": "懒羊羊大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051636939355480064/Ks5eu011_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 49,
+          "like_count": 2889,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 3217
+        },
+        "username": "A3k938",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:27:41.000Z",
+        "description": "♂ loser \n悲观派系\\血腥猎奇\\悲悼伶人\n也许该好好营业一下？",
+        "id": "1571083414358609922",
+        "name": "鲨臂",
+        "pinned_tweet_id": "1599639393983115266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580436056486203392/7ELnkkVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 104,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "username": "pb_rdd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2048798452596031864",
+    "created_at": "2026-04-29T16:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049522989759365120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049522989759365120",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048798452596031864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 那就好好休息，咱们不去管其他的东西了。以自己为中心"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048798452596031864].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048798452596031864",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048798452596031864"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2048798452596031864",
+        "created_at": "2026-04-29T16:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049522989759365120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049522989759365120",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048798452596031864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 那就好好休息，咱们不去管其他的东西了。以自己为中心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 107,
+          "like_count": 6698,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2227
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2048363908189265942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 42,
+          "like_count": 4486,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2150
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

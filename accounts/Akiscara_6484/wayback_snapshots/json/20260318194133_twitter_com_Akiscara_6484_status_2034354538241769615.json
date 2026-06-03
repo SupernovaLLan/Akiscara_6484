@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2034067875456233828",
+    "created_at": "2026-03-18T19:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T20:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034354538241769615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011873376445612032",
+          "start": 0,
+          "username": "MutsumiXiaomu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034354538241769615",
+    "in_reply_to_user_id": "2011873376445612032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034067875456233828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiXiaomu 狗狗是不能吃巧克力🍫的。但是我建议找人领养或者和妹妹沟通。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2034067875456233828",
+        "created_at": "2026-03-18T19:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T20:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034354538241769615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "MutsumiXiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034354538241769615",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034067875456233828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiXiaomu 狗狗是不能吃巧克力🍫的。但是我建议找人领养或者和妹妹沟通。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011873376445612032",
+        "conversation_id": "2034067875456233828",
+        "created_at": "2026-03-18T00:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034067875456233828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034067875456233828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7030,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问有没有什么药可以处决宠物狗?\n窝烦死了啊啊啊，昨晚吃了2t佐匹克隆，好不容易睡下一个小时结果被自家狗吵醒，我竟然在此刻对它有了杀意。这狗是我妹养的不是我养的，我一直讨厌它！！！这次我真的忍不住了，请求药圈可以安静处决我家的狗，还我一个清净，你们想想办法吧，我求求你们了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，双向，自残，od。\n家有男友，家有男友，家有男友。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 50,
+          "like_count": 3872,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 841
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "你好呀 这里小睦丨ODer丨支黑 精日丨BPD 被害妄想丨希望死了就是死了别再有另个世界丨好朋友：@Natsumeann13丨亲爱的OD导师：@tanka_TwT (永远喜欢镜音老师❤️，想要一直陪伴着她，想要和她一起离世)     ☆必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "tanka_TwT"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "location": "为这个世界而祷哀吧",
+        "name": "小支柱清除计划Ver2.0🇯🇵",
+        "pinned_tweet_id": "2033416843646697603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 915,
+          "like_count": 6595,
+          "listed_count": 21,
+          "media_count": 49,
+          "tweet_count": 1320
+        },
+        "username": "MutsumiXiaomu",
+        "verified": false
+      }
+    ]
+  }
+}

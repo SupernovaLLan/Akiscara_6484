@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2040983215293501880",
+    "created_at": "2026-04-08T11:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041848042278814174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1505844117909041152",
+          "start": 0,
+          "username": "GalbraithBoyd"
+        },
+        {
+          "end": 25,
+          "id": "1944718307808206848",
+          "start": 15,
+          "username": "YukinoTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041848042278814174",
+    "in_reply_to_user_id": "1505844117909041152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041822912962044224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GalbraithBoyd @YukinoTxT 我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2040983215293501880",
+        "created_at": "2026-04-08T11:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041848042278814174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1505844117909041152",
+              "start": 0,
+              "username": "GalbraithBoyd"
+            },
+            {
+              "end": 25,
+              "id": "1944718307808206848",
+              "start": 15,
+              "username": "YukinoTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041848042278814174",
+        "in_reply_to_user_id": "1505844117909041152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041822912962044224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GalbraithBoyd @YukinoTxT 我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505844117909041152",
+        "conversation_id": "2040983215293501880",
+        "created_at": "2026-04-08T10:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041822912962044224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944718307808206848",
+              "start": 0,
+              "username": "YukinoTxT"
+            },
+            {
+              "end": 25,
+              "id": "1634143760690057216",
+              "start": 11,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041822912962044224",
+        "in_reply_to_user_id": "1944718307808206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041399341286564238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinoTxT @Akiscara_6484 蘑菇软糖一次吃几颗啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 94,
+          "like_count": 6111,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1498
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T09:50:01.000Z",
+        "description": "",
+        "id": "1505844117909041152",
+        "location": "你附近",
+        "name": "Boyd Galbraith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010317278567612417/hEx8CbMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 876,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "GalbraithBoyd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T11:19:20.000Z",
+        "description": "*^^* 我是小寻/Yukino ❕自残od自毁精神病❕\n🤍🤍唯一的宝贝 @futi999139732🤍🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "futi999139732"
+              }
+            ]
+          }
+        },
+        "id": "1944718307808206848",
+        "name": "好想吃🫐巴菲",
+        "pinned_tweet_id": "1999183040820736078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041186757178494976/zAvzljN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 92,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 641
+        },
+        "username": "YukinoTxT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2053527752247255401",
+    "created_at": "2026-05-10T19:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053551218606415917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1999090419737780224",
+          "start": 0,
+          "username": "jinvyyds1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053551218606415917",
+    "in_reply_to_user_id": "1999090419737780224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053549959912558804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinvyyds1 不用谢我，我觉得相互安慰这没什么的，还有你们老师做的确实不对。而且我认为你的近视也是你老师他们导致的，但不过现在要是不会继续往上涨的话，还算好吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-10T19:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053551218606415917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999090419737780224",
+              "start": 0,
+              "username": "jinvyyds1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053551218606415917",
+        "in_reply_to_user_id": "1999090419737780224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053549959912558804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinvyyds1 不用谢我，我觉得相互安慰这没什么的，还有你们老师做的确实不对。而且我认为你的近视也是你老师他们导致的，但不过现在要是不会继续往上涨的话，还算好吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999090419737780224",
+        "conversation_id": "2053527752247255401",
+        "created_at": "2026-05-10T18:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053549959912558804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053549959912558804",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053547069470802244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 谢谢你，三百多的镜片到现在度数没变过，初中那个班的年级前十都时候没考上高中，把我们俩哼哈二将搞的不想读了回头去毁的他，就因为喜欢吃辣条，天天罚站请家长，触发逆反心理不念了，没法说，私立转公立学校的老师是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 135,
+          "like_count": 6902,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 2909
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T12:14:43.000Z",
+        "description": "",
+        "id": "1999090419737780224",
+        "name": "心本逍遥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999090647622455296/FtHYkRa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 379,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "jinvyyds1",
+        "verified": false
+      }
+    ]
+  }
+}

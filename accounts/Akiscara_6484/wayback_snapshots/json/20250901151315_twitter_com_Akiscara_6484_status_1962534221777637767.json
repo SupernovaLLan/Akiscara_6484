@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962534218673840128",
+        "3_1962534216996200448"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "1962534221777637767",
+    "created_at": "2025-09-01T15:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962534221777637767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYKwNzYWws",
+          "end": 36,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1962534221777637767/photo/1",
+          "media_key": "3_1962534218673840128",
+          "start": 13,
+          "url": "https://t.co/yYKwNzYWws"
+        },
+        {
+          "display_url": "pic.x.com/yYKwNzYWws",
+          "end": 36,
+          "expanded_url": "https://x.com/Akiscara_6484/status/1962534221777637767/photo/1",
+          "media_key": "3_1962534216996200448",
+          "start": 13,
+          "url": "https://t.co/yYKwNzYWws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962534221777637767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🉑接爸爸活 纯绿，半绿。 https://t.co/yYKwNzYWws"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1962534218673840128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxSeVOaYAAuUDL.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1962534216996200448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxSeO-boAAfjaA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962534218673840128",
+            "3_1962534216996200448"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "1962534221777637767",
+        "created_at": "2025-09-01T15:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962534221777637767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYKwNzYWws",
+              "end": 36,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1962534221777637767/photo/1",
+              "media_key": "3_1962534218673840128",
+              "start": 13,
+              "url": "https://t.co/yYKwNzYWws"
+            },
+            {
+              "display_url": "pic.x.com/yYKwNzYWws",
+              "end": 36,
+              "expanded_url": "https://x.com/Akiscara_6484/status/1962534221777637767/photo/1",
+              "media_key": "3_1962534216996200448",
+              "start": 13,
+              "url": "https://t.co/yYKwNzYWws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962534221777637767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🉑接爸爸活 纯绿，半绿。 https://t.co/yYKwNzYWws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "代号",
+        "id": "1634143760690057216",
+        "location": "银河彼岸",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960684786357518336/SjshnZS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

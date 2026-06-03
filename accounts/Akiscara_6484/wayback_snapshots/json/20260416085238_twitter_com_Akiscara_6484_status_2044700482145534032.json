@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2044442269504393652",
+    "created_at": "2026-04-16T08:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044700482145534032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1930513206986080256",
+          "start": 0,
+          "username": "tbzdwyxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044700482145534032",
+    "in_reply_to_user_id": "1930513206986080256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044442269504393652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tbzdwyxs 给你5块钱，你把狗给我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2044442198939480064",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HF9RWRebMAAANDd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HF9RWRebMAAANDd.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2044442269504393652",
+        "created_at": "2026-04-16T08:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044700482145534032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1930513206986080256",
+              "start": 0,
+              "username": "tbzdwyxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044700482145534032",
+        "in_reply_to_user_id": "1930513206986080256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044442269504393652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tbzdwyxs 给你5块钱，你把狗给我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2044442198939480064"
+          ]
+        },
+        "author_id": "1930513206986080256",
+        "conversation_id": "2044442269504393652",
+        "created_at": "2026-04-15T15:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044442269504393652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmmeGDHl3h",
+              "end": 37,
+              "expanded_url": "https://x.com/tbzdwyxs/status/2044442269504393652/photo/1",
+              "media_key": "16_2044442198939480064",
+              "start": 14,
+              "url": "https://t.co/nmmeGDHl3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044442269504393652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五块钱给你摸一次 嘿嘿嘿😈 https://t.co/nmmeGDHl3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 105,
+          "like_count": 6731,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1828
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T06:33:23.000Z",
+        "description": "在澳大利亚半夜分手一个人偷偷喝闷酒，喝多了出门散步被袋鼠打断八根肋骨",
+        "id": "1930513206986080256",
+        "name": "米饭大王",
+        "pinned_tweet_id": "2043972609570677142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044309828684709888/wBqIiD22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 1865,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "tbzdwyxs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T06:33:23.000Z",
+        "description": "在澳大利亚半夜分手一个人偷偷喝闷酒，喝多了出门散步被袋鼠打断八根肋骨",
+        "id": "1930513206986080256",
+        "name": "米饭大王",
+        "pinned_tweet_id": "2043972609570677142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044309828684709888/wBqIiD22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 1865,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "username": "tbzdwyxs",
+        "verified": false
+      }
+    ]
+  }
+}

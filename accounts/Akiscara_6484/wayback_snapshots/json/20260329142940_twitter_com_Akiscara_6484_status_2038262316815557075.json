@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2038260870913077274",
+    "created_at": "2026-03-29T14:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038262316815557075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "26503819",
+          "start": 0,
+          "username": "rei_chaixaaghi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038262316815557075",
+    "in_reply_to_user_id": "26503819",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038261139625181478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rei_chaixaaghi 🤗🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2038260870913077274",
+        "created_at": "2026-03-29T14:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038262316815557075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "26503819",
+              "start": 0,
+              "username": "rei_chaixaaghi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038262316815557075",
+        "in_reply_to_user_id": "26503819",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038261139625181478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rei_chaixaaghi 🤗🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "26503819",
+        "conversation_id": "2038260870913077274",
+        "created_at": "2026-03-29T14:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038261139625181478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038261139625181478",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038260870913077274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 🫂🫂🫂🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥（18↓）\nod/自伤/碎碎念/\n家有男友.\n性骚扰草你妈死全家\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 65,
+          "like_count": 4449,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1052
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-25T14:08:04.000Z",
+        "description": "放松,good vibes, 探索世界☺️ INTP. (languages/语言 🇸🇪🇺🇲🇩🇪🇨🇳🇰🇷🇯🇵🇧🇷🇪🇦🇷🇺🇲🇫🇹🇷）pfp by: @siroko_mk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "siroko_mk"
+              }
+            ]
+          }
+        },
+        "id": "26503819",
+        "location": "서울 어쩌면",
+        "name": "ザげテレス 🦊",
+        "pinned_tweet_id": "1959355921215152276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728920051271553024/U5WThnOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 321,
+          "like_count": 21818,
+          "listed_count": 0,
+          "media_count": 3207,
+          "tweet_count": 12689
+        },
+        "username": "rei_chaixaaghi",
+        "verified": false
+      }
+    ]
+  }
+}

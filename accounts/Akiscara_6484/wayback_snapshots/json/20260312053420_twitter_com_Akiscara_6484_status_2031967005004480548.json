@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2031404389840339032",
+    "created_at": "2026-03-12T05:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031967005004480548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771954948370202624",
+          "start": 0,
+          "username": "sexasmrtaiwan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031967005004480548",
+    "in_reply_to_user_id": "1771954948370202624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031404389840339032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sexasmrtaiwan 姐妹我看得有点心疼你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139328,
+        "height": 1280,
+        "media_key": "7_2031404253961662503",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2031404253961662503/pu/img/7cUtthSB3eVbwidx.jpg",
+        "public_metrics": {
+          "view_count": 811871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031404253961662503/pu/vid/avc1/320x568/wsbyQdJwUeVqPccI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031404253961662503/pu/vid/avc1/480x852/RFI10iOLXOOokYcu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031404253961662503/pu/vid/avc1/720x1280/TU9AMl-JNkaujcAo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2031404253961662503/pu/pl/O69i9X26Y2csaoS4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2031404389840339032",
+        "created_at": "2026-03-12T05:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031967005004480548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771954948370202624",
+              "start": 0,
+              "username": "sexasmrtaiwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031967005004480548",
+        "in_reply_to_user_id": "1771954948370202624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031404389840339032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sexasmrtaiwan 姐妹我看得有点心疼你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2031404253961662503"
+          ]
+        },
+        "author_id": "1771954948370202624",
+        "conversation_id": "2031404389840339032",
+        "created_at": "2026-03-10T16:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031404389840339032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AikB8iqdxw",
+              "end": 157,
+              "expanded_url": "https://x.com/sexasmrtaiwan/status/2031404389840339032/video/1",
+              "media_key": "7_2031404253961662503",
+              "start": 134,
+              "url": "https://t.co/AikB8iqdxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031404389840339032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9155,
+          "impression_count": 169444,
+          "like_count": 17455,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 1754
+        },
+        "reply_settings": "everyone",
+        "text": "3/10（6of6) 3rd Orgasm.\n最後一輪衝刺如同狂風暴雨，極速的抽送將兩人都推向了崩潰邊緣。隨著她第三次痙攣的高潮，男人也在怒吼中徹底噴發。大量精液如泉湧般溢出陰道口，順著她癱軟的股溝四處流淌，連肛門周圍都沾滿了濃郁的彼此腥甜體液，一片狼藉的淫慾氣息。 https://t.co/AikB8iqdxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，双向，自残，od。\n家有男友，家有男友，家有男友。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 40,
+          "like_count": 3652,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 735
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T17:40:32.000Z",
+        "description": "TemporaryFollowerGranted.🔞Adult only. \n紀錄情色生活，拍攝肉慾人生。 \nWarning⚠️ADULT content inside. \nDM&follow welcome.\nTelegraph電報群++需審核\nhttps://t.co/QfecPUYsas",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+XFviAldf3GIzZ…",
+                "end": 147,
+                "expanded_url": "https://t.me/+XFviAldf3GIzZWZl",
+                "start": 124,
+                "url": "https://t.co/QfecPUYsas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+XFviAldf3GIzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+XFviAldf3GIzZWZl",
+                "start": 0,
+                "url": "https://t.co/QfecPUYsas"
+              }
+            ]
+          }
+        },
+        "id": "1771954948370202624",
+        "location": "Sunnyvale, CA",
+        "name": "🔞人妻小語 Madam エッチ.🔞",
+        "pinned_tweet_id": "1921196440346296603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883360315347501056/5xOJ6oLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12174,
+          "following_count": 574,
+          "like_count": 5404,
+          "listed_count": 36,
+          "media_count": 1492,
+          "tweet_count": 3041
+        },
+        "url": "https://t.co/QfecPUYsas",
+        "username": "sexasmrtaiwan",
+        "verified": false
+      }
+    ]
+  }
+}

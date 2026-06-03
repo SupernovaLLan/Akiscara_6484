@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2052438184504811528",
+    "created_at": "2026-05-08T22:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052874450127974796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1976594432855277568",
+          "start": 0,
+          "username": "fifi0219_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052874450127974796",
+    "in_reply_to_user_id": "1976594432855277568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052767538153750681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fifi0219_ 谢谢你呀宝宝。我也希望你快乐。其实推特账号是姐姐的小号啦，她给我玩去了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052438184504811528",
+        "created_at": "2026-05-08T22:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052874450127974796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1976594432855277568",
+              "start": 0,
+              "username": "fifi0219_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052874450127974796",
+        "in_reply_to_user_id": "1976594432855277568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052767538153750681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fifi0219_ 谢谢你呀宝宝。我也希望你快乐。其实推特账号是姐姐的小号啦，她给我玩去了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976594432855277568",
+        "conversation_id": "2052438184504811528",
+        "created_at": "2026-05-08T15:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052767538153750681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052767538153750681",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052438184504811528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 没事儿至少你还会注册推特账号。我相信你一定会很快乐的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 131,
+          "like_count": 6852,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 2633
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T10:24:05.000Z",
+        "description": "喜歡我可以入我的🚪口令紅包52綠色\n推只是用來發牢騷和宣洩情緒，偶爾發發日常",
+        "id": "1976594432855277568",
+        "location": "🚪52",
+        "name": "酱菲菲酱",
+        "pinned_tweet_id": "2048286967063089296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113049029390336/qZGJ5JiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 3,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 235
+        },
+        "username": "fifi0219_",
+        "verified": false
+      }
+    ]
+  }
+}

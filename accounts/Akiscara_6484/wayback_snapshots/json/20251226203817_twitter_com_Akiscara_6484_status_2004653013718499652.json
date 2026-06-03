@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2004653003111100417",
+        "3_2004653005044609024",
+        "3_2004653005111783424",
+        "3_2004653005241810945"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2004653013718499652",
+    "created_at": "2025-12-26T20:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T21:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004653013718499652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDtfpUggWm",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004653013718499652/video/1",
+          "media_key": "7_2004653003111100417",
+          "start": 0,
+          "url": "https://t.co/WDtfpUggWm"
+        },
+        {
+          "display_url": "pic.x.com/WDtfpUggWm",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004653013718499652/video/1",
+          "media_key": "3_2004653005044609024",
+          "start": 0,
+          "url": "https://t.co/WDtfpUggWm"
+        },
+        {
+          "display_url": "pic.x.com/WDtfpUggWm",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004653013718499652/video/1",
+          "media_key": "3_2004653005111783424",
+          "start": 0,
+          "url": "https://t.co/WDtfpUggWm"
+        },
+        {
+          "display_url": "pic.x.com/WDtfpUggWm",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004653013718499652/video/1",
+          "media_key": "3_2004653005241810945",
+          "start": 0,
+          "url": "https://t.co/WDtfpUggWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004653013718499652",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/WDtfpUggWm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004653013718499652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004653013718499652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004653013718499652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3134,
+        "height": 1278,
+        "media_key": "7_2004653003111100417",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004653003111100417/pu/img/jG-NEkI3N5C5KYQh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004653003111100417/pu/vid/avc1/320x702/Rbp8nsN1rT39pMT2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004653003111100417/pu/vid/avc1/480x1054/4f_1neAcV6w50VSV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004653003111100417/pu/vid/avc1/582x1278/MWWKhAx38PDlz4kd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004653003111100417/pu/pl/BTE9rn4utia63_7L.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004653005044609024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9H1SXeacAAjN5N.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2004653005111783424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9H1SXubcAAq_gr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004653005241810945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9H1SYNbgAEqugs.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 25,
+          "like_count": 1981,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 146
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2050291216114467013",
+    "created_at": "2026-05-01T19:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T20:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050292957480403306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1916211045141778434",
+          "start": 0,
+          "username": "Bweipn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050292957480403306",
+    "in_reply_to_user_id": "1916211045141778434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050292747442253947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bweipn 没关系的啦，都是以前了。我现在好好滴。抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2050291216114467013",
+        "created_at": "2026-05-01T19:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050292957480403306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916211045141778434",
+              "start": 0,
+              "username": "Bweipn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050292957480403306",
+        "in_reply_to_user_id": "1916211045141778434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050292747442253947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bweipn 没关系的啦，都是以前了。我现在好好滴。抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916211045141778434",
+        "conversation_id": "2050291216114467013",
+        "created_at": "2026-05-01T19:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050292747442253947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050292747442253947",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050291216114467013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 女孩子还是要擦的喔 不然容易感染"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 116,
+          "like_count": 6749,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2337
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T19:21:40.000Z",
+        "description": "",
+        "id": "1916211045141778434",
+        "location": "10km",
+        "name": "Bwe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049905236047953920/F6TRLgus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 74,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "Bweipn",
+        "verified": false
+      }
+    ]
+  }
+}

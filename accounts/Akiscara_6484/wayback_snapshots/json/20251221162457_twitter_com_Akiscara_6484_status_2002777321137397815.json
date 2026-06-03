@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002777317991653377"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "conversation_id": "2002777321137397815",
+    "created_at": "2025-12-21T16:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002777321137397815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XMW15mvwdR",
+          "end": 130,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2002777321137397815/photo/1",
+          "media_key": "3_2002777317991653377",
+          "start": 107,
+          "url": "https://t.co/XMW15mvwdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002777321137397815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个世界好无聊，我或许得到了所谓的爱。但我撑不住了。我只是一个废物，小说没写完，大海没看见，森林没去过，或许我本该困在这个世界里。我要走了，安心的走，我只担心我唯一的挂念该怎么办。对不起。希望大家天天开心，晚安。 https://t.co/XMW15mvwdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002777317991653377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8tLXAsaIAEexRP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002777317991653377"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2002777321137397815",
+        "created_at": "2025-12-21T16:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002777321137397815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMW15mvwdR",
+              "end": 130,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2002777321137397815/photo/1",
+              "media_key": "3_2002777317991653377",
+              "start": 107,
+              "url": "https://t.co/XMW15mvwdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002777321137397815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界好无聊，我或许得到了所谓的爱。但我撑不住了。我只是一个废物，小说没写完，大海没看见，森林没去过，或许我本该困在这个世界里。我要走了，安心的走，我只担心我唯一的挂念该怎么办。对不起。希望大家天天开心，晚安。 https://t.co/XMW15mvwdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥错把陈醋当成墨，半身苦涩半身酸∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w加q。\n🉑聊天，喜欢萌妹子，友好🤝交流。偶尔出COS❤️\n11年，喜欢潜水看别人发推。属性较为猎奇😅话包子，夜猫子，只回复友好私信。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1636071990959443968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997672120290357248/oMKBFmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 25,
+          "like_count": 1911,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 165
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

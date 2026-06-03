@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "1818690959204663547",
+    "created_at": "2026-05-07T17:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052434954051822078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939254584750522369",
+          "start": 0,
+          "username": "wrac_333"
+        },
+        {
+          "end": 20,
+          "id": "1729421194984624128",
+          "start": 10,
+          "username": "mrctrl666"
+        },
+        {
+          "end": 31,
+          "id": "1756497662692786176",
+          "start": 21,
+          "username": "huali1002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052434954051822078",
+    "in_reply_to_user_id": "1939254584750522369",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052260636294562138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wrac_333 @mrctrl666 @huali1002 👀？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "1818690959204663547",
+        "created_at": "2026-05-07T17:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052434954051822078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939254584750522369",
+              "start": 0,
+              "username": "wrac_333"
+            },
+            {
+              "end": 20,
+              "id": "1729421194984624128",
+              "start": 10,
+              "username": "mrctrl666"
+            },
+            {
+              "end": 31,
+              "id": "1756497662692786176",
+              "start": 21,
+              "username": "huali1002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052434954051822078",
+        "in_reply_to_user_id": "1939254584750522369",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052260636294562138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrac_333 @mrctrl666 @huali1002 👀？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939254584750522369",
+        "conversation_id": "1818690959204663547",
+        "created_at": "2026-05-07T05:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052260636294562138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729421194984624128",
+              "start": 0,
+              "username": "mrctrl666"
+            },
+            {
+              "end": 21,
+              "id": "1756497662692786176",
+              "start": 11,
+              "username": "huali1002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052260636294562138",
+        "in_reply_to_user_id": "1729421194984624128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818834143431819760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrctrl666 @huali1002 导向错误这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 127,
+          "like_count": 6816,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 2526
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T09:28:40.000Z",
+        "description": "互联网乐子人|高强度冲浪|INFP|看客|\n互联网老物——新于旧的界限分割·06\n不键政不od不zc\n镜花水月，醉里梦歌",
+        "id": "1939254584750522369",
+        "name": "悬影流曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939254760860684288/TW3Q4NDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 300,
+          "like_count": 3341,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 1834
+        },
+        "username": "wrac_333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T08:45:33.000Z",
+        "description": "间歇性有组织人类过敏，末日爱好者，异世界爱好者，自由至上，美腿至上",
+        "id": "1729421194984624128",
+        "location": "korla-0996",
+        "name": "Mrctrl666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729742731780435968/7jIZF14B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 80,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "mrctrl666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T01:57:44.000Z",
+        "description": "08年，设定是猫猫。梦想是被杀掉。是一只小肉肉（有主）",
+        "id": "1756497662692786176",
+        "name": "星落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756731747600044033/HjQ8ZDvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 75,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 276
+        },
+        "username": "huali1002",
+        "verified": false
+      }
+    ]
+  }
+}

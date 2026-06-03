@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2016439776472428862",
+    "created_at": "2026-01-28T13:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T14:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016501196950016350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621943298473758720",
+          "start": 0,
+          "username": "Akiscara_3405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016501196950016350",
+    "in_reply_to_user_id": "1621943298473758720",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016497823316123894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_3405 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2016439776472428862",
+        "created_at": "2026-01-28T13:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016501196950016350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621943298473758720",
+              "start": 0,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016501196950016350",
+        "in_reply_to_user_id": "1621943298473758720",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016497823316123894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_3405 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621943298473758720",
+        "conversation_id": "2016439776472428862",
+        "created_at": "2026-01-28T13:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016497823316123894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods.html?ps=…",
+              "end": 38,
+              "expanded_url": "https://mobile.yangkeduo.com/goods.html?ps=xvlwPuRQBR",
+              "start": 15,
+              "unwound_url": "https://mobile.yangkeduo.com/goods.html?goods_id=851920156730&page_from=101&pxq_secret_key=DXUTUJYJ2P57ZNLSIRK5S4NA2D7DVQ654CYRBXFCQ5QFRPH5L64A&_oak_share_snapshot_num=658&_oak_share_detail_id=13157174286&_oak_share_time=1769605509&share_oak_rcto=YWJIdmKbJQ6GuGEYvSQLnHIVCk0Q1FPdM-tshD6pY1bsVpRl6FQxzCaw&share_uin=VTB25SJDJEMC4DHDXHBWRWT3GA_GEXDA&refer_share_id=ff8130bcd1ca4547b597ec47e8068a70&refer_share_uin=VTB25SJDJEMC4DHDXHBWRWT3GA_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+              "url": "https://t.co/BnFRDalEpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016497823316123894",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016483138302779490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 https://t.co/BnFRDalEpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。od已戒（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，家有男友，家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。\n私信不回恶臭发言男。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 25,
+          "like_count": 2393,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 281
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T18:46:43.000Z",
+        "description": "=霜夜。  18↑ 非二元性别｜@cnmdsjdqs小玖非常萌w｜@STULRS永远的老哥｜@sev_cloud我的小宝｜🚪66纯绿｜互关请私信查成分会回。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "cnmdsjdqs"
+              },
+              {
+                "end": 40,
+                "start": 33,
+                "username": "STULRS"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "sev_cloud"
+              }
+            ]
+          }
+        },
+        "id": "1621943298473758720",
+        "location": "无限城",
+        "name": "霜皇帝☁︎☾.‎˖٭",
+        "pinned_tweet_id": "2013597242188538137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016103628105531392/NWSInV2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2542,
+          "following_count": 947,
+          "like_count": 21428,
+          "listed_count": 5,
+          "media_count": 819,
+          "tweet_count": 10063
+        },
+        "username": "Akiscara_3405",
+        "verified": false
+      }
+    ]
+  }
+}

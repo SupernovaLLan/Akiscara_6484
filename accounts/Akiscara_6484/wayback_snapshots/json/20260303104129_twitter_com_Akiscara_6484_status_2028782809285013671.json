@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028782796177915904",
+        "3_2028782796404375552",
+        "3_2028782796614127617",
+        "3_2028782796307902464"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028782809285013671",
+    "created_at": "2026-03-03T10:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028782809285013671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVE4oQXuPp",
+          "end": 50,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+          "media_key": "3_2028782796177915904",
+          "start": 27,
+          "url": "https://t.co/VVE4oQXuPp"
+        },
+        {
+          "display_url": "pic.x.com/VVE4oQXuPp",
+          "end": 50,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+          "media_key": "3_2028782796404375552",
+          "start": 27,
+          "url": "https://t.co/VVE4oQXuPp"
+        },
+        {
+          "display_url": "pic.x.com/VVE4oQXuPp",
+          "end": 50,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+          "media_key": "3_2028782796614127617",
+          "start": 27,
+          "url": "https://t.co/VVE4oQXuPp"
+        },
+        {
+          "display_url": "pic.x.com/VVE4oQXuPp",
+          "end": 50,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+          "media_key": "3_2028782796307902464",
+          "start": 27,
+          "url": "https://t.co/VVE4oQXuPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028782809285013671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我玩真人快打，打不过我对象时，就会线下1V1搏击。 https://t.co/VVE4oQXuPp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2028782796177915904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCevNESbwAAVX7U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2028782796404375552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCevNFIbQAAWE1L.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2028782796614127617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCevNF6b0AEmLBb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2028782796307902464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCevNExbMAAXDoA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028782796177915904",
+            "3_2028782796404375552",
+            "3_2028782796614127617",
+            "3_2028782796307902464"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028782809285013671",
+        "created_at": "2026-03-03T10:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028782809285013671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVE4oQXuPp",
+              "end": 50,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+              "media_key": "3_2028782796177915904",
+              "start": 27,
+              "url": "https://t.co/VVE4oQXuPp"
+            },
+            {
+              "display_url": "pic.x.com/VVE4oQXuPp",
+              "end": 50,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+              "media_key": "3_2028782796404375552",
+              "start": 27,
+              "url": "https://t.co/VVE4oQXuPp"
+            },
+            {
+              "display_url": "pic.x.com/VVE4oQXuPp",
+              "end": 50,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+              "media_key": "3_2028782796614127617",
+              "start": 27,
+              "url": "https://t.co/VVE4oQXuPp"
+            },
+            {
+              "display_url": "pic.x.com/VVE4oQXuPp",
+              "end": 50,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2028782809285013671/photo/1",
+              "media_key": "3_2028782796307902464",
+              "start": 27,
+              "url": "https://t.co/VVE4oQXuPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028782809285013671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我玩真人快打，打不过我对象时，就会线下1V1搏击。 https://t.co/VVE4oQXuPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土，日记∥\n抗抑郁，焦虑，惊恐，自残。od（喜欢抽烟，有外烟的可以联系我～）\n家有男友，家有男友，家有男友。\n喜欢萌妹子，偶尔出cos。\n性骚扰草你妈死全家",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 32,
+          "like_count": 3280,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 546
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

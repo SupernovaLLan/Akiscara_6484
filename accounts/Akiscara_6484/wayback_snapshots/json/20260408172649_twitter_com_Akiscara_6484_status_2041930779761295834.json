@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2041639830132813956",
+    "created_at": "2026-04-08T17:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041930779761295834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902455777501315072",
+          "start": 0,
+          "username": "yujjii155667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041930779761295834",
+    "in_reply_to_user_id": "1902455777501315072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041856397265277303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujjii155667 喔～有道理。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2041639830132813956",
+        "created_at": "2026-04-08T17:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041930779761295834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902455777501315072",
+              "start": 0,
+              "username": "yujjii155667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041930779761295834",
+        "in_reply_to_user_id": "1902455777501315072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041856397265277303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujjii155667 喔～有道理。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902455777501315072",
+        "conversation_id": "2041639830132813956",
+        "created_at": "2026-04-08T12:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041856397265277303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041856397265277303",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041639830132813956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 这种类似同龄人看起来不正常的想法 那些成功人士都有过 他们成功都是后来想明白 思维有框架的人 所以这很正常 \n我们只不过是因为一些原因被迫比成功人士和同龄人早思考可能十几年 没关系 想明白就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 95,
+          "like_count": 6119,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1503
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T20:23:15.000Z",
+        "description": "INTP  | 喜欢自我探索 | 男（生理and心理）| 09 |  not in school",
+        "id": "1902455777501315072",
+        "location": "冰岛",
+        "name": "ZhiQi💫枳齐🚬",
+        "pinned_tweet_id": "2039827194340614481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035681780519546880/ryE-Rb25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 138
+        },
+        "username": "yujjii155667",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2004652538696781824",
+        "3_2004652539778904064",
+        "3_2004652539627909120",
+        "3_2004652539707617280"
+      ]
+    },
+    "author_id": "1634143760690057216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004652553821454693",
+    "created_at": "2025-12-26T20:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T21:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004652553821454693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbPJpw09k5",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004652553821454693/video/1",
+          "media_key": "7_2004652538696781824",
+          "start": 0,
+          "url": "https://t.co/xbPJpw09k5"
+        },
+        {
+          "display_url": "pic.x.com/xbPJpw09k5",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004652553821454693/video/1",
+          "media_key": "3_2004652539778904064",
+          "start": 0,
+          "url": "https://t.co/xbPJpw09k5"
+        },
+        {
+          "display_url": "pic.x.com/xbPJpw09k5",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004652553821454693/video/1",
+          "media_key": "3_2004652539627909120",
+          "start": 0,
+          "url": "https://t.co/xbPJpw09k5"
+        },
+        {
+          "display_url": "pic.x.com/xbPJpw09k5",
+          "end": 23,
+          "expanded_url": "https://x.com/Akiscara_6484/status/2004652553821454693/video/1",
+          "media_key": "3_2004652539707617280",
+          "start": 0,
+          "url": "https://t.co/xbPJpw09k5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004652553821454693",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xbPJpw09k5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004652553821454693].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004652553821454693",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004652553821454693"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3134,
+        "height": 1278,
+        "media_key": "7_2004652538696781824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004652538696781824/pu/img/EqJGAvRKoFxlzc1v.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004652538696781824/pu/vid/avc1/320x702/Yi9iytOFejJTniU5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004652538696781824/pu/vid/avc1/480x1054/7Hx7akuyD5Yf8F8o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004652538696781824/pu/vid/avc1/582x1278/R9PZk-Ym2-o_Da5M.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004652538696781824/pu/pl/LtjT9sfbkNItHJhT.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "height": 1767,
+        "media_key": "3_2004652539778904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9H03SObMAAWmd7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1478,
+        "media_key": "3_2004652539627909120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9H03RqbMAAHyFn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 829,
+        "media_key": "3_2004652539707617280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9H03R9bcAAyiyh.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵喵喵喵喵喵喵喵喵喵喵喵喵∥\n抗抑郁，焦虑，惊恐，自残。目前od还在戒........（喜欢抽烟，有外烟的可以联系我～）\n不是门槛妹，不加w不加q，不回私信。家有男友\n喜欢萌妹子，偶尔出COS❤️\n喜欢潜水看别人发推。😅话包子，夜猫子。",
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004497985238077441/Cjt3r3hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 25,
+          "like_count": 1981,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 143
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}
