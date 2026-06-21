@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634143760690057216",
+    "conversation_id": "2058448348471005249",
+    "created_at": "2026-05-25T17:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058966751132663887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913160251551227904",
+          "start": 0,
+          "username": "ustgr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058966751132663887",
+    "in_reply_to_user_id": "1913160251551227904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058448348471005249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustgr6 底子好吧！而且你这算还原美貌了。好羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058448337557409792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJET21yaUAA53pN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2058448348471005249",
+        "created_at": "2026-05-25T17:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058966751132663887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913160251551227904",
+              "start": 0,
+              "username": "ustgr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058966751132663887",
+        "in_reply_to_user_id": "1913160251551227904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058448348471005249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustgr6 底子好吧！而且你这算还原美貌了。好羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058448337557409792"
+          ]
+        },
+        "author_id": "1913160251551227904",
+        "conversation_id": "2058448348471005249",
+        "created_at": "2026-05-24T07:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058448348471005249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2W5tCywD7S",
+              "end": 39,
+              "expanded_url": "https://x.com/ustgr6/status/2058448348471005249/photo/1",
+              "media_key": "3_2058448337557409792",
+              "start": 16,
+              "url": "https://t.co/2W5tCywD7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058448348471005249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 46272,
+          "like_count": 1502,
+          "quote_count": 0,
+          "reply_count": 230,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是我朋友p图技术最高超的一次 https://t.co/2W5tCywD7S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Ōsaka-shi, Ōsaka, Japan",
+              "geo": {
+                "coordinates": [
+                  135.50218,
+                  34.69374
+                ],
+                "type": "Point"
+              },
+              "locality": "Ōsaka-shi",
+              "region": "Ōsaka"
+            }
+          ]
+        },
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/血腥/m/受虐（喜欢cult片）/（家有男友）注：不接线下，不约炮。@Akiscara_3405姐姐（理解有问题）（碎碎念，勿骚扰，不回恶评辱骂等私信内容）玻璃心（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 159,
+          "like_count": 6939,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 3756
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:19:07.000Z",
+        "description": "惹我的都死了 \n不加v 只和喜欢的互关\n除了简介其他的话都不要信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ineedahug75835",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ineedahug75835",
+                "start": 0,
+                "url": "https://t.co/W0GgiQAFhE"
+              }
+            ]
+          }
+        },
+        "id": "1913160251551227904",
+        "location": "南极",
+        "name": "Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058206641322127360/W4IxR4ZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 635,
+          "like_count": 14697,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/W0GgiQAFhE",
+        "username": "ustgr6",
+        "verified": false
+      }
+    ]
+  }
+}
